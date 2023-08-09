@@ -8,7 +8,7 @@ Enter root's password:
 Anonymous login successful
 Domain=[MYGROUP] OS=[Unix] Server=[Samba 3.6.9-164.el6]
 
-    Sharename       Type      Comment
+	    Sharename       Type      Comment
     ---------       ----      -------
     devops          Printer   samba-server test
     share           Printer   share
@@ -46,7 +46,17 @@ Failed to connect with SMB1 -- no workgroup available
 mount.cifs -o user=stu1,pass=123456 //192.168.221.129/zeke /stu1
 ```
 
-带用户组挂载
+查看id
 ```
-mount -t cifs //192.155.1.93/zeke /mnt/93_smb -ousername=zeke,password=113113,uid=1001
+╰─○ id
+uid=1001(cgl) gid=1001(cgl) 组=1001(cgl),110(ssl-cert),999(docker)
+```
+带id挂载
+```
+mount -t cifs //192.155.1.93/zeke /mnt/93_smb -o username=zeke,password=113113,uid=1001
+```
+
+3. 卸载
+```
+sudo umount /mnt/93_smb
 ```
