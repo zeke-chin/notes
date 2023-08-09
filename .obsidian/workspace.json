@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d469c36ab59a867f",
+        "id": "51fd1eead59e35c6",
         "type": "tabs",
         "children": [
           {
-            "id": "bb563ce67d101fc9",
+            "id": "ea0de83658aaf5c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳docker/安装.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8fb401e1811db12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐳docker/网卡池不足.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e50474a652c627c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐳docker/安装.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳docker/安装.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳docker/安装.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳docker/安装.md"
+                "file": "README.md"
               }
             }
           }
@@ -172,11 +148,11 @@
   },
   "active": "5ca460d3452045c3",
   "lastOpenFiles": [
-    "🐳docker/网卡池不足.md",
-    "🐳docker/安装.md",
-    "🐳docker/alias.md",
+    "🐳Docker/安装.md",
+    "🐳Docker/网卡池不足.md",
+    "🐳Docker/alias.md",
     "README.md",
     "未命名",
-    "🐳docker"
+    "🐳Docker"
   ]
 }
