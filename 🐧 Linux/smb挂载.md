@@ -25,3 +25,23 @@ Domain=[MYGROUP] OS=[Unix] Server=[Samba 3.6.9-164.el6]
     MYGROUP              SAMBA-SERVER
 
 ```
+
+这种smb的 `Sharename` 就是 `zeke
+```
+WARNING: The "syslog" option is deprecated
+Enter WORKGROUP\cgl's password:
+
+	Sharename       Type      Comment
+	---------       ----      -------
+	zeke            Disk
+	IPC$            IPC       IPC Service (Samba Server)
+Reconnecting with SMB1 for workgroup listing.
+protocol negotiation failed: NT_STATUS_INVALID_NETWORK_RESPONSE
+Failed to connect with SMB1 -- no workgroup available
+```
+
+
+2. 挂载
+```
+mount.cifs -o user=stu1,pass=123456 //192.168.221.129/zeke /stu1
+```
