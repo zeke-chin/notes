@@ -1,19 +1,21 @@
 
 - 卸载原有驱动
     
-     sudo apt-get remove --purge nvidia*
+`     sudo apt-get remove --purge nvidia*`
     
 - 禁用nouveau
     
      # 添加黑名单，添加可编辑权限  
-     sudo chmod 666 /etc/modprobe.d/blacklist.conf  
+`     sudo chmod 666 /etc/modprobe.d/blacklist.conf  `
      # 编辑  
      # 进入后添加最后行添加:  
+```
      blacklist nouveau  
      blacklist lbm-nouveau  
      options nouveau modeset=0  
      alias nouveau off  
      alias lbm-nouveau off  
+```
      ​  
      ​  
      sudo vim /etc/modprobe.d/blacklist.conf  
@@ -22,19 +24,28 @@
     
 - 更新启动项
     
+```
      sudo reboot  
      sudo update-initramfs -u  
+```
      # 验证: 在终端输 lsmod | grep nouveau ，若无任何显示说明已禁用
     
 - 关闭图形相关服务
     
+```
      sudo service lightdm stop  
      sudo service docker stop  
      sudo service nvidia-docker stop
+```
     
 - 安装
     
-     sudo ./NVIDIA-Linux-x86_64-510.60.02.run --no-x-check --no-nouveau-check --no-opengl-files  
+```
+     sudo ./NVIDIA-Linux-x86_64-510.60.02.run \
+	     --no-x-check \
+	     --no-nouveau-check \
+	     --no-opengl-files  
+```
      # –no-x-check 不检查x服务  
      # –no-nouveau-check 不检查nouveau  
      # –no-opengl-files 不安装OpenGL文档
