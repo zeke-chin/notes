@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1407623c76f44ec2",
@@ -227,7 +227,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5ca460d3452045c3",
+  "active": "9c54472241e51ab2",
   "lastOpenFiles": [
     "🐧 Linux/软件源/Conda.md",
     "🐧 Linux/smb挂载.md",

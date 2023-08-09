@@ -45,3 +45,8 @@ Failed to connect with SMB1 -- no workgroup available
 ```
 mount.cifs -o user=stu1,pass=123456 //192.168.221.129/zeke /stu1
 ```
+
+带用户组挂载
+```
+mount -t cifs //192.155.1.93/zeke /mnt/93_smb -ousername=zeke,password=113113,uid=1001
+```
