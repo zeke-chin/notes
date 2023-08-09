@@ -40,7 +40,7 @@
 ```
 
 - 安装build依赖
- `apt install gcc`
+ `sudo apt install gcc make -y`
 	
 - 安装
     
