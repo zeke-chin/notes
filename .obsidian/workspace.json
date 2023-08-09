@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
+                "file": "🐳 Docker/安装.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
+                "file": "🐳 Docker/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
+                "file": "🐳 Docker/安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐛BUG!!!!/Triton/Stub process  is not healthy..md"
+                "file": "🐳 Docker/安装.md"
               }
             }
           }
@@ -205,8 +205,8 @@
   },
   "active": "ae4b5b7c7160cf08",
   "lastOpenFiles": [
-    "🐳 Docker/安装.md",
     "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
+    "🐳 Docker/安装.md",
     "未命名",
     "🐛BUG!!!!",
     "🐛BUG!!!!/Triton",
