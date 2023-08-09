@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Docker挂载路径.md",
+                "file": "docker/默认存储位置.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8fb401e1811db12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docker/网卡池不足.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/Docker挂载路径.md",
+                "file": "docker/网卡池不足.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/Docker挂载路径.md",
+                "file": "docker/网卡池不足.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/Docker挂载路径.md"
+                "file": "docker/网卡池不足.md"
               }
             }
           }
@@ -142,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,11 +166,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5ca460d3452045c3",
+  "active": "d8fb401e1811db12",
   "lastOpenFiles": [
     "README.md",
+    "docker/网卡池不足.md",
+    "docker/默认存储位置.md",
     "未命名",
-    "docker/Docker挂载路径.md",
     "docker"
   ]
 }
