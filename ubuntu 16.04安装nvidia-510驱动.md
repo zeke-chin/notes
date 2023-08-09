@@ -25,8 +25,9 @@
 - 更新启动项
     
 ```
-     sudo reboot  
      sudo update-initramfs -u  
+	 后
+     sudo reboot  
 ```
      # 验证: 在终端输 lsmod | grep nouveau ，若无任何显示说明已禁用
     
@@ -37,14 +38,15 @@
      sudo service docker stop  
      sudo service nvidia-docker stop
 ```
-    
+
+- 安装build依赖
+ `apt install gcc`
+	
 - 安装
     
 ```
      sudo ./NVIDIA-Linux-x86_64-510.60.02.run \
-	     --no-x-check \
-	     --no-nouveau-check \
-	     --no-opengl-files  
+	     --no-x-check --no-nouveau-check --no-opengl-files  
 ```
      # –no-x-check 不检查x服务  
      # –no-nouveau-check 不检查nouveau  
