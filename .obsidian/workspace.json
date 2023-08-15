@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
+                "file": "🐍Python/Jupyter lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
+                "file": "🐍Python/Jupyter lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
+                "file": "🐍Python/Jupyter lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐛BUG!!!!/Triton/Stub process  is not healthy..md"
+                "file": "🐍Python/Jupyter lab.md"
               }
             }
           }
@@ -251,8 +251,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5ca460d3452045c3",
+  "active": "efb70ed648608610",
   "lastOpenFiles": [
+    "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
     "🐧 Linux/软件源/Conda.md",
     "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
     "🐧 Linux/smb挂载.md",
@@ -266,7 +267,6 @@
     "🐳 Docker/安装.md",
     "🐧 Linux/软件源",
     "🐍Python",
-    "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
     "🐛BUG!!!!",
     "🐛BUG!!!!/Triton",
     "README.md",
