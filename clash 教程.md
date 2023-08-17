@@ -1,0 +1,22 @@
+docker-compose.yml
+```yaml
+version: '2'
+services:
+  zeke_clash:
+    hostname: zeke_clash
+    container_name: zeke_clash
+    restart: always
+    image: zeke_clash
+    # volumes:
+      # - ./config.yaml:/opt/clash/config.yaml
+    privileged: true
+    ipc: host
+    tty: true
+    ports:
+      - '37890:7890'
+      - '37891:7891'
+      - '39090:9090'
+# alias onc="export https_proxy=http://127.0.0.1:37890 http_proxy=http://127.0.0.1:37890 all_proxy=socks5://127.0.0.1:37890"
+# alias offc"unset https_proxy http_proxy all_proxy"
+
+```
