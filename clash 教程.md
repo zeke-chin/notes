@@ -24,5 +24,30 @@ services:
 
 
 1. 通过clash链接下载clash配置文件，并命名为`config.yaml` 移动至`docker-compose.yml`同级目录
-2. 
+2. 在`config.yaml`中加一行
 
+`external-ui: /opt/clash/ui`
+
+```yaml
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+allow-lan: false
+mode: rule
+log-level: info
+ipv6: false
+external-controller: 0.0.0.0:9090
+##############
+external-ui: /opt/clash/ui
+##############
+clash-for-android:
+  append-system-dns: false
+profile:
+  tracing: true
+experimental:
+  sniff-tls-sni: true
+dns:
+```
+
+3. 启动服务
