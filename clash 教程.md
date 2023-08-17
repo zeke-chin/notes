@@ -6,9 +6,9 @@ services:
     hostname: zeke_clash
     container_name: zeke_clash
     restart: always
-    image: zeke_clash
-    # volumes:
-      # - ./config.yaml:/opt/clash/config.yaml
+    image: registry.cn-shanghai.aliyuncs.com/zekechin/clash
+    volumes:
+      - ./config.yaml:/opt/clash/config.yaml
     privileged: true
     ipc: host
     tty: true
@@ -20,3 +20,7 @@ services:
 # alias offc"unset https_proxy http_proxy all_proxy"
 
 ```
+
+
+
+1. 通过clash链接下载clash配置文件，并命名为config.yaml 移动至
