@@ -23,4 +23,6 @@ services:
 
 
 
-1. 通过clash链接下载clash配置文件，并命名为config.yaml 移动至
+1. 通过clash链接下载clash配置文件，并命名为`config.yaml` 移动至`docker-compose.yml`同级目录
+2. 
+
