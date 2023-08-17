@@ -13,9 +13,9 @@ services:
     ipc: host
     tty: true
     ports:
-      - '37890:7890'
-      - '37891:7891'
-      - '39090:9090'
+      - '37890:7890' # http代理端口
+      - '37891:7891' # socks代理端口
+      - '39090:9090' # web端口
 # alias onc="export https_proxy=http://127.0.0.1:37890 http_proxy=http://127.0.0.1:37890 all_proxy=socks5://127.0.0.1:37890"
 # alias offc"unset https_proxy http_proxy all_proxy"
 
@@ -51,3 +51,6 @@ dns:
 ```
 
 3. 启动服务
+![image-20230817174358407](clash%20%E6%95%99%E7%A8%8B.assets/image-20230817174358407.png)
+
+4. 
