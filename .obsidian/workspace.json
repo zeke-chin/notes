@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clash 教程.md",
+                "file": "🐧 Linux/clash 教程.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clash 教程.md",
+                "file": "🐧 Linux/clash 教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clash 教程.md",
+                "file": "🐧 Linux/clash 教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clash 教程.md"
+                "file": "🐧 Linux/clash 教程.md"
               }
             }
           }
@@ -265,12 +265,13 @@
   },
   "active": "97dabfb1b35f2366",
   "lastOpenFiles": [
+    "🐧 Linux/clash 教程~.md",
     "clash 教程.assets/image-20230817174358407.png",
     "clash 教程.assets",
     "Pasted image 20230817174347.png",
     "clash 教程~.md",
     "🐍Python/Jupyter lab.md",
-    "clash 教程.md",
+    "🐧 Linux/clash 教程.md",
     "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
     "🐧 Linux/软件源/Conda.md",
     "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
