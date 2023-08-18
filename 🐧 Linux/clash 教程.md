@@ -62,4 +62,45 @@ dns:
 	2. 修改全局节点
 		1. ![[Pasted image 20230818100602.png]]
 7. 测试服务
-	1. linux命令行
+	1. linux命令行走代理
+		`export https_proxy=http://127.0.0.1:37890 http_proxy=http://127.0.0.1:37890 all_proxy=socks5://127.0.0.1:37890`
+		自行修改ip及端口
+	2. 使用技巧
+	  如果你使用bash就在bash中加入
+```
+	  alias onc="export https_proxy=http://127.0.0.1:37890 http_proxy=http://127.0.0.1:37890 all_proxy=socks5://127.0.0.1:37890"
+
+	  alias offc"unset https_proxy http_proxy all_proxy"
+```
+		3. 验证
+```
+
+❯ curl -i google.com
+^C
+❯ onc
+❯ curl -i google.com
+HTTP/1.1 301 Moved Permanently
+Content-Length: 219
+Cache-Control: public, max-age=2592000
+Connection: keep-alive
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-JWEwiGpdUYFYi-LBrDGC3w' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 18 Aug 2023 02:08:55 GMT
+Expires: Sun, 17 Sep 2023 02:08:55 GMT
+Keep-Alive: timeout=4
+Location: http://www.google.com/
+Proxy-Connection: keep-alive
+Server: gws
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 0
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>
+
+
+❯ offc
+❯ curl -i google.com
