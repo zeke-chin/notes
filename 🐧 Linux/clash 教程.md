@@ -53,14 +53,12 @@ dns:
 3. 启动服务
 ![image-20230817174358407](clash%20%E6%95%99%E7%A8%8B.assets/image-20230817174358407.png)
 4. 验证服务打开`ip:port(39090)/ui`
-![[Pasted image 20230818100341.png]]
-5. 建议将所以协议代理都从7890走
-![[Pasted image 20230818100420.png]]
-6. 修改节点
-	1. 修改规则模式节点
-		1. ![[Pasted image 20230818100538.png]]
-	2. 修改全局节点
-		1. ![[Pasted image 20230818100602.png]]
+  ![Pasted image 20230818100341](clash%20%E6%95%99%E7%A8%8B.assets/Pasted%20image%2020230818100341.png)建议将所以协议代理都从7890走
+  ![Pasted image 20230818100420](clash%20%E6%95%99%E7%A8%8B.assets/Pasted%20image%2020230818100420.png)修改节点
+  1. 修改规则模式节点
+  	1. ![Pasted image 20230818100538](clash%20%E6%95%99%E7%A8%8B.assets/Pasted%20image%2020230818100538.png)
+  2. 修改全局节点
+  	1. ![Pasted image 20230818100602](clash%20%E6%95%99%E7%A8%8B.assets/Pasted%20image%2020230818100602.png)
 7. 测试服务
 	1. linux命令行走代理
 		`export https_proxy=http://127.0.0.1:37890 http_proxy=http://127.0.0.1:37890 all_proxy=socks5://127.0.0.1:37890`
@@ -77,7 +75,11 @@ dns:
 
 ❯ curl -i google.com
 ^C
+
+
 ❯ onc
+
+
 ❯ curl -i google.com
 HTTP/1.1 301 Moved Permanently
 Content-Length: 219
