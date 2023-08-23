@@ -141,7 +141,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "headscale + Tailscale.md",
+                "file": "🐍Python/Jupyter lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "headscale + Tailscale.md",
+                "file": "🐍Python/Jupyter lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "headscale + Tailscale.md",
+                "file": "🐍Python/Jupyter lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "headscale + Tailscale.md"
+                "file": "🐍Python/Jupyter lab.md"
               }
             }
           }
@@ -277,8 +277,8 @@
   },
   "active": "58a12149c4b7e544",
   "lastOpenFiles": [
-    "docker-compose限制资源.md",
     "headscale + Tailscale.md",
+    "docker-compose限制资源.md",
     "docker-compose限制资源~.md",
     "🐧 Linux/clash 教程.md",
     "🐧 Linux/docker-clash.zip",
