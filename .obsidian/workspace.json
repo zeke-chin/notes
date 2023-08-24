@@ -141,7 +141,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐍Python/Jupyter lab.md",
+                "file": "🐧 Linux/用户添加root.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐍Python/Jupyter lab.md",
+                "file": "🐧 Linux/用户添加root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐍Python/Jupyter lab.md",
+                "file": "🐧 Linux/用户添加root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐍Python/Jupyter lab.md"
+                "file": "🐧 Linux/用户添加root.md"
               }
             }
           }
@@ -277,6 +277,7 @@
   },
   "active": "58a12149c4b7e544",
   "lastOpenFiles": [
+    "🐍Python/Jupyter lab.md",
     "headscale + Tailscale.md",
     "docker-compose限制资源.md",
     "docker-compose限制资源~.md",
@@ -297,7 +298,6 @@
     "🐧 Linux/docker-clash",
     "🐧 Linux/未命名文件夹",
     "🐧 Linux/clash 教程~.md",
-    "🐍Python/Jupyter lab.md",
     "clash 教程.assets/image-20230817174358407.png",
     "🐧 Linux/clash 教程.assets",
     "坑1 UnicodeEncodeError.md",
