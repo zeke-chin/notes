@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
+                "file": "🐍Python/Jupyter lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
+                "file": "🐍Python/Jupyter lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
+                "file": "🐍Python/Jupyter lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md"
+                "file": "🐍Python/Jupyter lab.md"
               }
             }
           }
@@ -289,8 +289,8 @@
   },
   "active": "2177870bfc2ef9ab",
   "lastOpenFiles": [
-    "🐧 Linux/用户添加root.md",
     "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
+    "🐧 Linux/用户添加root.md",
     "🐍Python/Jupyter lab.md",
     "headscale + Tailscale.md",
     "docker-compose限制资源.md",
