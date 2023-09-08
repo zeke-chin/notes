@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/网卡池不足.md",
+                "file": "🍎Macos/耳机没声音.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/网卡池不足.md",
+                "file": "🍎Macos/耳机没声音.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/网卡池不足.md",
+                "file": "🍎Macos/耳机没声音.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/网卡池不足.md"
+                "file": "🍎Macos/耳机没声音.md"
               }
             }
           }
@@ -289,9 +289,10 @@
   },
   "active": "44dd024efc216526",
   "lastOpenFiles": [
+    "🐳 Docker/网卡池不足.md",
     "🐳 Docker/安装.md",
     "🐳 Docker/alias.md",
-    "耳机没声音.md",
+    "🍎Macos/耳机没声音.md",
     "🐧 Linux/用户添加root.md",
     "🍎Macos",
     "🐧 Linux/clash 教程.md",
@@ -328,7 +329,6 @@
     "🐧 Linux/修改主机名.md",
     "🐍Python/Triton",
     "🐧 Linux/smb挂载",
-    "README.md",
-    "🐳 Docker/网卡池不足.md"
+    "README.md"
   ]
 }
