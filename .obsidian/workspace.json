@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "耳机没声音.md",
+                "file": "🐳 Docker/安装.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "耳机没声音.md",
+                "file": "🐳 Docker/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "耳机没声音.md",
+                "file": "🐳 Docker/安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "耳机没声音.md"
+                "file": "🐳 Docker/安装.md"
               }
             }
           }
@@ -287,10 +287,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "44dd024efc216526",
+  "active": "5ca460d3452045c3",
   "lastOpenFiles": [
-    "🐧 Linux/用户添加root.md",
+    "🐳 Docker/alias.md",
     "耳机没声音.md",
+    "🐧 Linux/用户添加root.md",
     "🍎Macos",
     "🐧 Linux/clash 教程.md",
     "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
@@ -328,7 +329,6 @@
     "🐧 Linux/smb挂载",
     "🐳 Docker/安装.md",
     "README.md",
-    "🐳 Docker/alias.md",
     "🐳 Docker/网卡池不足.md"
   ]
 }
