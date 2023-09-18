@@ -168,9 +168,19 @@
                 "currentVersion": "1.4.12"
               }
             }
+          },
+          {
+            "id": "f82b10ede58825fa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -297,7 +307,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0a5b2e59d2fdcb9e",
+  "active": "f82b10ede58825fa",
   "lastOpenFiles": [
     "🍎Macos/耳机没声音.md",
     "🐳 Docker/网卡池不足.md",
