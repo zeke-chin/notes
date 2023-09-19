@@ -173,9 +173,11 @@
             "id": "f82b10ede58825fa",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "🐍Python/Jupyter lab.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -246,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/docker-compose限制资源.md",
+                "file": "🐍Python/Jupyter lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/docker-compose限制资源.md",
+                "file": "🐍Python/Jupyter lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/docker-compose限制资源.md"
+                "file": "🐍Python/Jupyter lab.md"
               }
             }
           }
