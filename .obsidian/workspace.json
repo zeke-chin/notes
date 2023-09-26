@@ -175,7 +175,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐍Python/Jupyter lab.md",
+                "file": "坑1 UnicodeEncodeError.md",
                 "mode": "source",
                 "source": false
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐍Python/Jupyter lab.md",
+                "file": "坑1 UnicodeEncodeError.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐍Python/Jupyter lab.md",
+                "file": "坑1 UnicodeEncodeError.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐍Python/Jupyter lab.md"
+                "file": "坑1 UnicodeEncodeError.md"
               }
             }
           }
@@ -309,8 +309,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f82b10ede58825fa",
+  "active": "5ca460d3452045c3",
   "lastOpenFiles": [
+    "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
+    "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
+    "🐍Python/Jupyter lab.md",
     "🍎Macos/耳机没声音.md",
     "🐳 Docker/网卡池不足.md",
     "🐳 Docker/安装.md",
@@ -320,8 +323,6 @@
     "🐧 Linux/clash 教程.md",
     "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
     "🐧 Linux/smb挂载.md",
-    "🐍Python/Jupyter lab.md",
-    "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
     "headscale + Tailscale.md",
     "🐳 Docker/docker-compose限制资源.md",
     "docker-compose限制资源~.md",
@@ -346,7 +347,6 @@
     "坑1 UnicodeEncodeError.md",
     "clash 教程.assets",
     "clash 教程~.md",
-    "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
     "🐧 Linux/软件源/Conda.md",
     "🐧 Linux/修改主机名.md",
     "🐍Python/Triton",
