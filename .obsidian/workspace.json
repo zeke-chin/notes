@@ -175,14 +175,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "坑1 UnicodeEncodeError.md",
+                "file": "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f15a1fa0a364c3a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -248,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "坑1 UnicodeEncodeError.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "坑1 UnicodeEncodeError.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "坑1 UnicodeEncodeError.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -309,10 +321,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5ca460d3452045c3",
+  "active": "f15a1fa0a364c3a8",
   "lastOpenFiles": [
-    "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
     "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
+    "未命名.md",
+    "坑1 UnicodeEncodeError.md",
+    "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
     "🐍Python/Jupyter lab.md",
     "🍎Macos/耳机没声音.md",
     "🐳 Docker/网卡池不足.md",
@@ -344,7 +358,6 @@
     "🐧 Linux/clash 教程~.md",
     "clash 教程.assets/image-20230817174358407.png",
     "🐧 Linux/clash 教程.assets",
-    "坑1 UnicodeEncodeError.md",
     "clash 教程.assets",
     "clash 教程~.md",
     "🐧 Linux/软件源/Conda.md",
