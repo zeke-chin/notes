@@ -6,4 +6,4 @@ python -m ipykernel install --user --name py38 --display-name "py38"
 ```
 
 
-python -m ipykernel install --user --name roop --display-name "roop"
+python -m ipykernel install --user --name py36_KnowledGPT --display-name "py36_KnowledGPT"
