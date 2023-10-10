@@ -4,209 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "51fd1eead59e35c6",
+        "id": "4d309ec107bb0821",
         "type": "tabs",
         "children": [
           {
-            "id": "ea0de83658aaf5c3",
+            "id": "44d184da4288107b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/安装.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5d6611a67a1bff6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐳 Docker/alias.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f45e84a80f1acdb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "913e79ed3ef799ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐧 Linux/修改主机名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dcb62cb15ad11f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐳 Docker/安装.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae4b5b7c7160cf08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐧 Linux/修改主机名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "520f72f8d782a55b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐧 Linux/软件源/Conda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c54472241e51ab2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐧 Linux/smb挂载.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ea1ab84e5283724",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐍Python/Jupyter lab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efb70ed648608610",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐧 Linux/clash 教程.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdc36896f5ed82af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐳 Docker/docker-compose限制资源.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58a12149c4b7e544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐧 Linux/用户添加root.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44dd024efc216526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐳 Docker/docker-compose限制资源.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a5b2e59d2fdcb9e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
-          },
-          {
-            "id": "f82b10ede58825fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f15a1fa0a364c3a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐍Python/Jupyter lab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe1f70390489639a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "numpy 中np.object_和np.bytes_的区别.md",
+                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "numpy 中np.object_和np.bytes_的区别.md",
+                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "numpy 中np.object_和np.bytes_的区别.md",
+                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "numpy 中np.object_和np.bytes_的区别.md"
+                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md"
               }
             }
           }
@@ -333,25 +146,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fe1f70390489639a",
+  "active": "5ca460d3452045c3",
   "lastOpenFiles": [
-    "🐍Python/Jupyter lab.md",
-    "numpy 中np.object_和np.bytes_的区别.md",
-    "中文不使用unicode编码转义输出.md",
+    "🐧 Linux/smb挂载.md",
+    "🐧 Linux/用户添加root.md",
+    "🐧 Linux/修改主机名.md",
+    "🐧 Linux/clash 教程.assets/Pasted image 20230818100420.png",
+    "🐧 Linux/clash 教程.assets/Pasted image 20230818100341.png",
+    "🐧 Linux/clash 教程.assets/Pasted image 20230818100339.png",
+    "🐧 Linux/clash 教程.assets/image-20230817174358407.png",
     "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
-    "坑1 UnicodeEncodeError.md",
+    "🐍Python/Triton/中文不使用unicode编码转义输出.md",
     "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
-    "🍎Macos/耳机没声音.md",
+    "headscale + Tailscale.md",
+    "🐳 Docker/alias.md",
     "🐳 Docker/网卡池不足.md",
     "🐳 Docker/安装.md",
-    "🐳 Docker/alias.md",
-    "🐧 Linux/用户添加root.md",
-    "🍎Macos",
+    "🐍Python/Triton/坑1 UnicodeEncodeError.md",
+    "🐍Python/Triton/numpy 中np.object_和np.bytes_的区别.md",
+    "🐧 Linux/软件源/Conda.md",
+    "🐍Python/Jupyter lab.md",
     "🐧 Linux/clash 教程.md",
-    "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
-    "🐧 Linux/smb挂载.md",
-    "headscale + Tailscale.md",
     "🐳 Docker/docker-compose限制资源.md",
+    "🍎Macos/耳机没声音.md",
+    "🍎Macos",
+    "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
     "docker-compose限制资源~.md",
     "🐧 Linux/docker-clash.zip",
     "🐧 Linux/docker-clash/clash 教程.assets/Pasted image 20230818100419.png",
@@ -360,21 +179,15 @@
     "🐧 Linux/docker-clash/clash 教程.assets/Pasted image 20230817174347.png",
     "🐧 Linux/docker-clash/clash 教程.assets/Pasted image 20230818100534.png",
     "🐧 Linux/docker-clash/clash 教程.assets/image-20230817174358407.png",
-    "🐧 Linux/docker-clash/clash 教程.assets/Pasted image 20230818100538.png",
-    "🐧 Linux/docker-clash/clash 教程.assets/Pasted image 20230818100339.png",
-    "🐧 Linux/docker-clash/clash 教程.assets/Pasted image 20230818100602.png",
     "🐧 Linux/docker-clash/clash 教程.assets",
     "🐧 Linux/docker-clash/clash 教程.md",
     "🐧 Linux/docker-clash/docker-compose.yml",
     "🐧 Linux/docker-clash",
     "🐧 Linux/未命名文件夹",
     "🐧 Linux/clash 教程~.md",
-    "clash 教程.assets/image-20230817174358407.png",
     "🐧 Linux/clash 教程.assets",
     "clash 教程.assets",
     "clash 教程~.md",
-    "🐧 Linux/软件源/Conda.md",
-    "🐧 Linux/修改主机名.md",
     "🐍Python/Triton",
     "🐧 Linux/smb挂载",
     "README.md"
