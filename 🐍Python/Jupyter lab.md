@@ -8,6 +8,10 @@ python -m ipykernel install --user --name py38 --display-name "py38"
 ```
 jupyter kernelspec list
 ```
-1. 
+3. 卸载内核
+```
+jupyter kernelspec remove kernel_name
+```
 
 python -m ipykernel install --user --name torch --display-name "torch"
+jupyter kernelspec remove torch
