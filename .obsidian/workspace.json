@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐍Python/Triton/numpy 中np.object_和np.bytes_的区别.md",
+                "file": "🐧 Linux/smb挂载.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐍Python/Triton/numpy 中np.object_和np.bytes_的区别.md",
+                "file": "🐧 Linux/smb挂载.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐍Python/Triton/numpy 中np.object_和np.bytes_的区别.md",
+                "file": "🐧 Linux/smb挂载.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐍Python/Triton/numpy 中np.object_和np.bytes_的区别.md"
+                "file": "🐧 Linux/smb挂载.md"
               }
             }
           }
@@ -161,27 +161,29 @@
   },
   "active": "5ca460d3452045c3",
   "lastOpenFiles": [
+    "🐧 Linux/用户添加root.md",
+    "🐧 Linux/clash 教程.assets/Pasted image 20230818100341.png",
+    "🐧 Linux/clash 教程.assets/Pasted image 20230817174347.png",
+    "🐧 Linux/clash 教程.assets/image-20230817174358407.png",
+    "🐧 Linux/软件源/Conda.md",
+    "🐧 Linux/clash 教程.md",
+    "headscale + Tailscale.md",
+    "README.md",
+    "🐍Python/Triton/numpy 中np.object_和np.bytes_的区别.md",
     "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
     "🐍Python/Triton/中文不使用unicode编码转义输出.md",
     "🐳 Docker/docker-compose限制资源.md",
     "🐳 Docker/alias.md",
     "🐳 Docker/网卡池不足.md",
     "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
-    "🐧 Linux/用户添加root.md",
     "🐧 Linux/修改主机名.md",
     "🐍Python/Jupyter lab.md",
     "🐧 Linux/smb挂载.md",
     "🐧 Linux/clash 教程.assets/Pasted image 20230818100420.png",
-    "🐧 Linux/clash 教程.assets/Pasted image 20230818100341.png",
     "🐧 Linux/clash 教程.assets/Pasted image 20230818100339.png",
-    "🐧 Linux/clash 教程.assets/image-20230817174358407.png",
     "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
-    "headscale + Tailscale.md",
     "🐳 Docker/安装.md",
     "🐍Python/Triton/坑1 UnicodeEncodeError.md",
-    "🐍Python/Triton/numpy 中np.object_和np.bytes_的区别.md",
-    "🐧 Linux/软件源/Conda.md",
-    "🐧 Linux/clash 教程.md",
     "🍎Macos/耳机没声音.md",
     "🍎Macos",
     "docker-compose限制资源~.md",
@@ -191,7 +193,6 @@
     "🐧 Linux/docker-clash/clash 教程.assets/Pasted image 20230818100420.png",
     "🐧 Linux/docker-clash/clash 教程.assets/Pasted image 20230817174347.png",
     "🐧 Linux/docker-clash/clash 教程.assets/Pasted image 20230818100534.png",
-    "🐧 Linux/docker-clash/clash 教程.assets/image-20230817174358407.png",
     "🐧 Linux/docker-clash/clash 教程.assets",
     "🐧 Linux/docker-clash/clash 教程.md",
     "🐧 Linux/docker-clash/docker-compose.yml",
@@ -202,7 +203,6 @@
     "clash 教程.assets",
     "clash 教程~.md",
     "🐍Python/Triton",
-    "🐧 Linux/smb挂载",
-    "README.md"
+    "🐧 Linux/smb挂载"
   ]
 }
