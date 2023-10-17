@@ -1,6 +1,6 @@
-1. 
-2. 
-1pooling_mode_cls_token (CLS令牌池化):
+代码：https://github.com/UKPLab/sentence-transformers/blob/master/sentence_transformers/models/Pooling.py
+
+1. pooling_mode_cls_token (CLS令牌池化):
 - 应用场景: 用于那些使用预训练模型（如BERT）的情况，其中CLS令牌被训练为包含整个句子的表示。
 - 优势: CLS令牌是整个句子的聚合表示，能够捕获全局句子信息。
 
