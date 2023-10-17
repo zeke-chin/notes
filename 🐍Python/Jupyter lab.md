@@ -13,5 +13,7 @@ jupyter kernelspec list
 jupyter kernelspec remove kernel_name
 ```
 
-python -m ipykernel install --user --name torch --display-name "torch"
-jupyter kernelspec remove torch
+python -m ipykernel install --user --name py10_milvus --display-name "py10_milvus"
+
+
+jupyter kernelspec remove py38 -y

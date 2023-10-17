@@ -23,9 +23,11 @@
             "id": "d2a35fb1e03b9fa8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "🐍Python/Jupyter lab.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
