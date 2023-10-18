@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐍Python/Triton/triton 请求方式比较.md",
+                "file": "🐍Python/Triton/坑1 UnicodeEncodeError.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐍Python/Triton/triton 请求方式比较.md",
+                "file": "🐍Python/Triton/坑1 UnicodeEncodeError.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐍Python/Triton/triton 请求方式比较.md",
+                "file": "🐍Python/Triton/坑1 UnicodeEncodeError.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐍Python/Triton/triton 请求方式比较.md"
+                "file": "🐍Python/Triton/坑1 UnicodeEncodeError.md"
               }
             }
           }
@@ -185,10 +185,13 @@
   },
   "active": "b562ff696e5ef67b",
   "lastOpenFiles": [
+    "🐍Python/Triton/中文不使用unicode编码转义输出.md",
+    "🐍Python/Triton/triton 请求方式比较.md",
+    "🐍Python/Triton/numpy 中np.object_和np.bytes_的区别.md",
+    "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
     "🐍Python/Triton/img",
-    "🐍Python/Triton/triton 请求方式比较.md",
     "🐍Python/Triton/img/Pasted image 20231018154035.png",
     "🐍Python/Triton/img/Pasted image 20231018153852.png",
     "🐍Python/Triton/img/Pasted image 20231018153841.png",
@@ -205,9 +208,6 @@
     "🐧 Linux/clash 教程.assets/image-20230817174358407.png",
     "🐧 Linux/软件源/Conda.md",
     "🐧 Linux/clash 教程.md",
-    "🐍Python/Triton/numpy 中np.object_和np.bytes_的区别.md",
-    "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
-    "🐍Python/Triton/中文不使用unicode编码转义输出.md",
     "🐳 Docker/docker-compose限制资源.md",
     "🐳 Docker/alias.md",
     "🐳 Docker/网卡池不足.md",
