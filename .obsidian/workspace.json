@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐍Python/Triton/坑1 UnicodeEncodeError.md",
+                "file": "🐍Python/sentence embedding任务中的池化.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐍Python/Triton/坑1 UnicodeEncodeError.md",
+                "file": "🐍Python/sentence embedding任务中的池化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐍Python/Triton/坑1 UnicodeEncodeError.md",
+                "file": "🐍Python/sentence embedding任务中的池化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐍Python/Triton/坑1 UnicodeEncodeError.md"
+                "file": "🐍Python/sentence embedding任务中的池化.md"
               }
             }
           }
@@ -185,6 +185,7 @@
   },
   "active": "b562ff696e5ef67b",
   "lastOpenFiles": [
+    "🐍Python/Triton/坑1 UnicodeEncodeError.md",
     "🐍Python/Triton/中文不使用unicode编码转义输出.md",
     "🐍Python/Triton/triton 请求方式比较.md",
     "🐍Python/Triton/numpy 中np.object_和np.bytes_的区别.md",
@@ -216,7 +217,6 @@
     "🐍Python/Jupyter lab.md",
     "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
     "🐳 Docker/安装.md",
-    "🐍Python/Triton/坑1 UnicodeEncodeError.md",
     "🍎Macos/耳机没声音.md",
     "🍎Macos",
     "docker-compose限制资源~.md",
