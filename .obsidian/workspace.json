@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未使用指定包.md",
+                "file": "🦀Rust/未使用指定包.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未使用指定包.md",
+                "file": "🦀Rust/未使用指定包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未使用指定包.md",
+                "file": "🦀Rust/未使用指定包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未使用指定包.md"
+                "file": "🦀Rust/未使用指定包.md"
               }
             }
           }
@@ -171,10 +171,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3f59ecaf1367dee5",
+  "active": "5ca460d3452045c3",
   "lastOpenFiles": [
     "🐍Python/数据精度.md",
-    "未使用指定包.md",
+    "🦀Rust/未使用指定包.md",
     "🦀Rust",
     "🍎Macos/Mac卡死 彩虹圈.md",
     "🐍Python/Jupyter lab.md",
