@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mac卡死 彩虹圈.md",
+                "file": "🐍Python/数据精度.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mac卡死 彩虹圈.md",
+                "file": "🐍Python/数据精度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mac卡死 彩虹圈.md",
+                "file": "🐍Python/数据精度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mac卡死 彩虹圈.md"
+                "file": "🐍Python/数据精度.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "80f4c27fa882d897",
   "lastOpenFiles": [
+    "🍎Macos/Mac卡死 彩虹圈.md",
     "🐍Python/数据精度.md",
-    "Mac卡死 彩虹圈.md",
     "🐍Python/Jupyter lab.md",
     "🐧 Linux/smb挂载.md",
     "README.md",
