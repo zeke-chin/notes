@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐍Python/数据精度.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐍Python/数据精度.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐍Python/数据精度.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐍Python/数据精度.md"
+                "file": "README.md"
               }
             }
           }
@@ -173,20 +173,29 @@
   },
   "active": "3f59ecaf1367dee5",
   "lastOpenFiles": [
-    "🦀Rust/未使用指定包.md",
-    "🐍Python/数据精度.md",
-    "🦀Rust",
-    "🍎Macos/Mac卡死 彩虹圈.md",
-    "🐍Python/Jupyter lab.md",
-    "🐧 Linux/smb挂载.md",
-    "README.md",
+    "🐳 Docker/docker-compose限制资源.md",
+    "🐳 Docker/alias.md",
+    "🐳 Docker/网卡池不足.md",
+    "🐧 Linux/软件源/Conda.md",
+    "🐧 Linux/修改主机名.md",
+    "🐧 Linux/用户添加root.md",
+    "🐧 Linux/clash 教程.md",
     "🐧 Linux/headscale + Tailscale.md",
-    "🐍Python/sentence embedding任务中的池化.md",
-    "🐍Python/Triton/坑1 UnicodeEncodeError.md",
-    "🐍Python/Triton/中文不使用unicode编码转义输出.md",
+    "🐧 Linux/smb挂载.md",
+    "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
+    "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
     "🐍Python/Triton/triton 请求方式比较.md",
     "🐍Python/Triton/numpy 中np.object_和np.bytes_的区别.md",
     "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
+    "🐍Python/Triton/中文不使用unicode编码转义输出.md",
+    "🐍Python/Triton/坑1 UnicodeEncodeError.md",
+    "🐍Python/sentence embedding任务中的池化.md",
+    "🐍Python/Jupyter lab.md",
+    "🐍Python/数据精度.md",
+    "🦀Rust/未使用指定包.md",
+    "🦀Rust",
+    "🍎Macos/Mac卡死 彩虹圈.md",
+    "README.md",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
     "🐍Python/Triton/img",
@@ -196,18 +205,9 @@
     "🐍Python/Triton/img/Pasted image 20231018153727.png",
     "🐍Python/Triton/img/Pasted image 20231018153716.png",
     "().md",
-    "🐧 Linux/用户添加root.md",
     "🐧 Linux/clash 教程.assets/Pasted image 20230818100341.png",
     "🐧 Linux/clash 教程.assets/Pasted image 20230817174347.png",
     "🐧 Linux/clash 教程.assets/image-20230817174358407.png",
-    "🐧 Linux/软件源/Conda.md",
-    "🐧 Linux/clash 教程.md",
-    "🐳 Docker/docker-compose限制资源.md",
-    "🐳 Docker/alias.md",
-    "🐳 Docker/网卡池不足.md",
-    "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
-    "🐧 Linux/修改主机名.md",
-    "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
     "🐳 Docker/安装.md",
     "🍎Macos/耳机没声音.md",
     "🍎Macos",
