@@ -47,8 +47,12 @@
             "id": "9d88fa2ac8475016",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🐳 Docker/安装.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🐳 Docker/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🐳 Docker/安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🐳 Docker/安装.md"
+              }
             }
           }
         ]
@@ -177,6 +185,9 @@
   },
   "active": "9d88fa2ac8475016",
   "lastOpenFiles": [
+    "🐳 Docker/网卡池不足.md",
+    "🐳 Docker/alias.md",
+    "🐳 Docker/docker-compose限制资源.md",
     "🐍Python/sentence embedding任务中的池化.md",
     "🐍Python/Jupyter lab.md",
     "🐍Python/数据精度.md",
@@ -211,9 +222,6 @@
     "🐧 Linux/clash 教程.assets/image-20230817174358407.png",
     "🐧 Linux/软件源/Conda.md",
     "🐧 Linux/clash 教程.md",
-    "🐳 Docker/docker-compose限制资源.md",
-    "🐳 Docker/alias.md",
-    "🐳 Docker/网卡池不足.md",
     "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
     "🍎Macos",
     "🐧 Linux/docker-clash.zip",
