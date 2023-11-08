@@ -37,26 +37,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐍Python/数据精度.md",
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5ba28bab65be258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "向量数据索引类型.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9d88fa2ac8475016",
+            "id": "5083474ee4bedd64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐧 Linux/ubuntu 16.04安装nvidia驱动.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e72b20ab00321c31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🐧 Linux/用户添加root.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐧 Linux/用户添加root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐧 Linux/用户添加root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/安装.md"
+                "file": "🐧 Linux/用户添加root.md"
               }
             }
           }
@@ -183,30 +207,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9d88fa2ac8475016",
+  "active": "e72b20ab00321c31",
   "lastOpenFiles": [
-    "🐳 Docker/网卡池不足.md",
-    "🐳 Docker/alias.md",
-    "🐳 Docker/docker-compose限制资源.md",
-    "🐍Python/sentence embedding任务中的池化.md",
-    "🐍Python/Jupyter lab.md",
-    "🐍Python/数据精度.md",
-    "🍎Macos/Mac卡死 彩虹圈.md",
-    "🐧 Linux/ssh 走代理.md",
-    "向量数据索引类型.md",
-    "conflict-files-obsidian-git.md",
-    "🍎Macos/耳机没声音.md",
-    "README.md",
-    "🐧 Linux/ubuntu 16.04安装nvidia驱动.md",
-    "🦀Rust/未使用指定包.md",
-    "🦀Rust",
-    "🐧 Linux/smb挂载.md",
-    "🐧 Linux/headscale + Tailscale.md",
-    "🐍Python/Triton/坑1 UnicodeEncodeError.md",
-    "🐍Python/Triton/中文不使用unicode编码转义输出.md",
+    "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
     "🐍Python/Triton/triton 请求方式比较.md",
     "🐍Python/Triton/numpy 中np.object_和np.bytes_的区别.md",
     "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
+    "🐍Python/Triton/中文不使用unicode编码转义输出.md",
+    "🐍Python/Triton/坑1 UnicodeEncodeError.md",
+    "🐍Python/Triton/img/Pasted image 20231018153716.png",
+    "🐍Python/Jupyter lab.md",
+    "🐍Python/sentence embedding任务中的池化.md",
+    "🐍Python/数据精度.md",
+    "🐧 Linux/ssh 走代理.md",
+    "🐧 Linux/ubuntu 16.04安装nvidia驱动.md",
+    "向量数据索引类型.md",
+    "README.md",
+    "🐳 Docker/docker-compose限制资源.md",
+    "🐳 Docker/alias.md",
+    "🐳 Docker/网卡池不足.md",
+    "🐧 Linux/软件源/Conda.md",
+    "🐧 Linux/修改主机名.md",
+    "🐧 Linux/用户添加root.md",
+    "🐧 Linux/clash 教程.md",
+    "🐧 Linux/headscale + Tailscale.md",
+    "🐧 Linux/smb挂载.md",
+    "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
+    "🦀Rust/未使用指定包.md",
+    "🦀Rust",
+    "🍎Macos/Mac卡死 彩虹圈.md",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
     "🐍Python/Triton/img",
@@ -214,15 +243,9 @@
     "🐍Python/Triton/img/Pasted image 20231018153852.png",
     "🐍Python/Triton/img/Pasted image 20231018153841.png",
     "🐍Python/Triton/img/Pasted image 20231018153727.png",
-    "🐍Python/Triton/img/Pasted image 20231018153716.png",
-    "().md",
-    "🐧 Linux/用户添加root.md",
     "🐧 Linux/clash 教程.assets/Pasted image 20230818100341.png",
     "🐧 Linux/clash 教程.assets/Pasted image 20230817174347.png",
     "🐧 Linux/clash 教程.assets/image-20230817174358407.png",
-    "🐧 Linux/软件源/Conda.md",
-    "🐧 Linux/clash 教程.md",
-    "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
     "🍎Macos",
     "🐧 Linux/docker-clash.zip",
     "🐧 Linux/docker-clash/clash 教程.assets",

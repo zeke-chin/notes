@@ -1,3 +1,8 @@
+1. 添加用户
+``` bash
+sudo useradd -m -d /data/cgl cgl
+```
+2. 添加root权限
 `/etc/sudoers`
 ```
 # Cmnd alias specification
