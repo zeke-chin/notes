@@ -1,10 +1,12 @@
 1. 添加用户
 ``` bash
 sudo useradd -m -d /data/cgl cgl
+sudo passwd cgl
 ```
 2. 添加root权限
 `/etc/sudoers`
 ```
+# /etc/sudoers
 # Cmnd alias specification
 
 # User privilege specification
