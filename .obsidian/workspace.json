@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/smb挂载.md",
-                "mode": "source",
+                "file": "向量数据索引类型.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/smb挂载.md",
+                "file": "向量数据索引类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/smb挂载.md",
+                "file": "向量数据索引类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/smb挂载.md"
+                "file": "向量数据索引类型.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "fcbf47f3a427f496",
   "lastOpenFiles": [
-    "🐍Python/数据精度.md",
     "🐍Python/Jupyter lab.md",
+    "🐍Python/sentence embedding任务中的池化.md",
+    "🐧 Linux/smb挂载.md",
+    "🐍Python/数据精度.md",
     "🐧 Linux/修改主机名.md",
     "🐧 Linux/用户添加root.md",
     "🐧 Linux/headscale + Tailscale.md",
     "🐧 Linux/clash 教程.md",
-    "🐧 Linux/smb挂载.md",
     "🐧 Linux/ssh 走代理.md",
     "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
     "🐧 Linux/ubuntu 16.04安装nvidia驱动.md",
@@ -162,7 +163,6 @@
     "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
     "🐍Python/Triton/中文不使用unicode编码转义输出.md",
     "🐍Python/Triton/坑1 UnicodeEncodeError.md",
-    "🐍Python/sentence embedding任务中的池化.md",
     "🐳 Docker/alias.md",
     "🐳 Docker/docker-compose限制资源.md",
     "🦀Rust/未使用指定包.md",
