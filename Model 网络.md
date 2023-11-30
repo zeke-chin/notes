@@ -11,3 +11,5 @@ model_vis.structure_graph()
 ![[Pasted image 20231130135413.png]]
 
 2. 查看onnx输入输出 
+- `pip install onnxexplorer -i https://mirror.baidu.com/pypi/simple`
+- `onnxexp glance -m model.onnx`
