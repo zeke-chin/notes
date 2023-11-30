@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "向量数据索引类型.md",
+                "file": "🐍Python/Jupyter lab.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "向量数据索引类型.md",
+                "file": "🐍Python/Jupyter lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "向量数据索引类型.md",
+                "file": "🐍Python/Jupyter lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "向量数据索引类型.md"
+                "file": "🐍Python/Jupyter lab.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "fcbf47f3a427f496",
   "lastOpenFiles": [
+    "🐍Python/数据精度.md",
     "🐍Python/Jupyter lab.md",
     "🐍Python/sentence embedding任务中的池化.md",
+    "📊数据库",
+    "📊数据库/向量数据索引类型.md",
     "🐧 Linux/smb挂载.md",
-    "🐍Python/数据精度.md",
     "🐧 Linux/修改主机名.md",
     "🐧 Linux/用户添加root.md",
     "🐧 Linux/headscale + Tailscale.md",
@@ -169,12 +171,10 @@
     "🐳 Docker/安装.md",
     "🐳 Docker/网卡池不足.md",
     "🍎Macos/Mac卡死 彩虹圈.md",
-    "向量数据索引类型.md",
     "conflict-files-obsidian-git.md",
     "🍎Macos/耳机没声音.md",
     "README.md",
     "🦀Rust",
-    "🐍Python/Triton/triton 请求方式比较.md",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
     "🐍Python/Triton/img",
@@ -192,7 +192,6 @@
     "🐧 Linux/docker-clash/docker-compose.yml",
     "🐧 Linux/docker-clash",
     "🐧 Linux/未命名文件夹",
-    "🐧 Linux/clash 教程.assets",
-    "clash 教程.assets"
+    "🐧 Linux/clash 教程.assets"
   ]
 }
