@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model 网络.md",
+                "file": "🍎Macos/耳机没声音.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Model 网络.md",
+                "file": "🍎Macos/耳机没声音.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Model 网络.md",
+                "file": "🍎Macos/耳机没声音.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Model 网络.md"
+                "file": "🍎Macos/耳机没声音.md"
               }
             }
           }
@@ -161,9 +161,11 @@
   },
   "active": "a676512bf7c6b9f4",
   "lastOpenFiles": [
+    "🍎Macos/Mac卡死 彩虹圈.md",
+    "🍎Macos/耳机没声音.md",
+    "Model 网络.md",
     "Pasted image 20231130135413.png",
     "🐍Python/Jupyter lab.md",
-    "Model 网络.md",
     "🐍Python/数据精度.md",
     "🐍Python/sentence embedding任务中的池化.md",
     "📊数据库",
@@ -185,9 +187,7 @@
     "🦀Rust/未使用指定包.md",
     "🐳 Docker/安装.md",
     "🐳 Docker/网卡池不足.md",
-    "🍎Macos/Mac卡死 彩虹圈.md",
     "conflict-files-obsidian-git.md",
-    "🍎Macos/耳机没声音.md",
     "🦀Rust",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
@@ -199,7 +199,6 @@
     "🐍Python/Triton/img/Pasted image 20231018153716.png",
     "🐧 Linux/clash 教程.assets/Pasted image 20230818100341.png",
     "🐧 Linux/clash 教程.assets/Pasted image 20230817174347.png",
-    "🐧 Linux/clash 教程.assets/image-20230817174358407.png",
     "🍎Macos",
     "🐧 Linux/docker-clash.zip",
     "🐧 Linux/docker-clash/clash 教程.assets",
