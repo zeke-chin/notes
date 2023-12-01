@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍎Macos/耳机没声音.md",
+                "file": "Model 网络.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍎Macos/耳机没声音.md",
+                "file": "Model 网络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🍎Macos/耳机没声音.md",
+                "file": "Model 网络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🍎Macos/耳机没声音.md"
+                "file": "Model 网络.md"
               }
             }
           }
@@ -162,12 +162,22 @@
   "active": "a676512bf7c6b9f4",
   "lastOpenFiles": [
     "🍎Macos/Mac卡死 彩虹圈.md",
+    "_img",
+    "🐍Python/Triton/img/Pasted image 20231018153841.png",
+    "🐍Python/Triton/img/Pasted image 20231018153716.png",
+    "🐍Python/Triton/img/Pasted image 20231018153710.png",
+    "🐍Python/Triton/坑1 UnicodeEncodeError.md",
+    "🐍Python/Triton/中文不使用unicode编码转义输出.md",
+    "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
+    "🐍Python/Triton/triton 请求方式比较.md",
+    "🐍Python/Triton/numpy 中np.object_和np.bytes_的区别.md",
+    "🐍Python/数据精度.md",
+    "🐍Python/Jupyter lab.md",
+    "🐍Python/sentence embedding任务中的池化.md",
+    "_img/Pasted image 20231130135413.png",
+    "🐳 Docker/docker-compose限制资源.md",
     "🍎Macos/耳机没声音.md",
     "Model 网络.md",
-    "Pasted image 20231130135413.png",
-    "🐍Python/Jupyter lab.md",
-    "🐍Python/数据精度.md",
-    "🐍Python/sentence embedding任务中的池化.md",
     "📊数据库",
     "📊数据库/向量数据索引类型.md",
     "🐧 Linux/smb挂载.md",
@@ -178,25 +188,16 @@
     "🐧 Linux/ssh 走代理.md",
     "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
     "🐧 Linux/ubuntu 16.04安装nvidia驱动.md",
-    "🐍Python/Triton/numpy 中np.object_和np.bytes_的区别.md",
-    "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
-    "🐍Python/Triton/中文不使用unicode编码转义输出.md",
-    "🐍Python/Triton/坑1 UnicodeEncodeError.md",
     "🐳 Docker/alias.md",
-    "🐳 Docker/docker-compose限制资源.md",
     "🦀Rust/未使用指定包.md",
     "🐳 Docker/安装.md",
     "🐳 Docker/网卡池不足.md",
-    "conflict-files-obsidian-git.md",
     "🦀Rust",
-    "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
     "🐍Python/Triton/img",
     "🐍Python/Triton/img/Pasted image 20231018154035.png",
     "🐍Python/Triton/img/Pasted image 20231018153852.png",
-    "🐍Python/Triton/img/Pasted image 20231018153841.png",
     "🐍Python/Triton/img/Pasted image 20231018153727.png",
-    "🐍Python/Triton/img/Pasted image 20231018153716.png",
     "🐧 Linux/clash 教程.assets/Pasted image 20230818100341.png",
     "🐧 Linux/clash 教程.assets/Pasted image 20230817174347.png",
     "🍎Macos",
@@ -204,7 +205,6 @@
     "🐧 Linux/docker-clash/clash 教程.assets",
     "🐧 Linux/docker-clash/docker-compose.yml",
     "🐧 Linux/docker-clash",
-    "🐧 Linux/未命名文件夹",
-    "🐧 Linux/clash 教程.assets"
+    "🐧 Linux/未命名文件夹"
   ]
 }
