@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "06913c42eec60f8e",
+        "id": "d1ff82ca54c9f337",
         "type": "tabs",
         "children": [
           {
-            "id": "1e3125a92f16b566",
+            "id": "c160366d0f20968e",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "_img/Pasted image 20231130135413.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_img/Pasted image 20231130135413.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_img/Pasted image 20231130135413.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_img/Pasted image 20231130135413.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,20 +138,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5ca460d3452045c3",
+  "active": "c160366d0f20968e",
   "lastOpenFiles": [
-    "_img/Pasted image 20231018153852.png",
-    "Model 网络.md",
     "_img/Pasted image 20231130135413.png",
-    "_img/Pasted image 20231018153727.png",
-    "_img/Pasted image 20231018153716.png",
-    "_img/Pasted image 20231018153710.png",
+    "🐍Python/Triton/img/Pasted image 20231018153710.png",
+    "🐍Python/Triton/img/Pasted image 20231018154056.png",
+    "🐍Python/Triton/img",
+    "🐍Python/Triton/img/Pasted image 20231018153852.png",
+    "Model 网络.md",
+    "🐍Python/Triton/img/Pasted image 20231018153727.png",
+    "🐍Python/Triton/img/Pasted image 20231018153716.png",
     "🐍Python/Triton/triton 请求方式比较.md",
     "🐍Python/Triton/numpy 中np.object_和np.bytes_的区别.md",
     "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
     "🐍Python/Triton/坑1 UnicodeEncodeError.md",
     "🐍Python/Triton/中文不使用unicode编码转义输出.md",
-    "_img/Pasted image 20231018154056.png",
     "📊数据库/向量数据索引类型.md",
     "🦀Rust/未使用指定包.md",
     "README.md",
@@ -165,7 +160,7 @@
     "Model 网络~.md",
     "🍎Macos/Mac卡死 彩虹圈.md",
     "_img",
-    "_img/Pasted image 20231018153841.png",
+    "🐍Python/Triton/img/Pasted image 20231018153841.png",
     "🐍Python/数据精度.md",
     "🐍Python/sentence embedding任务中的池化.md",
     "🐳 Docker/docker-compose限制资源.md",
@@ -182,14 +177,13 @@
     "🐳 Docker/alias.md",
     "🦀Rust",
     "🐍Python/Triton/img",
-    "_img/Pasted image 20231018154035.png",
+    "🐍Python/Triton/img/Pasted image 20231018154035.png",
     "🐧 Linux/clash 教程.assets/Pasted image 20230818100341.png",
     "🐧 Linux/clash 教程.assets/Pasted image 20230817174347.png",
     "🍎Macos",
     "🐧 Linux/docker-clash.zip",
     "🐧 Linux/docker-clash/clash 教程.assets",
     "🐧 Linux/docker-clash/docker-compose.yml",
-    "🐧 Linux/docker-clash",
-    "🐧 Linux/未命名文件夹"
+    "🐧 Linux/docker-clash"
   ]
 }
