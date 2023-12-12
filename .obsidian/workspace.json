@@ -11,8 +11,12 @@
             "id": "54ca5c96feeff728",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🍎Macos/Mac卡死 彩虹圈.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🍎Macos/Mac卡死 彩虹圈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🍎Macos/Mac卡死 彩虹圈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🍎Macos/Mac卡死 彩虹圈.md"
+              }
             }
           }
         ]
@@ -140,6 +148,7 @@
   },
   "active": "54ca5c96feeff728",
   "lastOpenFiles": [
+    "🍎Macos/耳机没声音.md",
     "_img/Pasted image 20231130135413.png",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
@@ -164,7 +173,6 @@
     "🐍Python/数据精度.md",
     "🐍Python/sentence embedding任务中的池化.md",
     "🐳 Docker/docker-compose限制资源.md",
-    "🍎Macos/耳机没声音.md",
     "📊数据库",
     "🐧 Linux/smb挂载.md",
     "🐧 Linux/修改主机名.md",
