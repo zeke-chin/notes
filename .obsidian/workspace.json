@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍎Macos/Mac卡死 彩虹圈.md",
+                "file": "🐍Python/sentence embedding任务中的池化.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍎Macos/Mac卡死 彩虹圈.md",
+                "file": "🐍Python/sentence embedding任务中的池化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🍎Macos/Mac卡死 彩虹圈.md",
+                "file": "🐍Python/sentence embedding任务中的池化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🍎Macos/Mac卡死 彩虹圈.md"
+                "file": "🐍Python/sentence embedding任务中的池化.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "54ca5c96feeff728",
   "lastOpenFiles": [
+    "📊数据库/向量数据索引类型.md",
+    "🍎Macos/Mac卡死 彩虹圈.md",
     "🍎Macos/耳机没声音.md",
     "_img/Pasted image 20231130135413.png",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
@@ -162,12 +164,10 @@
     "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
     "🐍Python/Triton/坑1 UnicodeEncodeError.md",
     "🐍Python/Triton/中文不使用unicode编码转义输出.md",
-    "📊数据库/向量数据索引类型.md",
     "🦀Rust/未使用指定包.md",
     "README.md",
     "🐍Python/Jupyter lab.md",
     "Model 网络~.md",
-    "🍎Macos/Mac卡死 彩虹圈.md",
     "_img",
     "🐍Python/Triton/img/Pasted image 20231018153841.png",
     "🐍Python/数据精度.md",
