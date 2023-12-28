@@ -74,3 +74,14 @@
 - [https://www.notion.so/ubuntu-16-04-nvidia-510-2f761714d33e4efa941d6c4533a889c9#c8d10ccfa2ed4c1b8e9afe172144007f](https://www.notion.so/ubuntu-16-04-nvidia-510-2f761714d33e4efa941d6c4533a889c9#c8d10ccfa2ed4c1b8e9afe172144007f)
     
 - [https://blog.csdn.net/qq_46350148/article/details/108650556](https://blog.csdn.net/qq_46350148/article/details/108650556)
+
+
+# 卸载
+
+```
+  If you plan to no longer use the NVIDIA driver, you should make sure that no X screens are configured to use the NVIDIA X driver in your X configuration file. If you used nvidia-xconfig to configure X, it may have created a backup of your original configuration. Would
+  you like to run `nvidia-xconfig --restore-original-backup` to attempt restoration of the original X configuration file?
+
+
+NO
+```
