@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/网卡池不足.md",
+                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/网卡池不足.md",
+                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/网卡池不足.md",
+                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/网卡池不足.md"
+                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "54ca5c96feeff728",
   "lastOpenFiles": [
+    "🐧 Linux/ssh 走代理.md",
+    "🐧 Linux/ubuntu 16.04安装nvidia驱动.md",
+    "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
+    "🐳 Docker/网卡池不足.md",
     "🐍Python/sentence embedding任务中的池化.md",
     "📊数据库/向量数据索引类型.md",
     "🍎Macos/Mac卡死 彩虹圈.md",
@@ -179,9 +183,6 @@
     "🐧 Linux/用户添加root.md",
     "🐧 Linux/headscale + Tailscale.md",
     "🐧 Linux/clash 教程.md",
-    "🐧 Linux/ssh 走代理.md",
-    "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
-    "🐧 Linux/ubuntu 16.04安装nvidia驱动.md",
     "🐳 Docker/alias.md",
     "🦀Rust",
     "🐍Python/Triton/img",
