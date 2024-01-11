@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍎Macos/耳机没声音.md",
+                "file": "🐍Python/Jupyter lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍎Macos/耳机没声音.md",
+                "file": "🐍Python/Jupyter lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🍎Macos/耳机没声音.md",
+                "file": "🐍Python/Jupyter lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🍎Macos/耳机没声音.md"
+                "file": "🐍Python/Jupyter lab.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "54ca5c96feeff728",
+  "active": "5ca460d3452045c3",
   "lastOpenFiles": [
+    "🍎Macos/耳机没声音.md",
     "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
     "🐧 Linux/ssh 走代理.md",
     "🐧 Linux/ubuntu 16.04安装nvidia驱动.md",
@@ -155,7 +156,6 @@
     "🐍Python/sentence embedding任务中的池化.md",
     "📊数据库/向量数据索引类型.md",
     "🍎Macos/Mac卡死 彩虹圈.md",
-    "🍎Macos/耳机没声音.md",
     "_img/Pasted image 20231130135413.png",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
