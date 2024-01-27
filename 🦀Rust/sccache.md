@@ -5,5 +5,11 @@ mv sccache /usr/bin
 ```
 2. 配置S3
 ```
-zs
+export RUSTC_WRAPPER=/usr/local/bin/sccache
+export AWS_ACCESS_KEY_ID=FFVAYWLfxSubfTcfjUns
+export AWS_SECRET_ACCESS_KEY=MgD4NOBWvZTjPcsLnwGhZchhnY7oULQRgZbIpAjo
+export SCCACHE_BUCKET=cache
+export SCCACHE_ENDPOINT=https://minio-api.haihuman.com
+export SCCACHE_S3_USE_SSL=true
+export SCCACHE_REGION=auto
 ```

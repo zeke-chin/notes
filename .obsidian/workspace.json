@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🦀Rust/sccache.md",
+                "file": "🦀Rust/openssl linux-musl 编译报错.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦀Rust/sccache.md",
+                "file": "🦀Rust/openssl linux-musl 编译报错.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🦀Rust/sccache.md",
+                "file": "🦀Rust/openssl linux-musl 编译报错.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦀Rust/sccache.md"
+                "file": "🦀Rust/openssl linux-musl 编译报错.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "54ca5c96feeff728",
   "lastOpenFiles": [
-    "🦀Rust/未使用指定包.md",
     "🦀Rust/sccache.md",
+    "🦀Rust/openssl linux-musl 编译报错.md",
+    "🦀Rust/未使用指定包.md",
     "🐧 Linux/软件源/Conda.md",
     "🐧 Linux/用户添加root.md",
     "🐳 Docker/安装.md",
@@ -180,7 +181,6 @@
     "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
     "🐍Python/Triton/坑1 UnicodeEncodeError.md",
     "🐍Python/Triton/中文不使用unicode编码转义输出.md",
-    "Model 网络~.md",
     "_img",
     "🐍Python/Triton/img/Pasted image 20231018153841.png",
     "📊数据库",
