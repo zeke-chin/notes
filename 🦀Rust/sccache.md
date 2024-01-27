@@ -2,4 +2,4 @@
 ```shell
 cargo install sccache --locked
 ```
-2. 
+2. 配置S3
