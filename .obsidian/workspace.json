@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/软件源/Conda.md",
+                "file": "🦀Rust/sccache.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/软件源/Conda.md",
+                "file": "🦀Rust/sccache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/软件源/Conda.md",
+                "file": "🦀Rust/sccache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/软件源/Conda.md"
+                "file": "🦀Rust/sccache.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "54ca5c96feeff728",
   "lastOpenFiles": [
+    "🦀Rust/未使用指定包.md",
+    "🦀Rust/sccache.md",
+    "🐧 Linux/软件源/Conda.md",
     "🐧 Linux/用户添加root.md",
     "🐳 Docker/安装.md",
     "🐳 Docker/网卡池不足.md",
     "🐧 Linux/修改主机名.md",
     "📊数据库/向量数据索引类型.md",
-    "🐧 Linux/软件源/Conda.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🍎Macos/Mac卡死 彩虹圈.md",
     "🍎Macos/耳机没声音.md",
@@ -178,11 +180,9 @@
     "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
     "🐍Python/Triton/坑1 UnicodeEncodeError.md",
     "🐍Python/Triton/中文不使用unicode编码转义输出.md",
-    "🦀Rust/未使用指定包.md",
     "Model 网络~.md",
     "_img",
     "🐍Python/Triton/img/Pasted image 20231018153841.png",
-    "🐍Python/数据精度.md",
     "📊数据库",
     "🦀Rust",
     "🐍Python/Triton/img",
