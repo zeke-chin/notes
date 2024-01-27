@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/修改主机名.md",
+                "file": "🐳 Docker/安装.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/修改主机名.md",
+                "file": "🐳 Docker/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/修改主机名.md",
+                "file": "🐳 Docker/安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/修改主机名.md"
+                "file": "🐳 Docker/安装.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "54ca5c96feeff728",
   "lastOpenFiles": [
+    "🐳 Docker/网卡池不足.md",
+    "🐧 Linux/修改主机名.md",
     "📊数据库/向量数据索引类型.md",
     "🐧 Linux/软件源/Conda.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
@@ -155,7 +157,6 @@
     "🍎Macos/耳机没声音.md",
     "🐍Python/sentence embedding任务中的池化.md",
     "🐍Python/Jupyter lab.md",
-    "🐳 Docker/网卡池不足.md",
     "🐳 Docker/alias.md",
     "🐳 Docker/docker-compose限制资源.md",
     "🐳 Docker/安装.md",
@@ -183,7 +184,6 @@
     "🐍Python/数据精度.md",
     "📊数据库",
     "🐧 Linux/smb挂载.md",
-    "🐧 Linux/修改主机名.md",
     "🦀Rust",
     "🐍Python/Triton/img",
     "🐍Python/Triton/img/Pasted image 20231018154035.png",
