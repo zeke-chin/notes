@@ -4,3 +4,6 @@
 mv sccache /usr/bin
 ```
 2. 配置S3
+```
+zs
+```
