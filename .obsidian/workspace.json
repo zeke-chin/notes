@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
+                "file": "🐧 Linux/软件源/Conda.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
+                "file": "🐧 Linux/软件源/Conda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
+                "file": "🐧 Linux/软件源/Conda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md"
+                "file": "🐧 Linux/软件源/Conda.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "54ca5c96feeff728",
   "lastOpenFiles": [
+    "🐍Python/sentence embedding任务中的池化.md",
+    "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
     "🐳 Docker/安装.md",
     "🐳 Docker/docker-compose限制资源.md",
     "🐧 Linux/修改主机名.md",
     "🐳 Docker/网卡池不足.md",
     "🐳 Docker/alias.md",
-    "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
     "🐧 Linux/ubuntu 16.04安装nvidia驱动.md",
     "🐧 Linux/sd.md",
     "🦀Rust/openssl linux-musl 编译报错.md",
@@ -165,7 +166,6 @@
     "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🍎Macos/Mac卡死 彩虹圈.md",
     "🍎Macos/耳机没声音.md",
-    "🐍Python/sentence embedding任务中的池化.md",
     "🐍Python/Jupyter lab.md",
     "Model 网络.md",
     "README.md",
