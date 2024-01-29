@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/安装.md"
+                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "54ca5c96feeff728",
   "lastOpenFiles": [
+    "🐳 Docker/安装.md",
     "🐳 Docker/docker-compose限制资源.md",
     "🐧 Linux/修改主机名.md",
-    "🐳 Docker/安装.md",
     "🐳 Docker/网卡池不足.md",
     "🐳 Docker/alias.md",
     "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
