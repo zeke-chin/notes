@@ -1,7 +1,7 @@
 
 - 卸载原有驱动
     
-`     sudo apt-get remove --purge nvidia*`
+`     ./NVIDIA-Linux-x86_64-510.60.02.run --uninstall
     
 - 禁用nouveau
     
