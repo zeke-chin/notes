@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🦀Rust/sccache.md",
+                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦀Rust/sccache.md",
+                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🦀Rust/sccache.md",
+                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦀Rust/sccache.md"
+                "file": "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5ca460d3452045c3",
+  "active": "54ca5c96feeff728",
   "lastOpenFiles": [
+    "🦀Rust/sccache.md",
     "🦀Rust/openssl linux-musl 编译报错.md",
     "🦀Rust/未使用指定包.md",
     "🐧 Linux/软件源/Conda.md",
@@ -160,7 +161,6 @@
     "🐳 Docker/alias.md",
     "🐧 Linux/ubuntu 16.04安装nvidia驱动.md",
     "🐧 Linux/sd.md",
-    "🦀Rust/sccache.md",
     "🐧 Linux/用户添加root.md",
     "📊数据库/向量数据索引类型.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
