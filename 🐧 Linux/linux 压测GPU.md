@@ -23,3 +23,6 @@ https://github.com/OguzPastirmaci/gpu-burn
 **示例：**
 
 `gpu_burn -d 3600` 这会使用双精度浮点数进行计算，并运行 3600 秒。
+
+3. GPU计算能力
+`nvidia-smi --query-gpu=compute_cap --format=csv`
