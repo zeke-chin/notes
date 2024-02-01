@@ -1,4 +1,4 @@
-1. https://github.com/OguzPastirmaci/gpu-burn
+1. https://github.com/wilicc/gpu-burn
 
 
 https://github.com/OguzPastirmaci/gpu-burn
