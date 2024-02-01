@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/linux 压测GPU.md",
+                "file": "🐳 Docker/安装.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/linux 压测GPU.md",
+                "file": "🐳 Docker/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/linux 压测GPU.md",
+                "file": "🐳 Docker/安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/linux 压测GPU.md"
+                "file": "🐳 Docker/安装.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "54ca5c96feeff728",
   "lastOpenFiles": [
-    "🦀Rust/sccache.md",
+    "🐳 Docker/alias.md",
+    "🐳 Docker/网卡池不足.md",
+    "🐳 Docker/docker-compose限制资源.md",
     "🐧 Linux/linux 压测GPU.md",
+    "🦀Rust/sccache.md",
     "🐧 Linux/ubuntu 16.04安装nvidia驱动.md",
     "🐧 Linux/ubuntu 16.04安装nvidia-510驱动.md",
     "🦀Rust/openssl linux-musl 编译报错.md",
@@ -157,10 +160,7 @@
     "🐧 Linux/软件源/Conda.md",
     "🐍Python/sentence embedding任务中的池化.md",
     "🐳 Docker/安装.md",
-    "🐳 Docker/docker-compose限制资源.md",
     "🐧 Linux/修改主机名.md",
-    "🐳 Docker/网卡池不足.md",
-    "🐳 Docker/alias.md",
     "🐧 Linux/sd.md",
     "🐧 Linux/用户添加root.md",
     "📊数据库/向量数据索引类型.md",
