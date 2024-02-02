@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/headscale + Tailscale.md",
+                "file": "🐧 Linux/linux 压测GPU.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/headscale + Tailscale.md",
+                "file": "🐧 Linux/linux 压测GPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/headscale + Tailscale.md",
+                "file": "🐧 Linux/linux 压测GPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/headscale + Tailscale.md"
+                "file": "🐧 Linux/linux 压测GPU.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "54ca5c96feeff728",
   "lastOpenFiles": [
+    "🐧 Linux/headscale + Tailscale.md",
     "🐧 Linux/linux 压测GPU.md",
     "🐳 Docker/docker-compose限制资源.md",
     "🐳 Docker/安装.md",
@@ -180,7 +181,6 @@
     "🐍Python/Triton/img/Pasted image 20231018153716.png",
     "🐍Python/Triton/triton 请求方式比较.md",
     "🐍Python/Triton/numpy 中np.object_和np.bytes_的区别.md",
-    "🐍Python/Triton/GPU devices do not match checkpoint - Remove checkpoint file and rerun profile.md",
     "_img",
     "🐍Python/Triton/img/Pasted image 20231018153841.png",
     "📊数据库",
