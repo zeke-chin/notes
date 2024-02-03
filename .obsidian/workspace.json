@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/linux 压测GPU.md",
+                "file": "🐧 Linux/软件源/Conda.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "conda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/linux 压测GPU.md",
+                "file": "🐧 Linux/软件源/Conda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/linux 压测GPU.md",
+                "file": "🐧 Linux/软件源/Conda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/linux 压测GPU.md"
+                "file": "🐧 Linux/软件源/Conda.md"
               }
             }
           }
@@ -148,8 +149,8 @@
   },
   "active": "54ca5c96feeff728",
   "lastOpenFiles": [
-    "🐧 Linux/headscale + Tailscale.md",
     "🐧 Linux/linux 压测GPU.md",
+    "🐧 Linux/headscale + Tailscale.md",
     "🐳 Docker/docker-compose限制资源.md",
     "🐳 Docker/安装.md",
     "🐳 Docker/alias.md",
