@@ -3,6 +3,9 @@
 ```bash
 ./NVIDIA-Linux-x86_64-510.60.02.run --uninstall
 sudo apt-get remove --purge nvidia*    
+    sudo vim /etc/modprobe.d/blacklist.conf  
+    # 恢复权限  
+    sudo chmod 644 /etc/modprobe.d/blacklist.conf
 ```
 
 2. ## 禁用nouveau
@@ -11,9 +14,8 @@ sudo apt-get remove --purge nvidia*   
 
 `sudo chmod 666 /etc/modprobe.d/blacklist.conf`
 
-- 编辑`/etc/modprobe.d/blacklist.conf`
-
-# 进入后添加最后行添加:
+- 编辑`sudo vim /etc/modprobe.d/blacklist.conf  `
+  - 进入后添加最后行添加:
 
 ```
      blacklist nouveau  
@@ -22,14 +24,11 @@ sudo apt-get remove --purge nvidia*   
      alias nouveau off  
      alias lbm-nouveau off  
 ```
-     ​  
-     ​  
-     sudo vim /etc/modprobe.d/blacklist.conf  
-     # 恢复权限  
-     sudo chmod 644 /etc/modprobe.d/blacklist.conf
 
-- 更新启动项
-  
+  - 恢复权限:`sudo chmod 644 /etc/modprobe.d/blacklist.conf`
+
+3. ## 更新启动项
+
 ```
      sudo update-initramfs -u  
 	 后
@@ -37,8 +36,8 @@ sudo apt-get remove --purge nvidia*   
 ```
      # 验证: 在终端输 lsmod | grep nouveau ，若无任何显示说明已禁用
 
-- 关闭图形相关服务
-  
+4. ## 关闭图形相关服务
+
 ```
      sudo service lightdm stop  
      sudo service docker stop  
@@ -51,8 +50,8 @@ sudo apt-get remove --purge nvidia*   
 - 安装
   
 ```
-     sudo ./NVIDIA-Linux-x86_64-510.60.02.run \
-	     --no-x-check --no-nouveau-check --no-opengl-files  
+sudo ./NVIDIA-Linux-x86_64-510.60.02.run \
+	--no-x-check --no-nouveau-check --no-opengl-files  
 ```
      # –no-x-check 不检查x服务  
      # –no-nouveau-check 不检查nouveau  
@@ -68,11 +67,11 @@ sudo apt-get remove --purge nvidia*   
     > 
     > Would you like to run the nvidia-xconfigutility to automatically update your x configuration so that the NVIDIA x driver will be used when you restart x? Any pre-existing x confile will be backed up. 選擇 Yes 繼續
 
-- 重启相关服务
-  
-     sudo service lightdm start  
-         sudo service docker start  
-         sudo service nvidia-docker start
+5. ##重启相关服务
+
+sudo service lightdm start  
+    sudo service docker start  
+    sudo service nvidia-docker start
 
 
 ## 参考文档
@@ -91,3 +90,6 @@ sudo apt-get remove --purge nvidia*   
 
 NO
 ```
+
+
+
