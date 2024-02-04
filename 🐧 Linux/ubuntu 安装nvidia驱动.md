@@ -87,13 +87,32 @@ NO
 
 # 品牌机装驱动(华硕整机)
 
-1. 显示可用的驱动
-2. apt install 安装推荐(recommended)版本
+1. 显示可用的驱动`
+```
+# ubuntu-drivers devices
+
+== /sys/devices/pci0000:00/0000:00:03.1/0000:1c:00.0 ==
+modalias : pci:v000010DEd00001C03sv00003842sd00006161bc03sc00i00
+vendor   : NVIDIA Corporation
+model    : GP106 [GeForce GTX 1060 6GB]
+driver   : nvidia-driver-435 - distro non-free
+driver   : nvidia-driver-440-server - distro non-free
+driver   : nvidia-driver-455 - third-party free recommended
+driver   : nvidia-driver-418-server - distro non-free
+driver   : nvidia-driver-450-server - distro non-free
+driver   : nvidia-driver-390 - distro non-free
+driver   : nvidia-driver-450 - distro non-free
+driver   : xserver-xorg-video-nouveau - distro free builtin
+```
+
+3. apt install 安装推荐(`recommended`)版本
+`sudo apt install nvidia-driver-455`
+
 
 
 
 ## 参考文档
 
 - [https://www.notion.so/ubuntu-16-04-nvidia-510-2f761714d33e4efa941d6c4533a889c9#c8d10ccfa2ed4c1b8e9afe172144007f](https://www.notion.so/ubuntu-16-04-nvidia-510-2f761714d33e4efa941d6c4533a889c9#c8d10ccfa2ed4c1b8e9afe172144007f)
-
 - [https://blog.csdn.net/qq_46350148/article/details/108650556](https://blog.csdn.net/qq_46350148/article/details/108650556)
+- [https://askubuntu.com/questions/1288902/nvidia-drivers-instalation-an-alternate-method-of-installing-the-nvidia-drive](https://askubuntu.com/questions/1288902/nvidia-drivers-instalation-an-alternate-method-of-installing-the-nvidia-drive)
