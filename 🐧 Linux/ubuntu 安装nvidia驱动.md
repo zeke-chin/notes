@@ -67,19 +67,13 @@ sudo ./NVIDIA-Linux-x86_64-510.60.02.run \
     > 
     > Would you like to run the nvidia-xconfigutility to automatically update your x configuration so that the NVIDIA x driver will be used when you restart x? Any pre-existing x confile will be backed up. 選擇 Yes 繼續
 
-5. ##重启相关服务
+5. ## 重启相关服务
 
+```
 sudo service lightdm start  
-    sudo service docker start  
-    sudo service nvidia-docker start
-
-
-## 参考文档
-
-- [https://www.notion.so/ubuntu-16-04-nvidia-510-2f761714d33e4efa941d6c4533a889c9#c8d10ccfa2ed4c1b8e9afe172144007f](https://www.notion.so/ubuntu-16-04-nvidia-510-2f761714d33e4efa941d6c4533a889c9#c8d10ccfa2ed4c1b8e9afe172144007f)
-  
-- [https://blog.csdn.net/qq_46350148/article/details/108650556](https://blog.csdn.net/qq_46350148/article/details/108650556)
-
+sudo service docker start  
+sudo service nvidia-docker start
+```
 
 # 卸载
 
@@ -91,5 +85,15 @@ sudo service lightdm start
 NO
 ```
 
+# 品牌机装驱动(华硕整机)
+
+1. 显示可用的驱动
+2. apt install 安装推荐(recommended)版本
 
 
+
+## 参考文档
+
+- [https://www.notion.so/ubuntu-16-04-nvidia-510-2f761714d33e4efa941d6c4533a889c9#c8d10ccfa2ed4c1b8e9afe172144007f](https://www.notion.so/ubuntu-16-04-nvidia-510-2f761714d33e4efa941d6c4533a889c9#c8d10ccfa2ed4c1b8e9afe172144007f)
+
+- [https://blog.csdn.net/qq_46350148/article/details/108650556](https://blog.csdn.net/qq_46350148/article/details/108650556)
