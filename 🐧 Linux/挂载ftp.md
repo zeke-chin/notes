@@ -12,7 +12,7 @@ sudo mkdir -p /mnt/184
 
 3. 配置`allow_other`
 
-在`sudo vim /etc/fuse.conf`中 写入
+在`sudo vim/etc/fuse.conf`中 写入
 
 - `user_allow_other `
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/挂载ftp.md",
+                "file": "🐍Python/redis-py ConnectionErrors.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/挂载ftp.md",
+                "file": "🐍Python/redis-py ConnectionErrors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/挂载ftp.md",
+                "file": "🐍Python/redis-py ConnectionErrors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/挂载ftp.md"
+                "file": "🐍Python/redis-py ConnectionErrors.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "dfc2902624c77715",
   "lastOpenFiles": [
-    "🐧 Linux/挂载smb.md",
+    "未命名.md",
+    "🐍Python/redis-py ConnectionErrors.md",
     "🐧 Linux/挂载ftp.md",
+    "🐧 Linux/挂载smb.md",
     "🐧 Linux/挂载ftp~.md",
     "🐳 Docker/安装.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
@@ -185,8 +187,6 @@
     "🍎Macos/Mac卡死 彩虹圈.md",
     "🍎Macos/耳机没声音.md",
     "🐍Python/Jupyter lab.md",
-    "Model 网络.md",
-    "README.md",
     "_img/Pasted image 20231130135413.png",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
