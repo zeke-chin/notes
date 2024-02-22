@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/软件源/Conda.md",
+                "file": "🐧 Linux/软件源/Ubuntu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/软件源/Conda.md",
+                "file": "🐧 Linux/软件源/Ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/软件源/Conda.md",
+                "file": "🐧 Linux/软件源/Ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/软件源/Conda.md"
+                "file": "🐧 Linux/软件源/Ubuntu.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "5821d1777ca78090",
   "lastOpenFiles": [
+    "🐧 Linux/软件源/Conda.md",
+    "🐧 Linux/软件源/Ubuntu.md",
     "🐳 Docker/安装.md",
     "🐍Python/简单进程池.md",
     "🐧 Linux/挂载smb.md",
@@ -156,7 +158,6 @@
     "🐧 Linux/挂载ftp.md",
     "🐧 Linux/挂载ftp~.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
-    "🐧 Linux/软件源/Conda.md",
     "🐧 Linux/linux 压测GPU.md",
     "🐧 Linux/headscale + Tailscale.md",
     "🐳 Docker/docker-compose限制资源.md",
@@ -173,7 +174,6 @@
     "📊数据库/向量数据索引类型.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🍎Macos/Mac卡死 彩虹圈.md",
-    "🍎Macos/耳机没声音.md",
     "_img/Pasted image 20231130135413.png",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
