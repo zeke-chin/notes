@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/软件源/Conda.md",
+                "file": "🦀Rust/sccache.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/软件源/Conda.md",
+                "file": "🦀Rust/sccache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/软件源/Conda.md",
+                "file": "🦀Rust/sccache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/软件源/Conda.md"
+                "file": "🦀Rust/sccache.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "5821d1777ca78090",
   "lastOpenFiles": [
-    "🐧 Linux/软件源/Ubuntu.md",
+    "🦀Rust/openssl linux-musl 编译报错.md",
+    "🦀Rust/sccache.md",
+    "🦀Rust/未使用指定包.md",
+    "📊数据库/向量数据索引类型.md",
     "🐧 Linux/软件源/Conda.md",
+    "🐧 Linux/软件源/Ubuntu.md",
     "🐳 Docker/安装.md",
     "🐍Python/简单进程池.md",
     "🐧 Linux/挂载smb.md",
@@ -163,15 +167,11 @@
     "🐳 Docker/docker-compose限制资源.md",
     "🐳 Docker/alias.md",
     "🐳 Docker/网卡池不足.md",
-    "🦀Rust/sccache.md",
     "🐧 Linux/ubuntu 16.04安装nvidia驱动.md",
-    "🦀Rust/openssl linux-musl 编译报错.md",
-    "🦀Rust/未使用指定包.md",
     "🐍Python/sentence embedding任务中的池化.md",
     "🐧 Linux/修改主机名.md",
     "🐧 Linux/sd.md",
     "🐧 Linux/用户添加root.md",
-    "📊数据库/向量数据索引类型.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🍎Macos/Mac卡死 彩虹圈.md",
     "_img/Pasted image 20231130135413.png",
