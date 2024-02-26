@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/软件源/Ubuntu.md",
+                "file": "🐧 Linux/软件源/Conda.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/软件源/Ubuntu.md",
+                "file": "🐧 Linux/软件源/Conda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/软件源/Ubuntu.md",
+                "file": "🐧 Linux/软件源/Conda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/软件源/Ubuntu.md"
+                "file": "🐧 Linux/软件源/Conda.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "5821d1777ca78090",
   "lastOpenFiles": [
-    "🐧 Linux/软件源/Conda.md",
     "🐧 Linux/软件源/Ubuntu.md",
+    "🐧 Linux/软件源/Conda.md",
     "🐳 Docker/安装.md",
     "🐍Python/简单进程池.md",
     "🐧 Linux/挂载smb.md",
