@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/修改主机名.md",
-                "mode": "source",
+                "file": "🐳 Docker/安装.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/修改主机名.md",
+                "file": "🐳 Docker/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/修改主机名.md",
+                "file": "🐳 Docker/安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/修改主机名.md"
+                "file": "🐳 Docker/安装.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "d7ae85d33776ed70",
   "lastOpenFiles": [
+    "🐳 Docker/网卡池不足.md",
+    "🐳 Docker/alias.md",
+    "🐳 Docker/docker-compose限制资源.md",
+    "🐧 Linux/修改主机名.md",
     "🐧 Linux/init 服务器.md",
     "🐧 Linux/挂载ftp.md",
-    "🐧 Linux/修改主机名.md",
     "🐧 Linux/用户添加root.md",
     "🐧 Linux/clash 教程.md",
     "🐧 Linux/headscale + Tailscale.md",
@@ -174,9 +177,6 @@
     "🐍Python/redis-py ConnectionErrors.md",
     "未命名.md",
     "🐧 Linux/挂载ftp~.md",
-    "🐳 Docker/docker-compose限制资源.md",
-    "🐳 Docker/alias.md",
-    "🐳 Docker/网卡池不足.md",
     "🐧 Linux/ubuntu 16.04安装nvidia驱动.md",
     "_img/Pasted image 20231130135413.png",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
