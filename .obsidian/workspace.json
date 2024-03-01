@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐍Python/Jupyter lab.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐍Python/Jupyter lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐍Python/Jupyter lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/安装.md"
+                "file": "🐍Python/Jupyter lab.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "d7ae85d33776ed70",
   "lastOpenFiles": [
-    "🐳 Docker/docker-compose限制资源.md",
     "🐳 Docker/安装.md",
+    "🐳 Docker/docker-compose限制资源.md",
     "🐳 Docker/网卡池不足.md",
     "🐳 Docker/alias.md",
     "🐧 Linux/修改主机名.md",
