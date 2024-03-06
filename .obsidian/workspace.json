@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐍Python/Jupyter lab.md",
+                "file": "🐧 Linux/ubuntu 安装nvidia驱动.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐍Python/Jupyter lab.md",
+                "file": "🐧 Linux/ubuntu 安装nvidia驱动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐍Python/Jupyter lab.md",
+                "file": "🐧 Linux/ubuntu 安装nvidia驱动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐍Python/Jupyter lab.md"
+                "file": "🐧 Linux/ubuntu 安装nvidia驱动.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "d7ae85d33776ed70",
   "lastOpenFiles": [
+    "🐍Python/Jupyter lab.md",
     "🐳 Docker/安装.md",
     "🐳 Docker/docker-compose限制资源.md",
     "🐳 Docker/网卡池不足.md",
@@ -177,7 +178,6 @@
     "🐍Python/redis-py ConnectionErrors.md",
     "未命名.md",
     "🐧 Linux/挂载ftp~.md",
-    "🐧 Linux/ubuntu 16.04安装nvidia驱动.md",
     "_img/Pasted image 20231130135413.png",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
