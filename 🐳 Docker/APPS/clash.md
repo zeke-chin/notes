@@ -16,3 +16,5 @@ services:
     environment:
       - clash-url=
 ```
+
+Github: `https://github.com/Zeke-chin/clash_config_manager`

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md",
-                "mode": "source",
+                "file": "🐳 Docker/APPS/mysql.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md",
+                "file": "🐳 Docker/APPS/mysql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md",
+                "file": "🐳 Docker/APPS/mysql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md"
+                "file": "🐳 Docker/APPS/mysql.md"
               }
             }
           }
@@ -148,9 +148,16 @@
   },
   "active": "b64b2cf792a9c66d",
   "lastOpenFiles": [
+    "🐳 Docker/APPS/未命名_副本6.md",
+    "🐳 Docker/APPS/未命名_副本5.md",
+    "🐳 Docker/APPS/未命名_副本4.md",
+    "🐳 Docker/APPS/未命名_副本3.md",
+    "🐳 Docker/APPS/未命名_副本2.md",
+    "🐳 Docker/APPS/未命名_副本.md",
+    "🐳 Docker/APPS/clash.md",
+    "🐳 Docker/APPS/mysql.md",
     "🐳 Docker/APPS/clash~.md",
     "🐳 Docker/APPS/aria2c.md",
-    "🐳 Docker/APPS/clash.md",
     "🐳 Docker/APPS/aria2c~.md",
     "🐳 Docker/APPS/aria2c/未命名.md",
     "🐳 Docker/APPS/aria2c",
@@ -171,17 +178,10 @@
     "🐧 Linux/修改主机名.md",
     "🐧 Linux/挂载ftp.md",
     "🐧 Linux/linux 压测GPU.md",
-    "🐧 Linux/ssh 走代理.md",
-    "🐧 Linux/Vim 黏贴缩进错乱.md",
-    "🦀Rust/sccache.md",
     "🍎Macos/software-backup/OneSwitch-1.31.zip",
     "🍎Macos/software-backup/iShot-1.8.8.zip",
     "🍎Macos/software-backup",
     "🍎Macos/未命名",
-    "🦀Rust/openssl linux-musl 编译报错.md",
-    "🦀Rust/未使用指定包.md",
-    "🐧 Linux/软件源/Conda.md",
-    "🐧 Linux/软件源/Ubuntu.md",
     "_img/Pasted image 20231130135413.png",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
