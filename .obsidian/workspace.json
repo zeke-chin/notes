@@ -11,11 +11,14 @@
             "id": "b64b2cf792a9c66d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "🐳 Docker/APPS/定制GPU.md",
-                "mode": "preview",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/APPS/定制GPU.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/APPS/定制GPU.md",
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +128,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/APPS/定制GPU.md"
+                "file": "未命名.canvas"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,20 +151,21 @@
   },
   "active": "b64b2cf792a9c66d",
   "lastOpenFiles": [
-    "🐳 Docker/APPS/jupyter.md",
+    "未命名.canvas",
+    "🐳 Docker/APPS/aria2c.md",
     "🐳 Docker/APPS/xrdp.md",
     "🐳 Docker/APPS/mysql.md",
-    "🐳 Docker/APPS/定制GPU.md",
+    "🐳 Docker/APPS/jupyter.md",
+    "🐳 Docker/APPS/clash.md",
+    "🐳 Docker/定制GPU.md",
+    "🐳 Docker/APPS/未命名_副本3.md",
     "🐳 Docker/APPS/未命名_副本5.md",
     "🐳 Docker/APPS/未命名_副本4.md",
-    "🐳 Docker/APPS/未命名_副本3.md",
-    "🐳 Docker/APPS/clash.md",
     "🐳 Docker/APPS/clash~.md",
-    "🐳 Docker/APPS/aria2c.md",
     "🐳 Docker/APPS/aria2c~.md",
     "🐳 Docker/APPS/aria2c/未命名.md",
     "🐳 Docker/APPS/aria2c",
-    "📊数据库/向量数据索引类型.md",
+    "📊DB/向量数据索引类型.md",
     "🐳 Docker/docker-compose限制资源.md",
     "未命名",
     "🐳 Docker/APPS",
@@ -177,7 +181,6 @@
     "🐍Python/Jupyter lab.md",
     "🐧 Linux/修改主机名.md",
     "🐧 Linux/挂载ftp.md",
-    "🐧 Linux/linux 压测GPU.md",
     "🍎Macos/software-backup/OneSwitch-1.31.zip",
     "🍎Macos/software-backup/iShot-1.8.8.zip",
     "🍎Macos/software-backup",
