@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/APPS/mysql.md",
+                "file": "🐳 Docker/APPS/定制GPU.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/APPS/mysql.md",
+                "file": "🐳 Docker/APPS/定制GPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/APPS/mysql.md",
+                "file": "🐳 Docker/APPS/定制GPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/APPS/mysql.md"
+                "file": "🐳 Docker/APPS/定制GPU.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "b64b2cf792a9c66d",
   "lastOpenFiles": [
-    "🐳 Docker/APPS/未命名_副本6.md",
+    "🐳 Docker/APPS/jupyter.md",
+    "🐳 Docker/APPS/xrdp.md",
+    "🐳 Docker/APPS/mysql.md",
+    "🐳 Docker/APPS/定制GPU.md",
     "🐳 Docker/APPS/未命名_副本5.md",
     "🐳 Docker/APPS/未命名_副本4.md",
     "🐳 Docker/APPS/未命名_副本3.md",
-    "🐳 Docker/APPS/未命名_副本2.md",
-    "🐳 Docker/APPS/未命名_副本.md",
     "🐳 Docker/APPS/clash.md",
-    "🐳 Docker/APPS/mysql.md",
     "🐳 Docker/APPS/clash~.md",
     "🐳 Docker/APPS/aria2c.md",
     "🐳 Docker/APPS/aria2c~.md",
