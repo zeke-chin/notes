@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
+                "file": "🐳 Docker/APPS/aria2c.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ari",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
+                "file": "🐳 Docker/APPS/aria2c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
+                "file": "🐳 Docker/APPS/aria2c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐛BUG!!!!/Triton/Stub process  is not healthy..md"
+                "file": "🐳 Docker/APPS/aria2c.md"
               }
             }
           }
@@ -148,6 +149,7 @@
   },
   "active": "0150fdca0025b965",
   "lastOpenFiles": [
+    "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
     "🍎Macos/Mac卡死 彩虹圈.md",
     "🍎Macos/耳机没声音.md",
     "_img/Pasted image 20231130135413.png",
@@ -179,7 +181,6 @@
     "🐳 Docker/docker-compose",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐍Python/Jupyter lab.md",
-    "🐧 Linux/修改主机名.md",
     "🍎Macos/software-backup/OneSwitch-1.31.zip",
     "🍎Macos/software-backup/iShot-1.8.8.zip",
     "🍎Macos/software-backup",
