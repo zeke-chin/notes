@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/APPS/aria2c.md",
+                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ari",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/APPS/aria2c.md",
+                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/APPS/aria2c.md",
+                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/APPS/aria2c.md"
+                "file": "🐧 Linux/Vim 黏贴缩进错乱.md"
               }
             }
           }
@@ -149,12 +148,12 @@
   },
   "active": "0150fdca0025b965",
   "lastOpenFiles": [
+    "🐳 Docker/APPS/aria2c.md",
     "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
     "🍎Macos/Mac卡死 彩虹圈.md",
     "🍎Macos/耳机没声音.md",
     "_img/Pasted image 20231130135413.png",
     "未命名.canvas",
-    "🐳 Docker/APPS/aria2c.md",
     "🐳 Docker/APPS/xrdp.md",
     "🐳 Docker/APPS/mysql.md",
     "🐳 Docker/APPS/jupyter.md",
