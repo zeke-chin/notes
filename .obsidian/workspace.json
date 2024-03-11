@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "🐧 Linux/ssh 私钥 免密登陆.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -146,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5ca460d3452045c3",
+  "active": "0150fdca0025b965",
   "lastOpenFiles": [
     "🐧 Linux/ssh 私钥 免密登陆~.md",
     "🐧 Linux/用户添加root.md",

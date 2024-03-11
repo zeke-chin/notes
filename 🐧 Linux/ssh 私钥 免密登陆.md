@@ -11,12 +11,12 @@
 	
 - 上一步骤中 会创建两个文件
 	
-	- 私钥: `id_rsa`
-	- 共钥: `id_rsa.pub`
+	- 私钥: `/root/.ssh/id_rsa/id_rsa`	密码组件 需要保密
+	- 共钥: /root/.ssh/id_rsa/`id_rsa.pub``	 需求分享给服务器
 
 # 2. **复制公钥到远程服务器**
 
-- 将公钥（默认是`~/.ssh/id_rsa.pub`）**复制**到 服务器到 `~/.ssh/authorized_keys`文件中
+- 将**公钥**（默认是`~/.ssh/id_rsa.pub`）**复制**到 服务器到 `~/.ssh/authorized_keys`文件中
 
   - `ssh-copy-id`
 
@@ -42,7 +42,7 @@
     chmod 600 ~/.ssh/authorized_keys
     ```
 
-- **编辑SSH配置文件`/etc/ssh/sshd_config`**
+- **编辑SSH配置文件`/etc/ssh/sshd_config`** 启用密钥登陆
 
   - ```
     PubkeyAuthentication yes
