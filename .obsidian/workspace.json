@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
+                "file": "🐧 Linux/headscale + Tailscale.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tailscale",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
+                "file": "🐧 Linux/headscale + Tailscale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
+                "file": "🐧 Linux/headscale + Tailscale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md"
+                "file": "🐧 Linux/headscale + Tailscale.md"
               }
             }
           }
@@ -148,6 +149,7 @@
   },
   "active": "0150fdca0025b965",
   "lastOpenFiles": [
+    "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🐳 Docker/APPS/aria2c.md",
     "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
     "🍎Macos/Mac卡死 彩虹圈.md",
@@ -179,7 +181,6 @@
     "🐧 Linux/用户添加root.md",
     "🐳 Docker/docker-compose",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
-    "🐍Python/Jupyter lab.md",
     "🍎Macos/software-backup/OneSwitch-1.31.zip",
     "🍎Macos/software-backup/iShot-1.8.8.zip",
     "🍎Macos/software-backup",
