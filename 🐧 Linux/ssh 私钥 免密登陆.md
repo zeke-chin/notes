@@ -16,5 +16,48 @@
 
 # 2. **复制公钥到远程服务器**
 
-- 将公钥（默认是`~/.ssh/id_rsa.pub`）复制到 服务器到 `~/.ssh/authorized_keys`文件中
-  - 
+- 将公钥（默认是`~/.ssh/id_rsa.pub`）**复制**到 服务器到 `~/.ssh/authorized_keys`文件中
+
+  - `ssh-copy-id`
+
+    - ```bash
+      ssh-copy-id -i ~/.ssh/id_rsa.pub 用户名@服务器地址
+      ```
+
+  - 手动
+
+    - ```bash
+      scp ~/.ssh/id_rsa.pub 用户名@服务器地址:~/
+      ssh 用户名@服务器地址
+      cat ~/id_rsa.pub >> ~/.ssh/authorized_keys
+      rm ~/id_rsa.pub
+      ```
+
+- 确认服务器上的SSH配置
+
+  - 登陆到服务器后，确保`~/.ssh`目录的权限是正确的。你的home目录，`~/.ssh`目录和`~/.ssh/authorized_keys`文件不应该对组或其他用户开放写权限。
+
+  - ```bash
+    chmod 700 ~/.ssh
+    chmod 600 ~/.ssh/authorized_keys
+    ```
+
+- **编辑SSH配置文件`/etc/ssh/sshd_config`**
+
+  - ```
+    PubkeyAuthentication yes
+    AuthorizedKeysFile .ssh/authorized_keys
+    ```
+
+# 3. 重启ssh服务
+
+```bash
+sudo systemctl restart sshd
+```
+
+or
+
+```bash
+sudo service ssh restart	
+```
+
