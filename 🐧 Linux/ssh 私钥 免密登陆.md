@@ -12,7 +12,7 @@
 - 上一步骤中 会创建两个文件
 	
 	- 私钥: `/root/.ssh/id_rsa/id_rsa`	密码组件 需要保密
-	- 共钥: /root/.ssh/id_rsa/`id_rsa.pub``	 需求分享给服务器
+	- 共钥: `/root/.ssh/id_rsa/id_rsa.pub`	 需求分享给服务器
 
 # 2. **复制公钥到远程服务器**
 

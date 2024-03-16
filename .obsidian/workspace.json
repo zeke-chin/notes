@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md",
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md",
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md",
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md"
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "5821d1777ca78090",
   "lastOpenFiles": [
+    "🐳 Docker/APPS/clash.md",
     "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/xrdp.md",
     "🐳 Docker/APPS/mysql.md",
-    "🐳 Docker/APPS/clash.md",
     "🐳 Docker/APPS/aria2c.md",
     "🦀Rust/sccache.md",
     "📊DB/向量数据索引类型.md",
