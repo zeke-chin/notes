@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f16557bd7971bf8d",
+        "id": "35d70bb4acc5ad9c",
         "type": "tabs",
         "children": [
           {
-            "id": "0150fdca0025b965",
+            "id": "5821d1777ca78090",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md"
+                "file": "🐳 Docker/APPS/clash.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,44 +146,40 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5ca460d3452045c3",
+  "active": "5821d1777ca78090",
   "lastOpenFiles": [
-    "🐧 Linux/ssh 私钥 免密登陆~.md",
-    "🐧 Linux/用户添加root.md",
-    "🐧 Linux/ssh 私钥 免密登陆.md",
-    "🐧 Linux/headscale + Tailscale.md",
-    "🐧 Linux/Vim 黏贴缩进错乱.md",
-    "🐳 Docker/APPS/aria2c.md",
-    "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
-    "🍎Macos/Mac卡死 彩虹圈.md",
-    "🍎Macos/耳机没声音.md",
-    "_img/Pasted image 20231130135413.png",
-    "未命名.canvas",
+    "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/xrdp.md",
     "🐳 Docker/APPS/mysql.md",
-    "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/clash.md",
-    "🐳 Docker/定制GPU.md",
-    "🐳 Docker/APPS/未命名_副本3.md",
-    "🐳 Docker/APPS/未命名_副本5.md",
-    "🐳 Docker/APPS/未命名_副本4.md",
-    "🐳 Docker/APPS/clash~.md",
-    "🐳 Docker/APPS/aria2c~.md",
-    "🐳 Docker/APPS/aria2c/未命名.md",
-    "🐳 Docker/APPS/aria2c",
+    "🐳 Docker/APPS/aria2c.md",
+    "🦀Rust/sccache.md",
     "📊DB/向量数据索引类型.md",
-    "🐳 Docker/docker-compose限制资源.md",
-    "未命名",
+    "📊DB",
+    "🐳 Docker/定制GPU.md",
     "🐳 Docker/APPS",
-    "🐳 Docker/alias.md",
-    "🐳 Docker/网卡池不足.md",
-    "🐳 Docker/安装.md",
+    "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/init 服务器.md",
-    "🐳 Docker/docker-compose",
-    "🍎Macos/software-backup/OneSwitch-1.31.zip",
     "🍎Macos/software-backup/iShot-1.8.8.zip",
+    "🍎Macos/software-backup/OneSwitch-1.31.zip",
     "🍎Macos/software-backup",
-    "🍎Macos/未命名",
+    "🦀Rust/openssl linux-musl 编译报错.md",
+    "🦀Rust/未使用指定包.md",
+    "📊数据库/向量数据索引类型.md",
+    "🐧 Linux/软件源/Conda.md",
+    "🐧 Linux/软件源/Ubuntu.md",
+    "🐳 Docker/安装.md",
+    "🐍Python/简单进程池.md",
+    "🐧 Linux/挂载smb.md",
+    "🐍Python/redis-py ConnectionErrors.md",
+    "未命名.md",
+    "🐧 Linux/挂载ftp.md",
+    "🐧 Linux/挂载ftp~.md",
+    "🐧 Linux/ubuntu 安装nvidia驱动.md",
+    "🐧 Linux/linux 压测GPU.md",
+    "🐧 Linux/headscale + Tailscale.md",
+    "🐳 Docker/docker-compose限制资源.md",
+    "_img/Pasted image 20231130135413.png",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
     "🐍Python/Triton/img",
@@ -192,6 +188,9 @@
     "🐍Python/Triton/img/Pasted image 20231018153716.png",
     "_img",
     "🐍Python/Triton/img/Pasted image 20231018153841.png",
+    "📊数据库",
+    "🦀Rust",
+    "🐍Python/Triton/img",
     "🐍Python/Triton/img/Pasted image 20231018154035.png",
     "🐧 Linux/clash 教程.assets/Pasted image 20230818100341.png",
     "🐧 Linux/clash 教程.assets/Pasted image 20230817174347.png"

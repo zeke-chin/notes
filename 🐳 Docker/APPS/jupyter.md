@@ -19,7 +19,7 @@ services:
 ```
 
 `Dockerfile`
-```
+```dockerfile
 FROM nvidia/cuda:11.0-cudnn8-devel-ubuntu18.04 AS builder
 
 RUN sed -i 's#archive.ubuntu.com#mirrors.aliyun.com#g' /etc/apt/sources.list  \
