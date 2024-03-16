@@ -15,7 +15,7 @@ services:
 
 
 `dockerfile`
-```
+```dockerfile
 FROM danielguerra/ubuntu-xrdp:20.04 AS builder
 RUN sed -i 's#archive.ubuntu.com#mirrors.aliyun.com#g' /etc/apt/sources.list  \
     && sed -i 's#security.ubuntu.com#mirrors.aliyun.com#g' /etc/apt/sources.list
