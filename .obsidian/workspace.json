@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🦀Rust/openssl linux-musl 编译报错.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🦀Rust/openssl linux-musl 编译报错.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🦀Rust/openssl linux-musl 编译报错.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md"
+                "file": "🦀Rust/openssl linux-musl 编译报错.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "5821d1777ca78090",
   "lastOpenFiles": [
+    "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐳 Docker/APPS/clash.md",
     "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/xrdp.md",
@@ -158,7 +159,6 @@
     "📊DB",
     "🐳 Docker/定制GPU.md",
     "🐳 Docker/APPS",
-    "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/init 服务器.md",
     "🍎Macos/software-backup/iShot-1.8.8.zip",
     "🍎Macos/software-backup/OneSwitch-1.31.zip",
