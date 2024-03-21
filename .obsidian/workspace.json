@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md",
-                "mode": "source",
+                "file": "🐳 Docker/安装.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md",
+                "file": "🐳 Docker/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md",
+                "file": "🐳 Docker/安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md"
+                "file": "🐳 Docker/安装.md"
               }
             }
           }
@@ -148,17 +148,19 @@
   },
   "active": "5821d1777ca78090",
   "lastOpenFiles": [
+    "🐳 Docker/定制GPU.md",
+    "🐳 Docker/docker-compose限制资源.md",
+    "🐳 Docker/alias.md",
+    "🐳 Docker/APPS/clash.md",
     "🐳 Docker/APPS/aria2c.md",
     "🐳 Docker/APPS/xrdp.md",
     "🐳 Docker/APPS/mysql.md",
     "🐳 Docker/APPS/jupyter.md",
-    "🐳 Docker/APPS/clash.md",
     "🦀Rust/openssl linux-musl 编译报错.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🦀Rust/sccache.md",
     "📊DB/向量数据索引类型.md",
     "📊DB",
-    "🐳 Docker/定制GPU.md",
     "🐳 Docker/APPS",
     "🐧 Linux/init 服务器.md",
     "🍎Macos/software-backup/iShot-1.8.8.zip",
@@ -177,8 +179,6 @@
     "🐧 Linux/挂载ftp~.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐧 Linux/linux 压测GPU.md",
-    "🐧 Linux/headscale + Tailscale.md",
-    "🐳 Docker/docker-compose限制资源.md",
     "_img/Pasted image 20231130135413.png",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
