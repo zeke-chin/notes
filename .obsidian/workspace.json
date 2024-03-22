@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/安装.md",
-                "mode": "source",
+                "file": "🐳 Docker/拉取镜像走代理.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐳 Docker/拉取镜像走代理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐳 Docker/拉取镜像走代理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/安装.md"
+                "file": "🐳 Docker/拉取镜像走代理.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "5821d1777ca78090",
   "lastOpenFiles": [
+    "🐳 Docker/安装.md",
+    "🐳 Docker/拉取镜像走代理.md",
     "🐳 Docker/定制GPU.md",
     "🐳 Docker/网卡池不足.md",
     "🐳 Docker/alias.md",
@@ -171,14 +173,12 @@
     "📊数据库/向量数据索引类型.md",
     "🐧 Linux/软件源/Conda.md",
     "🐧 Linux/软件源/Ubuntu.md",
-    "🐳 Docker/安装.md",
     "🐍Python/简单进程池.md",
     "🐧 Linux/挂载smb.md",
     "🐍Python/redis-py ConnectionErrors.md",
     "未命名.md",
     "🐧 Linux/挂载ftp.md",
     "🐧 Linux/挂载ftp~.md",
-    "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "_img/Pasted image 20231130135413.png",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
