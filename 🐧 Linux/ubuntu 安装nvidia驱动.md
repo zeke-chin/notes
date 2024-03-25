@@ -108,7 +108,12 @@ driver   : xserver-xorg-video-nouveau - distro free builtin
 3. apt install 安装推荐(`recommended`)版本
 `sudo apt install nvidia-driver-455`
 
-
+4. 安装好`cudatoolkit`后 进`.zshrc / .bashrc`
+```bash
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-12.3/lib64
+export PATH=$PATH:/usr/local/cuda-12.3/bin
+export CUDA_HOME=$CUDA_HOME:/usr/local/cuda-12.3
+```
 
 
 ## 参考文档
