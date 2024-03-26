@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb9d6183226a8c9a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5821d1777ca78090",
+  "active": "fb9d6183226a8c9a",
   "lastOpenFiles": [
     "🐳 Docker/APPS/clash.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
