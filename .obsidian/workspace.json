@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/ubuntu 安装nvidia驱动.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/ubuntu 安装nvidia驱动.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/ubuntu 安装nvidia驱动.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/ubuntu 安装nvidia驱动.md"
+                "file": "🐳 Docker/APPS/clash.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "5821d1777ca78090",
   "lastOpenFiles": [
+    "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐳 Docker/APPS/aria2c.md",
     "🐳 Docker/拉取镜像走代理.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
@@ -178,7 +179,6 @@
     "未命名.md",
     "🐧 Linux/挂载ftp.md",
     "🐧 Linux/挂载ftp~.md",
-    "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "_img/Pasted image 20231130135413.png",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
