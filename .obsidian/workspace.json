@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/安装.md",
-                "mode": "source",
+                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/安装.md"
+                "file": "🐧 Linux/Vim 黏贴缩进错乱.md"
               }
             }
           }
@@ -161,6 +162,8 @@
   },
   "active": "fb9d6183226a8c9a",
   "lastOpenFiles": [
+    "🐳 Docker/APPS/xrdp.md",
+    "🐳 Docker/安装.md",
     "🐳 Docker/定制GPU.md",
     "🐳 Docker/网卡池不足.md",
     "🐳 Docker/拉取镜像走代理.md",
@@ -168,10 +171,8 @@
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐳 Docker/APPS/aria2c.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
-    "🐳 Docker/安装.md",
     "🐳 Docker/docker-compose限制资源.md",
     "🐳 Docker/alias.md",
-    "🐳 Docker/APPS/xrdp.md",
     "🐳 Docker/APPS/mysql.md",
     "🐳 Docker/APPS/jupyter.md",
     "🦀Rust/openssl linux-musl 编译报错.md",
