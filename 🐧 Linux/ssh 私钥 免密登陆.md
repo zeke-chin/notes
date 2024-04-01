@@ -49,7 +49,7 @@
     AuthorizedKeysFile .ssh/authorized_keys
     ```
 
-# 3. 重启ssh服务
+# 3. 重启ssh服务(当PubkeyAuthentication已经启动再次新增 则不需要重启)
 
 ```bash
 sudo systemctl restart sshd
