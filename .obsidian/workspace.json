@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/init 服务器.md"
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md"
               }
             }
           }
@@ -158,15 +159,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5821d1777ca78090",
+  "active": "fb9d6183226a8c9a",
   "lastOpenFiles": [
+    "🐧 Linux/ssh 走代理.md",
+    "🐧 Linux/用户添加root.md",
+    "🐧 Linux/Vim 黏贴缩进错乱.md",
+    "🐧 Linux/init 服务器.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/clash.md",
     "🐳 Docker/APPS/xrdp.md",
     "🐳 Docker/安装.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
-    "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🐳 Docker/定制GPU.md",
     "🐳 Docker/网卡池不足.md",
     "🐳 Docker/拉取镜像走代理.md",
@@ -179,7 +183,6 @@
     "📊DB/向量数据索引类型.md",
     "📊DB",
     "🐳 Docker/APPS",
-    "🐧 Linux/init 服务器.md",
     "🍎Macos/software-backup/iShot-1.8.8.zip",
     "🍎Macos/software-backup/OneSwitch-1.31.zip",
     "🍎Macos/software-backup",
@@ -189,8 +192,6 @@
     "🐧 Linux/软件源/Ubuntu.md",
     "🐍Python/简单进程池.md",
     "🐧 Linux/挂载smb.md",
-    "🐍Python/redis-py ConnectionErrors.md",
-    "未命名.md",
     "_img/Pasted image 20231130135413.png",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
