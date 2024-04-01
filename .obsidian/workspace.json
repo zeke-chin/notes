@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md",
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md",
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md",
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md"
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "5821d1777ca78090",
   "lastOpenFiles": [
+    "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/clash.md",
     "🐳 Docker/APPS/xrdp.md",
     "🐳 Docker/安装.md",
@@ -173,7 +174,6 @@
     "🐳 Docker/docker-compose限制资源.md",
     "🐳 Docker/alias.md",
     "🐳 Docker/APPS/mysql.md",
-    "🐳 Docker/APPS/jupyter.md",
     "🦀Rust/openssl linux-musl 编译报错.md",
     "🦀Rust/sccache.md",
     "📊DB/向量数据索引类型.md",
