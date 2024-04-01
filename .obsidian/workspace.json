@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md"
+                "file": "🐧 Linux/init 服务器.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "5821d1777ca78090",
   "lastOpenFiles": [
+    "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/clash.md",
     "🐳 Docker/APPS/xrdp.md",
@@ -170,7 +171,6 @@
     "🐳 Docker/网卡池不足.md",
     "🐳 Docker/拉取镜像走代理.md",
     "🐳 Docker/APPS/aria2c.md",
-    "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐳 Docker/docker-compose限制资源.md",
     "🐳 Docker/alias.md",
     "🐳 Docker/APPS/mysql.md",
