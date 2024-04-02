@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md",
+                "file": "🐧 Linux/软件源/Conda.md",
                 "mode": "preview",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "conda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md",
+                "file": "🐧 Linux/软件源/Conda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md",
+                "file": "🐧 Linux/软件源/Conda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md"
+                "file": "🐧 Linux/软件源/Conda.md"
               }
             }
           }
@@ -173,6 +174,8 @@
   },
   "active": "fb9d6183226a8c9a",
   "lastOpenFiles": [
+    "🐧 Linux/用户添加root.md",
+    "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/clash.md",
     "🐳 Docker/安装.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
@@ -182,8 +185,6 @@
     "🐳 Docker/docker-compose限制资源.md",
     "🐳 Docker/拉取镜像走代理.md",
     "🐧 Linux/ssh 走代理.md",
-    "🐧 Linux/用户添加root.md",
-    "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/xrdp.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐳 Docker/定制GPU.md",
