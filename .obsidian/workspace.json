@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md",
+                "file": "🐳 Docker/安装.md",
                 "mode": "preview",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jupyter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md",
+                "file": "🐳 Docker/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md",
+                "file": "🐳 Docker/安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md"
+                "file": "🐳 Docker/安装.md"
               }
             }
           }
@@ -174,8 +173,10 @@
   },
   "active": "fb9d6183226a8c9a",
   "lastOpenFiles": [
-    "🐍Python/Jupyter lab.md",
+    "🐳 Docker/拉取镜像走代理.md",
+    "🐳 Docker/网卡池不足.md",
     "🐳 Docker/APPS/jupyter.md",
+    "🐍Python/Jupyter lab.md",
     "🐧 Linux/init 服务器.md",
     "🐧 Linux/软件源/Conda.md",
     "🐧 Linux/用户添加root.md",
@@ -185,12 +186,10 @@
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ssh 私钥 免密登陆~.md",
     "🐳 Docker/docker-compose限制资源.md",
-    "🐳 Docker/拉取镜像走代理.md",
     "🐧 Linux/ssh 走代理.md",
     "🐳 Docker/APPS/xrdp.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐳 Docker/定制GPU.md",
-    "🐳 Docker/网卡池不足.md",
     "🐳 Docker/APPS/aria2c.md",
     "🐳 Docker/alias.md",
     "🐳 Docker/APPS/mysql.md",
