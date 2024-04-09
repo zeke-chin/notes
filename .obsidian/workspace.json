@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "fb9d6183226a8c9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐳 Docker/安装.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fc1cdde4fb365b4a",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/安装.md"
+                "file": "🐧 Linux/init 服务器.md"
               }
             }
           }
@@ -172,39 +158,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fb9d6183226a8c9a",
+  "active": "5821d1777ca78090",
   "lastOpenFiles": [
+    "🐧 Linux/clash 教程.md",
+    "🐧 Linux/用户添加root.md",
+    "🐧 Linux/headscale + Tailscale.md",
+    "🐧 Linux/linux 压测GPU.md",
+    "🐧 Linux/ssh 走代理.md",
+    "🐧 Linux/Vim 黏贴缩进错乱.md",
+    "🐧 Linux/ubuntu 安装nvidia驱动.md",
+    "🐧 Linux/修改主机名.md",
     "🐧 Linux/挂载smb.md",
+    "🐧 Linux/挂载ftp.md",
+    "🐧 Linux/init 服务器.md",
     "🐳 Docker/安装.md",
     "🐳 Docker/拉取镜像走代理.md",
     "🐳 Docker/网卡池不足.md",
     "🐳 Docker/APPS/jupyter.md",
     "🐍Python/Jupyter lab.md",
-    "🐧 Linux/init 服务器.md",
     "🐧 Linux/软件源/Conda.md",
-    "🐧 Linux/用户添加root.md",
     "🐳 Docker/APPS/clash.md",
-    "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ssh 私钥 免密登陆~.md",
     "🐳 Docker/docker-compose限制资源.md",
-    "🐧 Linux/ssh 走代理.md",
     "🐳 Docker/APPS/xrdp.md",
-    "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐳 Docker/定制GPU.md",
     "🐳 Docker/APPS/aria2c.md",
     "🐳 Docker/alias.md",
     "🐳 Docker/APPS/mysql.md",
-    "🦀Rust/openssl linux-musl 编译报错.md",
-    "🦀Rust/sccache.md",
-    "📊DB/向量数据索引类型.md",
     "📊DB",
     "🐳 Docker/APPS",
     "🍎Macos/software-backup/iShot-1.8.8.zip",
     "🍎Macos/software-backup/OneSwitch-1.31.zip",
     "🍎Macos/software-backup",
-    "🦀Rust/未使用指定包.md",
-    "📊数据库/向量数据索引类型.md",
     "_img/Pasted image 20231130135413.png",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
