@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/挂载smb.md",
+                "file": "🐳 Docker/安装.md",
                 "mode": "preview",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ghcr.io",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/挂载smb.md",
+                "file": "🐳 Docker/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/挂载smb.md",
+                "file": "🐳 Docker/安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/挂载smb.md"
+                "file": "🐳 Docker/安装.md"
               }
             }
           }
@@ -173,6 +174,7 @@
   },
   "active": "fb9d6183226a8c9a",
   "lastOpenFiles": [
+    "🐧 Linux/挂载smb.md",
     "🐳 Docker/安装.md",
     "🐳 Docker/拉取镜像走代理.md",
     "🐳 Docker/网卡池不足.md",
@@ -203,7 +205,6 @@
     "🍎Macos/software-backup",
     "🦀Rust/未使用指定包.md",
     "📊数据库/向量数据索引类型.md",
-    "🐧 Linux/软件源/Ubuntu.md",
     "_img/Pasted image 20231130135413.png",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
