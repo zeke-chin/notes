@@ -47,9 +47,11 @@
             "id": "f5a06154d7d2752a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "📊DB/向量数据索引类型.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "📊DB/向量数据索引类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "📊DB/向量数据索引类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/init 服务器.md"
+                "file": "📊DB/向量数据索引类型.md"
               }
             }
           }
@@ -183,6 +185,11 @@
   },
   "active": "f5a06154d7d2752a",
   "lastOpenFiles": [
+    "🐍Python/简单进程池.md",
+    "🐍Python/数据精度.md",
+    "🐍Python/redis-py ConnectionErrors.md",
+    "🐍Python/Jupyter lab.md",
+    "🐍Python/sentence embedding任务中的池化.md",
     "🐳 Docker/安装.md",
     "🐳 Docker/拉取镜像走代理.md",
     "🐧 Linux/init 服务器.md",
@@ -198,17 +205,12 @@
     "🐧 Linux/挂载ftp.md",
     "🐳 Docker/网卡池不足.md",
     "🐳 Docker/APPS/jupyter.md",
-    "🐍Python/Jupyter lab.md",
     "🐧 Linux/软件源/Conda.md",
     "🐳 Docker/APPS/clash.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ssh 私钥 免密登陆~.md",
     "🐳 Docker/docker-compose限制资源.md",
     "🐳 Docker/APPS/xrdp.md",
-    "🐳 Docker/定制GPU.md",
-    "🐳 Docker/APPS/aria2c.md",
-    "🐳 Docker/alias.md",
-    "🐳 Docker/APPS/mysql.md",
     "📊DB",
     "🐳 Docker/APPS",
     "🍎Macos/software-backup/iShot-1.8.8.zip",
