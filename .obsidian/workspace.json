@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5a06154d7d2752a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,7 +181,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a4f7ad7879e05765",
+  "active": "f5a06154d7d2752a",
   "lastOpenFiles": [
     "🐳 Docker/安装.md",
     "🐳 Docker/拉取镜像走代理.md",
