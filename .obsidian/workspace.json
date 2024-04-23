@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md",
+                "file": "🐧 Linux/挂载smb.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ghcr.io",
+                "query": "mount",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md",
+                "file": "🐧 Linux/挂载smb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md",
+                "file": "🐧 Linux/挂载smb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md"
+                "file": "🐧 Linux/挂载smb.md"
               }
             }
           }
@@ -185,6 +186,8 @@
   },
   "active": "f5a06154d7d2752a",
   "lastOpenFiles": [
+    "🐧 Linux/挂载ftp.md",
+    "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/clash.md",
     "🐳 Docker/APPS/mysql.md",
     "🐳 Docker/安装.md",
@@ -205,9 +208,7 @@
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐧 Linux/修改主机名.md",
     "🐧 Linux/挂载smb.md",
-    "🐧 Linux/挂载ftp.md",
     "🐳 Docker/网卡池不足.md",
-    "🐳 Docker/APPS/jupyter.md",
     "🐧 Linux/软件源/Conda.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ssh 私钥 免密登陆~.md",
