@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐳 Docker/APPS/jupyter.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐳 Docker/APPS/jupyter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐳 Docker/APPS/jupyter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/安装.md"
+                "file": "🐳 Docker/APPS/jupyter.md"
               }
             }
           }
@@ -185,6 +185,9 @@
   },
   "active": "f5a06154d7d2752a",
   "lastOpenFiles": [
+    "🐳 Docker/APPS/clash.md",
+    "🐳 Docker/APPS/mysql.md",
+    "🐳 Docker/安装.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
     "📊DB/向量数据索引类型.md",
     "🐍Python/简单进程池.md",
@@ -192,7 +195,6 @@
     "🐍Python/redis-py ConnectionErrors.md",
     "🐍Python/Jupyter lab.md",
     "🐍Python/sentence embedding任务中的池化.md",
-    "🐳 Docker/安装.md",
     "🐳 Docker/拉取镜像走代理.md",
     "🐧 Linux/init 服务器.md",
     "🐧 Linux/clash 教程.md",
@@ -207,10 +209,8 @@
     "🐳 Docker/网卡池不足.md",
     "🐳 Docker/APPS/jupyter.md",
     "🐧 Linux/软件源/Conda.md",
-    "🐳 Docker/APPS/clash.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ssh 私钥 免密登陆~.md",
-    "🐳 Docker/docker-compose限制资源.md",
     "📊DB",
     "🐳 Docker/APPS",
     "🍎Macos/software-backup/iShot-1.8.8.zip",
