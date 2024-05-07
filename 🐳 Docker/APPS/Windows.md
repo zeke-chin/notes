@@ -7,6 +7,8 @@ services:
     environment:
       VERSION: "tiny10"	# 镜像版本
       DISK_SIZE: "600G"		# 磁盘大小
+      RAM_SIZE: "8G"
+      CPU_CORES: "4"
     devices:
       - /dev/kvm
     cap_add:
@@ -50,5 +52,25 @@ environment:
 | `core11`  | Tiny 11 Core 微型 11 核                            | 2.1 GB 2.1GB |
 | `tiny11`  | Tiny 11 小11                                     | 3.8 GB 3.8GB |
 | `tiny10`  | Tiny 10 小10                                     | 3.6 GB 3.6GB |
+
+- ### How do I pass-through a disk? 如何传递磁盘？
+
+  
+
+  It is possible to pass-through disk devices directly by adding them to your compose file in this way:
+  通过将磁盘设备添加到您的撰写文件中，可以直接传递磁盘设备：
+
+  ```
+  devices:
+    - /dev/sdb:/disk1
+    - /dev/sdc:/disk2
+  ```
+
+  
+
+  Use `/disk1` if you want it to become your main drive, and use `/disk2` and higher to add them as secondary drives.
+  如果您希望它成为主驱动器，请使用 `/disk1` ，并使用 `/disk2` 及更高版本将它们添加为辅助驱动器。
+
+
 
 https://github.com/dockur/windows
