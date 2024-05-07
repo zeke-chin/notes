@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/docker-compose限制资源.md",
-                "mode": "preview",
+                "file": "🐳 Docker/APPS/Windows.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/docker-compose限制资源.md",
+                "file": "🐳 Docker/APPS/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/docker-compose限制资源.md",
+                "file": "🐳 Docker/APPS/Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/docker-compose限制资源.md"
+                "file": "🐳 Docker/APPS/Windows.md"
               }
             }
           }
@@ -185,6 +185,8 @@
   },
   "active": "f5a06154d7d2752a",
   "lastOpenFiles": [
+    "🐳 Docker/docker-compose限制资源.md",
+    "🐳 Docker/APPS/Windows.md",
     "🐧 Linux/挂载smb.md",
     "🐧 Linux/挂载ftp.md",
     "🐳 Docker/APPS/jupyter.md",
@@ -209,8 +211,6 @@
     "🐧 Linux/修改主机名.md",
     "🐳 Docker/网卡池不足.md",
     "🐧 Linux/软件源/Conda.md",
-    "🐧 Linux/ssh 私钥 免密登陆.md",
-    "🐧 Linux/ssh 私钥 免密登陆~.md",
     "📊DB",
     "🐳 Docker/APPS",
     "🍎Macos/software-backup/iShot-1.8.8.zip",
