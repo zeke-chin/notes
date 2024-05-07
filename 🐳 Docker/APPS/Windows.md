@@ -5,7 +5,8 @@ services:
     image: dockurr/windows
     container_name: windows
     environment:
-      VERSION: "tiny10"
+      VERSION: "tiny10"	# 镜像版本
+      DISK_SIZE: "600G"		# 磁盘大小
     devices:
       - /dev/kvm
     cap_add:
@@ -16,6 +17,7 @@ services:
       - 3389:3389/udp
 		volumes:
 		  - ./data:/storage
+		  - ./shared:/shared	# 网络共享
     stop_grace_period: 2m
     restart: on-failure
 ```
