@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/ubuntu 安装nvidia驱动.md",
-                "mode": "preview",
+                "file": "🍎Macos/iterm2 快捷键.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/ubuntu 安装nvidia驱动.md",
+                "file": "🍎Macos/iterm2 快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/ubuntu 安装nvidia驱动.md",
+                "file": "🍎Macos/iterm2 快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/ubuntu 安装nvidia驱动.md"
+                "file": "🍎Macos/iterm2 快捷键.md"
               }
             }
           }
@@ -186,6 +185,8 @@
   },
   "active": "f5a06154d7d2752a",
   "lastOpenFiles": [
+    "🐧 Linux/ubuntu 安装nvidia驱动.md",
+    "🍎Macos/iterm2 快捷键.md",
     "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/定制GPU.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
@@ -210,8 +211,6 @@
     "🐧 Linux/init 服务器.md",
     "🐧 Linux/clash 教程.md",
     "🐧 Linux/headscale + Tailscale.md",
-    "🐧 Linux/linux 压测GPU.md",
-    "🐧 Linux/ssh 走代理.md",
     "📊DB",
     "🐳 Docker/APPS",
     "🍎Macos/software-backup/iShot-1.8.8.zip",
