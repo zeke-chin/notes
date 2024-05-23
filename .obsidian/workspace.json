@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
+                "file": "📊DB/向量数据索引类型.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
+                "file": "📊DB/向量数据索引类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
+                "file": "📊DB/向量数据索引类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md"
+                "file": "📊DB/向量数据索引类型.md"
               }
             }
           }
@@ -185,6 +185,7 @@
   },
   "active": "f5a06154d7d2752a",
   "lastOpenFiles": [
+    "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ssh 走代理.md",
     "🍎Macos/iterm2 快捷键.md",
@@ -197,7 +198,6 @@
     "🐳 Docker/APPS/clash.md",
     "🐧 Linux/用户添加root.md",
     "🐳 Docker/安装.md",
-    "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🐳 Docker/APPS/Windows~.md",
     "🐳 Docker/docker-compose限制资源.md",
     "🐧 Linux/挂载smb.md",
