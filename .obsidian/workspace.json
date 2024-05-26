@@ -4,18 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "f44587384fa0aaf0",
+        "id": "35d70bb4acc5ad9c",
         "type": "tabs",
         "children": [
           {
-            "id": "4ca4b41a6bb0050d",
+            "id": "5821d1777ca78090",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🐳 Docker/安装.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc1cdde4fb365b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4f7ad7879e05765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🐧 Linux/init 服务器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5a06154d7d2752a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🐧 Linux/挂载smb.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -44,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nvcc",
+                "query": "\"mount.cifs -o\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🐧 Linux/挂载smb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🐧 Linux/挂载smb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🐧 Linux/挂载smb.md"
+              }
             }
           }
         ]
@@ -142,36 +187,36 @@
   "active": "f30305d496dace9b",
   "lastOpenFiles": [
     "🐳 Docker/APPS/postgres.md",
-    "🐧 Linux/挂载smb.md",
-    "🐧 Linux/ubuntu 安装nvidia驱动.md",
-    "conflict-files-obsidian-git.md",
-    "🐳 Docker/APPS/Windows.md",
-    "🍎Macos/iterm2 快捷键.md",
-    "🐳 Docker/安装.md",
-    "🐧 Linux/Vim 黏贴缩进错乱.md",
-    "🐳 Docker/APPS/xrdp.md",
-    "🐳 Docker/定制GPU.md",
-    "🐳 Docker/网卡池不足.md",
-    "🐳 Docker/拉取镜像走代理.md",
-    "🐳 Docker/APPS/clash.md",
-    "🐳 Docker/APPS/aria2c.md",
-    "🐧 Linux/ssh 私钥 免密登陆.md",
-    "🐳 Docker/docker-compose限制资源.md",
-    "🐳 Docker/alias.md",
-    "🐳 Docker/APPS/mysql.md",
-    "🐳 Docker/APPS/jupyter.md",
-    "🦀Rust/openssl linux-musl 编译报错.md",
-    "🦀Rust/sccache.md",
     "📊DB/向量数据索引类型.md",
+    "🐧 Linux/Vim 黏贴缩进错乱.md",
+    "🐧 Linux/ssh 私钥 免密登陆.md",
+    "🐧 Linux/ssh 走代理.md",
+    "🍎Macos/iterm2 快捷键.md",
+    "🐧 Linux/ubuntu 安装nvidia驱动.md",
+    "🐳 Docker/APPS/jupyter.md",
+    "🐳 Docker/定制GPU.md",
+    "🐳 Docker/APPS/xrdp.md",
+    "🐳 Docker/APPS/Windows.md",
+    "🐳 Docker/APPS/mysql.md",
+    "🐳 Docker/APPS/clash.md",
+    "🐧 Linux/用户添加root.md",
+    "🐳 Docker/安装.md",
+    "🐳 Docker/APPS/Windows~.md",
+    "🐳 Docker/docker-compose限制资源.md",
+    "🐧 Linux/挂载smb.md",
+    "🐧 Linux/挂载ftp.md",
+    "🐍Python/简单进程池.md",
+    "🐍Python/数据精度.md",
+    "🐍Python/redis-py ConnectionErrors.md",
+    "🐍Python/Jupyter lab.md",
+    "🐍Python/sentence embedding任务中的池化.md",
+    "🐳 Docker/拉取镜像走代理.md",
+    "🐧 Linux/init 服务器.md",
     "📊DB",
     "🐳 Docker/APPS",
-    "🐧 Linux/init 服务器.md",
     "🍎Macos/software-backup/iShot-1.8.8.zip",
     "🍎Macos/software-backup/OneSwitch-1.31.zip",
     "🍎Macos/software-backup",
-    "🦀Rust/未使用指定包.md",
-    "📊数据库/向量数据索引类型.md",
-    "🐧 Linux/软件源/Conda.md",
     "_img/Pasted image 20231130135413.png",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
