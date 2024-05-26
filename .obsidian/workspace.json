@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nvcc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4ca4b41a6bb0050d",
+  "active": "f30305d496dace9b",
   "lastOpenFiles": [
     "🐳 Docker/APPS/postgres.md",
     "🐧 Linux/挂载smb.md",
