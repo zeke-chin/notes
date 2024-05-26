@@ -42,6 +42,10 @@ Failed to connect with SMB1 -- no workgroup available
 
 
 2. 挂载
+```bash
+apt install cifs-utils -y
+```
+
 ```
 mount.cifs -o user=stu1,pass=123456 //192.168.221.129/zeke /stu1
 ```
