@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/软件源/Conda.md",
+                "file": "🐳 Docker/APPS/aria2c.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "miniconda",
+                "query": "TZ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/软件源/Conda.md",
+                "file": "🐳 Docker/APPS/aria2c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/软件源/Conda.md",
+                "file": "🐳 Docker/APPS/aria2c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/软件源/Conda.md"
+                "file": "🐳 Docker/APPS/aria2c.md"
               }
             }
           }
@@ -186,6 +186,7 @@
   },
   "active": "f5a06154d7d2752a",
   "lastOpenFiles": [
+    "🐧 Linux/软件源/Conda.md",
     "🐧 Linux/挂载smb.md",
     "🐳 Docker/APPS/postgres.md",
     "📊DB/向量数据索引类型.md",
@@ -211,7 +212,6 @@
     "🐍Python/Jupyter lab.md",
     "🐍Python/sentence embedding任务中的池化.md",
     "🐳 Docker/拉取镜像走代理.md",
-    "🐧 Linux/init 服务器.md",
     "📊DB",
     "🐳 Docker/APPS",
     "🍎Macos/software-backup/iShot-1.8.8.zip",
