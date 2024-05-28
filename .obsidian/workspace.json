@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/APPS/aria2c.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TZ",
+                "query": "clash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/APPS/aria2c.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/APPS/aria2c.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/APPS/aria2c.md"
+                "file": "🐳 Docker/APPS/clash.md"
               }
             }
           }
@@ -186,6 +186,7 @@
   },
   "active": "f5a06154d7d2752a",
   "lastOpenFiles": [
+    "🐳 Docker/APPS/aria2c.md",
     "🐧 Linux/软件源/Conda.md",
     "🐧 Linux/挂载smb.md",
     "🐳 Docker/APPS/postgres.md",
@@ -211,7 +212,6 @@
     "🐍Python/redis-py ConnectionErrors.md",
     "🐍Python/Jupyter lab.md",
     "🐍Python/sentence embedding任务中的池化.md",
-    "🐳 Docker/拉取镜像走代理.md",
     "📊DB",
     "🐳 Docker/APPS",
     "🍎Macos/software-backup/iShot-1.8.8.zip",
