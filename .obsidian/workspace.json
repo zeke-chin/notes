@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐧 Linux/软件源/Conda.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,14 +182,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a4f7ad7879e05765",
+  "active": "5821d1777ca78090",
   "lastOpenFiles": [
+    "🐳 Docker/安装.md",
+    "🐧 Linux/软件源/Conda.md",
+    "🐧 Linux/init 服务器.md",
     "🐧 Linux/软件源/Ubuntu.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
-    "🐧 Linux/init 服务器.md",
     "🐳 Docker/APPS/clash.md",
     "🐳 Docker/APPS/aria2c.md",
-    "🐧 Linux/软件源/Conda.md",
     "🐧 Linux/挂载smb.md",
     "🐳 Docker/APPS/postgres.md",
     "📊DB/向量数据索引类型.md",
@@ -204,7 +204,6 @@
     "🐳 Docker/APPS/Windows.md",
     "🐳 Docker/APPS/mysql.md",
     "🐧 Linux/用户添加root.md",
-    "🐳 Docker/安装.md",
     "🐳 Docker/APPS/Windows~.md",
     "🐳 Docker/docker-compose限制资源.md",
     "🐧 Linux/挂载ftp.md",
