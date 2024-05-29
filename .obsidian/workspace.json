@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📊DB/向量数据索引类型.md",
-                "mode": "source",
+                "file": "🐳 Docker/安装.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📊DB/向量数据索引类型.md",
+                "file": "🐳 Docker/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📊DB/向量数据索引类型.md",
+                "file": "🐳 Docker/安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📊DB/向量数据索引类型.md"
+                "file": "🐳 Docker/安装.md"
               }
             }
           }
@@ -184,6 +184,7 @@
   },
   "active": "5821d1777ca78090",
   "lastOpenFiles": [
+    "📊DB/向量数据索引类型.md",
     "🐳 Docker/APPS/jupyter.md",
     "🐧 Linux/init 服务器.md",
     "🐳 Docker/安装.md",
@@ -194,7 +195,6 @@
     "🐳 Docker/APPS/aria2c.md",
     "🐧 Linux/挂载smb.md",
     "🐳 Docker/APPS/postgres.md",
-    "📊DB/向量数据索引类型.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ssh 走代理.md",
