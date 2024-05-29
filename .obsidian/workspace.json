@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4ef97d96ff5c2777",
+        "id": "35d70bb4acc5ad9c",
         "type": "tabs",
         "children": [
           {
-            "id": "4b6773e5557d5e9b",
+            "id": "5821d1777ca78090",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐧 Linux/ubuntu 安装nvidia驱动.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb9d6183226a8c9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "公钥",
+                "query": "vim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md"
+                "file": "🐧 Linux/Vim 黏贴缩进错乱.md"
               }
             }
           }
@@ -147,26 +160,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4b6773e5557d5e9b",
+  "active": "fb9d6183226a8c9a",
   "lastOpenFiles": [
-    "🦀Rust/openssl linux-musl 编译报错.md",
-    "🐧 Linux/ssh 私钥 免密登陆.md",
-    "🐳 Docker/拉取镜像走代理.md",
+    "🐳 Docker/APPS/xrdp.md",
     "🐳 Docker/安装.md",
     "🐳 Docker/定制GPU.md",
-    "🐳 Docker/网卡池不足.md",
-    "🐳 Docker/alias.md",
-    "🐳 Docker/docker-compose限制资源.md",
+    "🐧 Linux/ssh 走代理.md",
+    "🐧 Linux/ssh 私钥 免密登陆.md",
+    "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/clash.md",
+    "🐳 Docker/alias.md",
+    "🐳 Docker/网卡池不足.md",
+    "🐳 Docker/拉取镜像走代理.md",
+    "🐳 Docker/APPS/clash.md",
+    "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐳 Docker/APPS/aria2c.md",
-    "🐳 Docker/APPS/xrdp.md",
+    "🐧 Linux/ssh 私钥 免密登陆.md",
+    "🐳 Docker/docker-compose限制资源.md",
+    "🐳 Docker/alias.md",
     "🐳 Docker/APPS/mysql.md",
     "🐳 Docker/APPS/jupyter.md",
+    "🦀Rust/openssl linux-musl 编译报错.md",
     "🦀Rust/sccache.md",
     "📊DB/向量数据索引类型.md",
     "📊DB",
     "🐳 Docker/APPS",
-    "🐧 Linux/init 服务器.md",
     "🍎Macos/software-backup/iShot-1.8.8.zip",
     "🍎Macos/software-backup/OneSwitch-1.31.zip",
     "🍎Macos/software-backup",
@@ -179,7 +197,6 @@
     "🐍Python/redis-py ConnectionErrors.md",
     "未命名.md",
     "🐧 Linux/挂载ftp.md",
-    "🐧 Linux/挂载ftp~.md",
     "_img/Pasted image 20231130135413.png",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
