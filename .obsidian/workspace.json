@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐳 Docker/APPS/jupyter.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clash",
+                "query": "jupyter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐳 Docker/APPS/jupyter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐳 Docker/APPS/jupyter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/init 服务器.md"
+                "file": "🐳 Docker/APPS/jupyter.md"
               }
             }
           }
@@ -184,9 +185,9 @@
   },
   "active": "5821d1777ca78090",
   "lastOpenFiles": [
+    "🐧 Linux/init 服务器.md",
     "🐳 Docker/安装.md",
     "🐧 Linux/软件源/Conda.md",
-    "🐧 Linux/init 服务器.md",
     "🐧 Linux/软件源/Ubuntu.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐳 Docker/APPS/clash.md",
