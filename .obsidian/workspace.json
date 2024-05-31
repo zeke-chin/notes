@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/init 服务器.md"
+                "file": "🐳 Docker/APPS/clash.md"
               }
             }
           }
@@ -255,6 +255,7 @@
   },
   "active": "204f5e5949286058",
   "lastOpenFiles": [
+    "🐧 Linux/init 服务器.md",
     "🐳 Docker/安装.md",
     "🐳 Docker/APPS/postgres.md",
     "🐳 Docker/APPS/Windows.md",
@@ -262,7 +263,6 @@
     "🐳 Docker/APPS/Tailscale DERP server.md",
     "conflict-files-obsidian-git.md",
     "🐳 Docker/APPS/aria2c.md",
-    "🐧 Linux/init 服务器.md",
     "🐳 Docker/定制GPU.md",
     "🐧 Linux/ssh 走代理.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
