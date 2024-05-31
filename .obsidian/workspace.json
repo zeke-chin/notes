@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md"
+                "file": "🐧 Linux/init 服务器.md"
               }
             }
           }
@@ -255,6 +255,8 @@
   },
   "active": "204f5e5949286058",
   "lastOpenFiles": [
+    "🐧 Linux/linux 压测GPU.md",
+    "🐳 Docker/APPS/clash.md",
     "🐧 Linux/init 服务器.md",
     "🐳 Docker/安装.md",
     "🐳 Docker/APPS/postgres.md",
@@ -267,12 +269,10 @@
     "🐧 Linux/ssh 走代理.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐳 Docker/APPS/jupyter.md",
-    "🐳 Docker/APPS/clash.md",
     "🐳 Docker/alias.md",
     "🐳 Docker/网卡池不足.md",
     "🐳 Docker/拉取镜像走代理.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
-    "🐧 Linux/linux 压测GPU.md",
     "🐧 Linux/headscale + Tailscale.md",
     "🐧 Linux/clash 教程.md",
     "🐧 Linux/用户添加root.md",
