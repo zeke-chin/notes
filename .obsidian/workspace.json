@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/APPS/Tailscale DERP server.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/安装.md"
+                "file": "🐧 Linux/init 服务器.md"
               }
             }
           }
@@ -253,8 +253,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5ca460d3452045c3",
+  "active": "204f5e5949286058",
   "lastOpenFiles": [
+    "🐳 Docker/安装.md",
     "🐳 Docker/APPS/postgres.md",
     "🐳 Docker/APPS/Windows.md",
     "🍎Macos/iterm2 快捷键.md",
@@ -262,7 +263,6 @@
     "conflict-files-obsidian-git.md",
     "🐳 Docker/APPS/aria2c.md",
     "🐧 Linux/init 服务器.md",
-    "🐳 Docker/安装.md",
     "🐳 Docker/定制GPU.md",
     "🐧 Linux/ssh 走代理.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
