@@ -119,8 +119,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
-                "mode": "source",
+                "file": "🐳 Docker/安装.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐳 Docker/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐳 Docker/安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/init 服务器.md"
+                "file": "🐳 Docker/安装.md"
               }
             }
           }
@@ -255,9 +255,9 @@
   },
   "active": "204f5e5949286058",
   "lastOpenFiles": [
+    "🐧 Linux/init 服务器.md",
     "🐧 Linux/linux 压测GPU.md",
     "🐳 Docker/APPS/clash.md",
-    "🐧 Linux/init 服务器.md",
     "🐳 Docker/安装.md",
     "🐳 Docker/APPS/postgres.md",
     "🐳 Docker/APPS/Windows.md",
