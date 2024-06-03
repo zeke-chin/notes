@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "35d70bb4acc5ad9c",
+        "id": "ee713f8a44f2b5ec",
         "type": "tabs",
         "children": [
           {
-            "id": "efac6ee3c38a787e",
+            "id": "24dae71978c9d392",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
-            "id": "46041db5569ae50d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐳 Docker/APPS/clash.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
         ]
       }
     ],
@@ -60,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jupyter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🐳 Docker/APPS/clash.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,39 +138,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f5a06154d7d2752a",
+  "active": "24dae71978c9d392",
   "lastOpenFiles": [
-    "🐳 Docker/APPS/aria2c.md",
-    "🐳 Docker/APPS/clash.md",
+    "🐧 Linux/init 服务器.md",
+    "🐧 Linux/ubuntu 安装nvidia驱动.md",
+    "🐧 Linux/软件源/Conda.md",
+    "conflict-files-obsidian-git.md",
+    "🐳 Docker/APPS/Tailscale DERP server.md",
+    "🍎Macos/iterm2 快捷键.md",
+    "🐧 Linux/Vim 黏贴缩进错乱.md",
+    "🐳 Docker/APPS/postgres.md",
+    "🐳 Docker/APPS/Windows.md",
     "🐳 Docker/APPS/xrdp.md",
     "🐳 Docker/安装.md",
-    "🐳 Docker/APPS/Windows.md",
-    "🐳 Docker/APPS/Tailscale DERP server.md",
-    "🐧 Linux/软件源/Conda.md",
-    "🐧 Linux/init 服务器.md",
-    "🐧 Linux/软件源/Ubuntu.md",
-    "conflict-files-obsidian-git.md",
-    "🐧 Linux/Vim 黏贴缩进错乱.md",
-    "📊DB/向量数据索引类型.md",
-    "🐳 Docker/APPS/jupyter.md",
-    "🐧 Linux/ubuntu 安装nvidia驱动.md",
-    "🐧 Linux/挂载smb.md",
-    "🐳 Docker/APPS/postgres.md",
-    "🐧 Linux/ssh 私钥 免密登陆.md",
-    "🐧 Linux/ssh 走代理.md",
-    "🍎Macos/iterm2 快捷键.md",
     "🐳 Docker/定制GPU.md",
-    "🐳 Docker/APPS/mysql.md",
-    "🐧 Linux/用户添加root.md",
-    "🐳 Docker/APPS/Windows~.md",
+    "🐳 Docker/网卡池不足.md",
+    "🐳 Docker/拉取镜像走代理.md",
+    "🐳 Docker/APPS/clash.md",
+    "🐳 Docker/APPS/aria2c.md",
+    "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐳 Docker/docker-compose限制资源.md",
-    "🐧 Linux/挂载ftp.md",
-    "🐍Python/简单进程池.md",
+    "🐳 Docker/alias.md",
+    "🐳 Docker/APPS/mysql.md",
+    "🐳 Docker/APPS/jupyter.md",
+    "🦀Rust/openssl linux-musl 编译报错.md",
+    "🦀Rust/sccache.md",
+    "📊DB/向量数据索引类型.md",
     "📊DB",
     "🐳 Docker/APPS",
     "🍎Macos/software-backup/iShot-1.8.8.zip",
     "🍎Macos/software-backup/OneSwitch-1.31.zip",
     "🍎Macos/software-backup",
+    "🦀Rust/未使用指定包.md",
+    "📊数据库/向量数据索引类型.md",
     "_img/Pasted image 20231130135413.png",
     "🐍Python/Triton/img/Pasted image 20231018153710.png",
     "🐍Python/Triton/img/Pasted image 20231018154056.png",
