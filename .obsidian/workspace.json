@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/软件源/Ubuntu.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/软件源/Ubuntu.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/软件源/Ubuntu.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/软件源/Ubuntu.md"
+                "file": "🐧 Linux/init 服务器.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "f5a06154d7d2752a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "🐧 Linux/软件源/Ubuntu.md",
+    "conflict-files-obsidian-git.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🐧 Linux/软件源/Conda.md",
     "🐳 Docker/安装.md",
