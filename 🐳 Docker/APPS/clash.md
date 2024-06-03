@@ -15,6 +15,21 @@ services:
       - '39090:9090'
     environment:
       - clash-url=
+
+
+ lan-clip:
+    hostname: clip
+    container_name: clip
+    restart: always
+    image: registry.cn-shanghai.aliyuncs.com/zekechin/lan-clip:latest
+    privileged: true
+    ipc: host
+    tty: true
+    ports:
+      - '9501:9501'
+    volumes:
+      - './clip-cfg.json:/app/server/config.json'
+
 ```
 
 Github: `https://github.com/Zeke-chin/clash_config_manager`

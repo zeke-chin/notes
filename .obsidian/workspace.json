@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/init 服务器.md"
+                "file": "🐳 Docker/APPS/clash.md"
               }
             }
           }
@@ -148,26 +148,26 @@
   },
   "active": "f5a06154d7d2752a",
   "lastOpenFiles": [
+    "🐳 Docker/APPS/aria2c.md",
+    "🐳 Docker/APPS/clash.md",
+    "🐳 Docker/APPS/xrdp.md",
+    "🐳 Docker/安装.md",
+    "🐳 Docker/APPS/Windows.md",
+    "🐳 Docker/APPS/Tailscale DERP server.md",
+    "🐧 Linux/软件源/Conda.md",
+    "🐧 Linux/init 服务器.md",
     "🐧 Linux/软件源/Ubuntu.md",
     "conflict-files-obsidian-git.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
-    "🐧 Linux/软件源/Conda.md",
-    "🐳 Docker/安装.md",
-    "🐳 Docker/APPS/Tailscale DERP server.md",
     "📊DB/向量数据索引类型.md",
     "🐳 Docker/APPS/jupyter.md",
-    "🐧 Linux/init 服务器.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
-    "🐳 Docker/APPS/clash.md",
-    "🐳 Docker/APPS/aria2c.md",
     "🐧 Linux/挂载smb.md",
     "🐳 Docker/APPS/postgres.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ssh 走代理.md",
     "🍎Macos/iterm2 快捷键.md",
     "🐳 Docker/定制GPU.md",
-    "🐳 Docker/APPS/xrdp.md",
-    "🐳 Docker/APPS/Windows.md",
     "🐳 Docker/APPS/mysql.md",
     "🐧 Linux/用户添加root.md",
     "🐳 Docker/APPS/Windows~.md",
