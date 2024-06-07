@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "3a13bdd4590881e9",
+    "id": "22629be74d56a19b",
     "type": "split",
     "children": [
       {
-        "id": "baf124b8a03e5ce5",
+        "id": "35d70bb4acc5ad9c",
         "type": "tabs",
         "children": [
           {
-            "id": "8a3cc76ce088ff61",
+            "id": "f5a06154d7d2752a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐧 Linux/linux 压测GPU.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bbfebea3320f9976",
+    "id": "ac90d00d2079c520",
     "type": "split",
     "children": [
       {
-        "id": "a250bdd270fcc64f",
+        "id": "48fba04771a9e6bf",
         "type": "tabs",
         "children": [
           {
-            "id": "ac5f163c60de562e",
+            "id": "5ca460d3452045c3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "ea851da5dc9dfb98",
+            "id": "f30305d496dace9b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gpu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,34 +58,35 @@
             }
           },
           {
-            "id": "372b46b979004f14",
+            "id": "f047b2b3ac0f28f2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "1cb431a169840d79",
+    "id": "1407623c76f44ec2",
     "type": "split",
     "children": [
       {
-        "id": "8c596d7a23f47630",
+        "id": "11169f3b0802a492",
         "type": "tabs",
         "children": [
           {
-            "id": "6cf1a43af9e72472",
+            "id": "e6645c4331a7a9d1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐧 Linux/linux 压测GPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +98,19 @@
             }
           },
           {
-            "id": "5ff2874331890919",
+            "id": "a0c1af194e3139af",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐧 Linux/linux 压测GPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "12f2e6a21f20e4e5",
+            "id": "98a373793d60a2ed",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +121,12 @@
             }
           },
           {
-            "id": "fcb6dd22f6189fe6",
+            "id": "efbad553a847bd45",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md"
+                "file": "🐧 Linux/linux 压测GPU.md"
               }
             }
           }
@@ -146,9 +147,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8a3cc76ce088ff61",
+  "active": "f5a06154d7d2752a",
   "lastOpenFiles": [
-    "🐍Python/Jupyter lab.md",
-    "🐳 Docker/APPS/jupyter.md"
+    "🐳 Docker/APPS/clash.md",
+    "🐳 Docker/APPS/aria2c.md",
+    "🐳 Docker/APPS/xrdp.md",
+    "🐳 Docker/安装.md",
+    "🐳 Docker/APPS/Windows.md",
+    "🐳 Docker/APPS/Tailscale DERP server.md",
+    "🐧 Linux/软件源/Conda.md",
+    "🐧 Linux/init 服务器.md",
+    "🐧 Linux/软件源/Ubuntu.md",
+    "conflict-files-obsidian-git.md",
+    "🐧 Linux/Vim 黏贴缩进错乱.md",
+    "📊DB/向量数据索引类型.md",
+    "🐳 Docker/APPS/jupyter.md",
+    "🐧 Linux/ubuntu 安装nvidia驱动.md",
+    "🐧 Linux/挂载smb.md",
+    "🐳 Docker/APPS/postgres.md",
+    "🐧 Linux/ssh 私钥 免密登陆.md",
+    "🐧 Linux/ssh 走代理.md",
+    "🍎Macos/iterm2 快捷键.md",
+    "🐳 Docker/定制GPU.md",
+    "🐳 Docker/APPS/mysql.md",
+    "🐧 Linux/用户添加root.md",
+    "🐳 Docker/APPS/Windows~.md",
+    "🐳 Docker/docker-compose限制资源.md",
+    "🐧 Linux/挂载ftp.md",
+    "🐍Python/简单进程池.md",
+    "📊DB",
+    "🐳 Docker/APPS",
+    "🍎Macos/software-backup/iShot-1.8.8.zip",
+    "🍎Macos/software-backup/OneSwitch-1.31.zip",
+    "🍎Macos/software-backup",
+    "_img/Pasted image 20231130135413.png",
+    "🐍Python/Triton/img/Pasted image 20231018153710.png",
+    "🐍Python/Triton/img/Pasted image 20231018154056.png",
+    "🐍Python/Triton/img",
+    "🐍Python/Triton/img/Pasted image 20231018153852.png",
+    "🐍Python/Triton/img/Pasted image 20231018153727.png",
+    "🐍Python/Triton/img/Pasted image 20231018153716.png",
+    "_img",
+    "🐍Python/Triton/img/Pasted image 20231018153841.png",
+    "📊数据库",
+    "🦀Rust",
+    "🐍Python/Triton/img",
+    "🐍Python/Triton/img/Pasted image 20231018154035.png",
+    "🐧 Linux/clash 教程.assets/Pasted image 20230818100341.png",
+    "🐧 Linux/clash 教程.assets/Pasted image 20230817174347.png"
   ]
 }
