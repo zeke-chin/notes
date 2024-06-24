@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/拉取镜像走代理.md",
+                "file": "🐧 Linux/ssh 走代理.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/拉取镜像走代理.md",
+                "file": "🐧 Linux/ssh 走代理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/拉取镜像走代理.md",
+                "file": "🐧 Linux/ssh 走代理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/拉取镜像走代理.md"
+                "file": "🐧 Linux/ssh 走代理.md"
               }
             }
           }
@@ -148,13 +149,14 @@
   },
   "active": "8a3cc76ce088ff61",
   "lastOpenFiles": [
+    "🐧 Linux/ssh 私钥 免密登陆.md",
+    "🐳 Docker/拉取镜像走代理.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/aria2c.md",
     "🐧 Linux/init 服务器.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐧 Linux/clash 教程.md",
-    "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐍Python/Jupyter lab.md"
   ]
 }
