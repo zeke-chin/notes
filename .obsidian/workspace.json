@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/init 服务器.md"
+                "file": "🐧 Linux/Vim 黏贴缩进错乱.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "8a3cc76ce088ff61",
   "lastOpenFiles": [
+    "🐧 Linux/init 服务器.md",
     "🐧 Linux/ssh 走代理.md",
     "🐍Python/vscode conda init error.md",
     "未命名.md",
@@ -156,7 +157,6 @@
     "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/aria2c.md",
-    "🐧 Linux/init 服务器.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐧 Linux/clash 教程.md",
     "🐍Python/Jupyter lab.md"
