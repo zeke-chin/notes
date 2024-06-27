@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
+                "file": "🐍Python/vscode conda init error.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
+                "file": "🐍Python/vscode conda init error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
+                "file": "🐍Python/vscode conda init error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md"
+                "file": "🐍Python/vscode conda init error.md"
               }
             }
           }
