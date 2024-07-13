@@ -1,0 +1,6 @@
+
+`~/.npmrc`
+```
+registry=https://registry.npmjs.org/
+electron_mirror=https://npmmirror.com/mirrors/electron/
+```

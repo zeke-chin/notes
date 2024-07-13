@@ -13,3 +13,9 @@ export SCCACHE_ENDPOINT=https://minio-api.haihuman.com
 export SCCACHE_S3_USE_SSL=true
 export SCCACHE_REGION=auto
 ```
+3. 清除缓存
+```
+sccache --clear
+cargo clean
+cargo build
+```
