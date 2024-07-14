@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🕸️Web/Node 还源.md",
+                "file": "🍎Macos/iterm2 快捷键.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🍎Macos/iterm2 快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🍎Macos/iterm2 快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "🍎Macos/iterm2 快捷键.md"
               }
             }
           }
@@ -171,10 +173,10 @@
   },
   "active": "5ca460d3452045c3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "🐍Python/vscode conda init error.md",
     "未命名.md",
     "🕸️Web/Node 还源.md",
-    "conflict-files-obsidian-git.md",
     "🕸️Web",
     "🦀Rust/sccache.md",
     "🐳 Docker/APPS/jupyter.md",
