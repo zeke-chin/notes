@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
-                "mode": "preview",
+                "file": "🦀Rust/未命名.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🦀Rust/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🦀Rust/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/init 服务器.md"
+                "file": "🦀Rust/未命名.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ac5f163c60de562e",
+  "active": "9810a8df0178e660",
   "lastOpenFiles": [
+    "🐧 Linux/init 服务器.md",
+    "🦀Rust/未命名.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐍Python/vscode conda init error.md",
-    "🐧 Linux/init 服务器.md",
     "🦀Rust/linker `cc` not found.md",
     "未命名 1.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
