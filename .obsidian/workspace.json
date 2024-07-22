@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🦀Rust/tauri linux 开发构建所需依赖.md",
-                "mode": "source",
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦀Rust/tauri linux 开发构建所需依赖.md",
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🦀Rust/tauri linux 开发构建所需依赖.md",
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦀Rust/tauri linux 开发构建所需依赖.md"
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "9810a8df0178e660",
   "lastOpenFiles": [
-    "🐧 Linux/init 服务器.md",
     "🦀Rust/tauri linux 开发构建所需依赖.md",
+    "🐧 Linux/init 服务器.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐍Python/vscode conda init error.md",
     "🦀Rust/linker `cc` not found.md",
