@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍎Macos/iterm2 快捷键.md",
+                "file": "🕸️Web/Node 还源.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍎Macos/iterm2 快捷键.md",
+                "file": "🕸️Web/Node 还源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🍎Macos/iterm2 快捷键.md",
+                "file": "🕸️Web/Node 还源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🍎Macos/iterm2 快捷键.md"
+                "file": "🕸️Web/Node 还源.md"
               }
             }
           }
@@ -171,15 +171,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5ca460d3452045c3",
+  "active": "5be265c30dc947d6",
   "lastOpenFiles": [
+    "🐳 Docker/APPS/jupyter.md",
     "conflict-files-obsidian-git.md",
     "🐍Python/vscode conda init error.md",
     "未命名.md",
     "🕸️Web/Node 还源.md",
     "🕸️Web",
     "🦀Rust/sccache.md",
-    "🐳 Docker/APPS/jupyter.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐧 Linux/init 服务器.md",
     "🐧 Linux/软件源/Conda.md",
