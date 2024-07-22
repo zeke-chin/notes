@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "baf124b8a03e5ce5",
+        "id": "0625882b50eda2c5",
         "type": "tabs",
         "children": [
           {
-            "id": "8a3cc76ce088ff61",
+            "id": "9810a8df0178e660",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐍Python/vscode conda init error.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3bd96fc69786977",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐧 Linux/init 服务器.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🐧 Linux/init 服务器.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,8 +138,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d3bd96fc69786977",
+  "active": "9810a8df0178e660",
   "lastOpenFiles": [
+    "🐍Python/vscode conda init error.md",
+    "🐧 Linux/init 服务器.md",
     "🦀Rust/linker `cc` not found.md",
     "未命名 1.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
@@ -169,9 +150,7 @@
     "🕸️Web/Node 换源.md",
     "🦀Rust/sccache.md",
     "🕸️Web",
-    "🐧 Linux/init 服务器.md",
     "🐧 Linux/ssh 走代理.md",
-    "🐍Python/vscode conda init error.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐳 Docker/拉取镜像走代理.md",
     "🐳 Docker/APPS/jupyter.md",
