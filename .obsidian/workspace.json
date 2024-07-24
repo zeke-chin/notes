@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🦀Rust/sccache.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🦀Rust/sccache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🦀Rust/sccache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md"
+                "file": "🦀Rust/sccache.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "9810a8df0178e660",
   "lastOpenFiles": [
+    "🐧 Linux/ssh 私钥 免密登陆.md",
     "🦀Rust/tauri linux 开发构建所需依赖.md",
     "🐧 Linux/init 服务器.md",
-    "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐍Python/vscode conda init error.md",
     "🦀Rust/linker `cc` not found.md",
     "未命名 1.md",
