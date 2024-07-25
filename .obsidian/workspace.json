@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1926624d7870f05",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9810a8df0178e660",
+  "active": "b1926624d7870f05",
   "lastOpenFiles": [
     "🦀Rust/sccache.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
