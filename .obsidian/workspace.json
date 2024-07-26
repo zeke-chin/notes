@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐳 Docker/安装.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐳 Docker/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐳 Docker/安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/init 服务器.md"
+                "file": "🐳 Docker/安装.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "b1926624d7870f05",
   "lastOpenFiles": [
+    "🐧 Linux/init 服务器.md",
     "🦀Rust/sccache.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🦀Rust/tauri linux 开发构建所需依赖.md",
-    "🐧 Linux/init 服务器.md",
     "🐍Python/vscode conda init error.md",
     "🦀Rust/linker `cc` not found.md",
     "未命名 1.md",
