@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
-                "mode": "source",
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md"
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "b1926624d7870f05",
   "lastOpenFiles": [
+    "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🐳 Docker/安装.md",
     "🐧 Linux/init 服务器.md",
     "🦀Rust/sccache.md",
@@ -169,7 +170,6 @@
     "🐍Python/vscode conda init error.md",
     "🦀Rust/linker `cc` not found.md",
     "未命名 1.md",
-    "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🦀Rust/unpack Result.md",
     "🦀Rust/unpack Option.md",
     "🕸️Web/Node 换源.md",
