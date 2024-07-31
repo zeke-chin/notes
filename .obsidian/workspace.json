@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐳 Docker/APPS/jupyter.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐳 Docker/APPS/jupyter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐳 Docker/APPS/jupyter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md"
+                "file": "🐳 Docker/APPS/jupyter.md"
               }
             }
           }
@@ -161,11 +161,12 @@
   },
   "active": "b1926624d7870f05",
   "lastOpenFiles": [
+    "🐳 Docker/APPS/clash.md",
+    "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🐳 Docker/安装.md",
     "🐧 Linux/init 服务器.md",
     "🦀Rust/sccache.md",
-    "🐧 Linux/ssh 私钥 免密登陆.md",
     "🦀Rust/tauri linux 开发构建所需依赖.md",
     "🐍Python/vscode conda init error.md",
     "🦀Rust/linker `cc` not found.md",
