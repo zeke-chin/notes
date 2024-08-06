@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐍Python/Leetcode unittest.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐍Python/Leetcode unittest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐍Python/Leetcode unittest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/init 服务器.md"
+                "file": "🐍Python/Leetcode unittest.md"
               }
             }
           }
@@ -161,15 +161,21 @@
   },
   "active": "b1926624d7870f05",
   "lastOpenFiles": [
+    "🐍Python/简单进程池.md",
+    "🐍Python/Leetcode unittest.md",
+    "🐍Python/数据精度.md",
+    "🐍Python/Jupyter lab.md",
+    "🐍Python/redis-py ConnectionErrors.md",
+    "🐍Python/sentence embedding任务中的池化.md",
+    "🐍Python/vscode conda init error.md",
+    "🐧 Linux/init 服务器.md",
     "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/clash.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🐳 Docker/安装.md",
-    "🐧 Linux/init 服务器.md",
     "🦀Rust/sccache.md",
     "🦀Rust/tauri linux 开发构建所需依赖.md",
-    "🐍Python/vscode conda init error.md",
     "🦀Rust/linker `cc` not found.md",
     "未命名 1.md",
     "🦀Rust/unpack Result.md",
@@ -180,7 +186,6 @@
     "🐳 Docker/拉取镜像走代理.md",
     "🐳 Docker/APPS/aria2c.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
-    "🐧 Linux/clash 教程.md",
-    "🐍Python/Jupyter lab.md"
+    "🐧 Linux/clash 教程.md"
   ]
 }
