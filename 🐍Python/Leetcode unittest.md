@@ -13,4 +13,7 @@ class TestExceptOrder(unittest.TestCase):
     def test_test2(self):  
         self.assertEqual(test_func([1, 2, 3, 5]), False)
 
+if __name__ == '__main__':  
+    unittest.main()
+
 ```
