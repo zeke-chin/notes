@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🦀Rust/sccache.md",
+                "file": "🐧 Linux/ubuntu 安装nvidia驱动.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦀Rust/sccache.md",
+                "file": "🐧 Linux/ubuntu 安装nvidia驱动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🦀Rust/sccache.md",
+                "file": "🐧 Linux/ubuntu 安装nvidia驱动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦀Rust/sccache.md"
+                "file": "🐧 Linux/ubuntu 安装nvidia驱动.md"
               }
             }
           }
@@ -161,6 +161,11 @@
   },
   "active": "b1926624d7870f05",
   "lastOpenFiles": [
+    "🐧 Linux/ssh 私钥 免密登陆.md",
+    "🐧 Linux/ssh 走代理.md",
+    "🐧 Linux/Vim 黏贴缩进错乱.md",
+    "🐧 Linux/ubuntu 安装nvidia驱动.md",
+    "🦀Rust/sccache.md",
     "🦀Rust/tauri linux 开发构建所需依赖.md",
     "📈Leetcode/动态规划.md",
     "🐍Python/Leetcode unittest.md",
@@ -174,20 +179,15 @@
     "🐧 Linux/init 服务器.md",
     "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/clash.md",
-    "🐧 Linux/ssh 私钥 免密登陆.md",
-    "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🐳 Docker/安装.md",
-    "🦀Rust/sccache.md",
     "🦀Rust/linker `cc` not found.md",
     "未命名 1.md",
     "🦀Rust/unpack Result.md",
     "🦀Rust/unpack Option.md",
     "🕸️Web/Node 换源.md",
     "🕸️Web",
-    "🐧 Linux/ssh 走代理.md",
     "🐳 Docker/拉取镜像走代理.md",
     "🐳 Docker/APPS/aria2c.md",
-    "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐧 Linux/clash 教程.md"
   ]
 }
