@@ -35,8 +35,12 @@
             "id": "dda99d21208c0143",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🐳 Docker/APPS/pandoc.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🐳 Docker/APPS/pandoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🐳 Docker/APPS/pandoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🐳 Docker/APPS/pandoc.md"
+              }
             }
           }
         ]
@@ -165,6 +173,7 @@
   },
   "active": "dda99d21208c0143",
   "lastOpenFiles": [
+    "🐳 Docker/APPS/pandoc.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐳 Docker/APPS/jupyter.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
@@ -191,7 +200,6 @@
     "🕸️Web/Node 换源.md",
     "🕸️Web",
     "🐳 Docker/拉取镜像走代理.md",
-    "🐳 Docker/APPS/aria2c.md",
-    "🐧 Linux/clash 教程.md"
+    "🐳 Docker/APPS/aria2c.md"
   ]
 }
