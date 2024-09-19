@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🦀Rust/sccache.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🦀Rust/sccache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🦀Rust/sccache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/init 服务器.md"
+                "file": "🦀Rust/sccache.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "dda99d21208c0143",
   "lastOpenFiles": [
+    "🐧 Linux/init 服务器.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐳 Docker/APPS/jupyter.md",
@@ -190,7 +191,6 @@
     "🐍Python/redis-py ConnectionErrors.md",
     "🐍Python/sentence embedding任务中的池化.md",
     "🐍Python/vscode conda init error.md",
-    "🐧 Linux/init 服务器.md",
     "🐳 Docker/APPS/clash.md",
     "🐳 Docker/安装.md",
     "🦀Rust/linker `cc` not found.md",
