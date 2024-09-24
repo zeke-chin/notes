@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md",
-                "mode": "preview",
+                "file": "🐧 Linux/init 服务器.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md"
+                "file": "🐧 Linux/init 服务器.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "dda99d21208c0143",
   "lastOpenFiles": [
+    "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/mysql.md",
     "🐳 Docker/APPS/pandoc.md",
     "🐳 Docker/APPS/postgres.md",
@@ -180,7 +181,6 @@
     "🐳 Docker/APPS/Windows.md",
     "🐳 Docker/APPS/xrdp.md",
     "🐳 Docker/APPS/clash.md",
-    "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/aria2c.md",
     "🐧 Linux/init 服务器.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
