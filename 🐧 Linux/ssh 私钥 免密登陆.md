@@ -44,10 +44,21 @@
 
 - **编辑SSH配置文件`/etc/ssh/sshd_config`** 启用密钥登陆
 
-  - ```
+  - ```sh
     PubkeyAuthentication yes
     AuthorizedKeysFile .ssh/authorized_keys
     ```
+  
+  - ```shell
+    cp /etc/ssh/sshd_config /etc/ssh/sshd_config.bak && \
+    sed -i '/^#\?PubkeyAuthentication/s/^#\?//g' /etc/ssh/sshd_config && \
+    sed -i '/^#\?AuthorizedKeysFile/s/^#\?//g' /etc/ssh/sshd_config && \
+    sed -i '/^PubkeyAuthentication/s/.*/PubkeyAuthentication yes/' /etc/ssh/sshd_config && \
+    sed -i '/^AuthorizedKeysFile/s/.*/AuthorizedKeysFile .ssh\/authorized_keys/' /etc/ssh/sshd_config
+    
+    ```
+  
+
 
 # 3. 重启ssh服务(当PubkeyAuthentication已经启动再次新增 则不需要重启)
 

@@ -171,8 +171,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dda99d21208c0143",
+  "active": "ac5f163c60de562e",
   "lastOpenFiles": [
+    "🐧 Linux/ssh 私钥 免密登陆~.md",
     "🐳 Docker/docker-compose限制资源.md",
     "🐳 Docker/APPS/xrdp.md",
     "🐳 Docker/APPS/clash.md",
@@ -199,7 +200,6 @@
     "未命名 1.md",
     "🦀Rust/unpack Result.md",
     "🦀Rust/unpack Option.md",
-    "🕸️Web/Node 换源.md",
     "🕸️Web"
   ]
 }
