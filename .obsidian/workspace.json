@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
+                "file": "🦀Rust/openssl linux-musl 编译报错.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vim 黏贴缩进错乱"
+              "title": "openssl linux-musl 编译报错"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
+                "file": "🦀Rust/openssl linux-musl 编译报错.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Vim 黏贴缩进错乱 的反向链接列表"
+              "title": "openssl linux-musl 编译报错 的反向链接列表"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md",
+                "file": "🦀Rust/openssl linux-musl 编译报错.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Vim 黏贴缩进错乱 的出链列表"
+              "title": "openssl linux-musl 编译报错 的出链列表"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux/Vim 黏贴缩进错乱.md"
+                "file": "🦀Rust/openssl linux-musl 编译报错.md"
               },
               "icon": "lucide-list",
-              "title": "Vim 黏贴缩进错乱 的大纲"
+              "title": "openssl linux-musl 编译报错 的大纲"
             }
           }
         ]
@@ -207,6 +207,8 @@
   },
   "active": "6919eb870c63ba85",
   "lastOpenFiles": [
+    "🦀Rust/linker `cc` not found.md",
+    "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🐧 Linux/init 服务器.md",
     "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/mysql.md",
@@ -223,7 +225,6 @@
     "🦀Rust/sccache.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐧 Linux/ssh 走代理.md",
-    "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🦀Rust/tauri linux 开发构建所需依赖.md",
     "📈Leetcode/动态规划.md",
     "🐍Python/Leetcode unittest.md",
@@ -233,7 +234,6 @@
     "🐍Python/Jupyter lab.md",
     "🐍Python/redis-py ConnectionErrors.md",
     "🐍Python/sentence embedding任务中的池化.md",
-    "🐍Python/vscode conda init error.md",
     "🕸️Web"
   ]
 }
