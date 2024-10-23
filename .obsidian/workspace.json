@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🦀Rust/openssl linux-musl 编译报错.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "openssl linux-musl 编译报错"
+              "title": "clash"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦀Rust/openssl linux-musl 编译报错.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "openssl linux-musl 编译报错 的反向链接列表"
+              "title": "clash 的反向链接列表"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🦀Rust/openssl linux-musl 编译报错.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "openssl linux-musl 编译报错 的出链列表"
+              "title": "clash 的出链列表"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦀Rust/openssl linux-musl 编译报错.md"
+                "file": "🐳 Docker/APPS/clash.md"
               },
               "icon": "lucide-list",
-              "title": "openssl linux-musl 编译报错 的大纲"
+              "title": "clash 的大纲"
             }
           }
         ]
@@ -207,10 +207,12 @@
   },
   "active": "6919eb870c63ba85",
   "lastOpenFiles": [
+    "🐳 Docker/APPS/jupyter.md",
+    "🐳 Docker/APPS/aria2c.md",
+    "🦀Rust/openssl linux-musl 编译报错.md",
     "🦀Rust/linker `cc` not found.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🐧 Linux/init 服务器.md",
-    "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/mysql.md",
     "🐳 Docker/APPS/pandoc.md",
     "🐳 Docker/APPS/postgres.md",
@@ -218,7 +220,6 @@
     "🐳 Docker/APPS/Windows.md",
     "🐳 Docker/APPS/xrdp.md",
     "🐳 Docker/APPS/clash.md",
-    "🐳 Docker/APPS/aria2c.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ssh 私钥 免密登陆~.md",
     "🐳 Docker/docker-compose限制资源.md",
@@ -233,7 +234,6 @@
     "🐍Python/数据精度.md",
     "🐍Python/Jupyter lab.md",
     "🐍Python/redis-py ConnectionErrors.md",
-    "🐍Python/sentence embedding任务中的池化.md",
     "🕸️Web"
   ]
 }

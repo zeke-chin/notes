@@ -32,6 +32,12 @@ services:
 
 ```
 
+clip-config
+```
+
+```
+
+
 Github: `https://github.com/Zeke-chin/clash_config_manager`
 ```dockerfile
 FROM golang:latest as clash
