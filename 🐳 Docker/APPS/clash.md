@@ -33,7 +33,17 @@ services:
 ```
 
 clip-config
-```
+```json
+{
+    "text": {
+        "limit": 40960
+    },
+    "file": {
+        "expire": 2592000,
+        "chunk": 1048576,
+        "limit": 1073741824
+    }
+}
 
 ```
 
