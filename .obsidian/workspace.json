@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md",
+                "file": "🐧 Linux/挂载smb.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "clash"
+              "title": "挂载smb"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md",
+                "file": "🐧 Linux/挂载smb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "clash 的反向链接列表"
+              "title": "挂载smb 的反向链接列表"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md",
+                "file": "🐧 Linux/挂载smb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "clash 的出链列表"
+              "title": "挂载smb 的出链列表"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐳 Docker/APPS/clash.md"
+                "file": "🐧 Linux/挂载smb.md"
               },
               "icon": "lucide-list",
-              "title": "clash 的大纲"
+              "title": "挂载smb 的大纲"
             }
           }
         ]
@@ -205,8 +205,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6919eb870c63ba85",
+  "active": "ac5f163c60de562e",
   "lastOpenFiles": [
+    "🐳 Docker/APPS/clash.md",
     "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/aria2c.md",
     "🦀Rust/openssl linux-musl 编译报错.md",
@@ -219,7 +220,6 @@
     "🐳 Docker/APPS/Tailscale DERP server.md",
     "🐳 Docker/APPS/Windows.md",
     "🐳 Docker/APPS/xrdp.md",
-    "🐳 Docker/APPS/clash.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ssh 私钥 免密登陆~.md",
     "🐳 Docker/docker-compose限制资源.md",
