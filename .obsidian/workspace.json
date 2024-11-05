@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐳 Docker/APPS/jupyter.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ssh 私钥 免密登陆"
+              "title": "jupyter"
             }
           }
         ],
@@ -207,22 +207,23 @@
   },
   "active": "6919eb870c63ba85",
   "lastOpenFiles": [
+    "🐳 Docker/APPS/clash.md",
+    "🐳 Docker/APPS/aria2c.md",
+    "🐧 Linux/init 服务器.md",
+    "🐧 Linux/headscale + Tailscale.md",
+    "🐧 Linux/ssh 私钥 免密登陆.md",
     "📊DB/向量数据索引类型.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🐧 Linux/挂载smb.md",
-    "🐳 Docker/APPS/clash.md",
     "🐳 Docker/APPS/jupyter.md",
-    "🐳 Docker/APPS/aria2c.md",
     "🦀Rust/openssl linux-musl 编译报错.md",
     "🦀Rust/linker `cc` not found.md",
-    "🐧 Linux/init 服务器.md",
     "🐳 Docker/APPS/mysql.md",
     "🐳 Docker/APPS/pandoc.md",
     "🐳 Docker/APPS/postgres.md",
     "🐳 Docker/APPS/Tailscale DERP server.md",
     "🐳 Docker/APPS/Windows.md",
     "🐳 Docker/APPS/xrdp.md",
-    "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ssh 私钥 免密登陆~.md",
     "🐳 Docker/docker-compose限制资源.md",
     "🦀Rust/sccache.md",
@@ -233,7 +234,6 @@
     "🐍Python/Leetcode unittest.md",
     "📈Leetcode",
     "🐍Python/简单进程池.md",
-    "🐍Python/数据精度.md",
     "🕸️Web"
   ]
 }
