@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/安装.md",
+                "file": "🐧 Linux/挂载smb.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "安装"
+              "title": "挂载smb"
             }
           }
         ],
@@ -207,6 +207,7 @@
   },
   "active": "6919eb870c63ba85",
   "lastOpenFiles": [
+    "🐳 Docker/安装.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐧 Linux/修改主机名.md",
     "🐧 Linux/init 服务器.md",
@@ -232,7 +233,6 @@
     "🐧 Linux/ssh 走代理.md",
     "🦀Rust/tauri linux 开发构建所需依赖.md",
     "📈Leetcode/动态规划.md",
-    "🐍Python/Leetcode unittest.md",
     "📈Leetcode",
     "🕸️Web"
   ]
