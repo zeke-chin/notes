@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "🐧 Linux/init 服务器.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -204,8 +204,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9810a8df0178e660",
+  "active": "ac5f163c60de562e",
   "lastOpenFiles": [
+    "🐧 Linux/init 服务器~.md",
     "🐧 Linux/linux 压测GPU.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
@@ -231,7 +232,6 @@
     "🐳 Docker/docker-compose限制资源.md",
     "🦀Rust/sccache.md",
     "🐧 Linux/ssh 走代理.md",
-    "🦀Rust/tauri linux 开发构建所需依赖.md",
     "📈Leetcode",
     "🕸️Web"
   ]
