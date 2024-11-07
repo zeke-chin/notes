@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "vcocde",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,7 +206,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6919eb870c63ba85",
+  "active": "ea851da5dc9dfb98",
   "lastOpenFiles": [
     "🐳 Docker/安装.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
