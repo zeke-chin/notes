@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "openssl linux-musl 编译报错"
             }
+          },
+          {
+            "id": "7fa63629d44289c0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +175,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "93b9453c4a0d2fb0",
+  "active": "7fa63629d44289c0",
   "lastOpenFiles": [
     "🦀Rust/linker `cc` not found.md",
     "🦀Rust/openssl linux-musl 编译报错.md",
