@@ -25,12 +25,14 @@
             "id": "7fa63629d44289c0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "ssh 私钥 免密登陆"
             }
           }
         ],
