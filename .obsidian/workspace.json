@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐍Python/Jupyter lab.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ssh 私钥 免密登陆"
+              "title": "Jupyter lab"
             }
           }
         ],
@@ -179,6 +179,7 @@
   },
   "active": "7fa63629d44289c0",
   "lastOpenFiles": [
+    "🐧 Linux/ssh 私钥 免密登陆.md",
     "🦀Rust/linker `cc` not found.md",
     "🦀Rust/openssl linux-musl 编译报错.md",
     "🐳 Docker/APPS/ubuntu 22.04 runtime.md",
@@ -187,7 +188,6 @@
     "🦀Rust/sccache.md",
     "🐧 Linux/init 服务器.md",
     "🐧 Linux/挂载smb.md",
-    "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐳 Docker/APPS/jupyter.md",
     "🐧 Linux/init 服务器~.md",
