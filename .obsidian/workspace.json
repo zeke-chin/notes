@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐍Python/UV 换源.md",
-                "mode": "source",
+                "file": "🐍Python/量化方法比较.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UV 换源"
+              "title": "量化方法比较"
             }
           }
         ],
@@ -179,8 +179,9 @@
   },
   "active": "7fa63629d44289c0",
   "lastOpenFiles": [
-    "🐍Python/Jupyter lab.md",
     "🐍Python/UV 换源.md",
+    "🐍Python/量化方法比较.md",
+    "🐍Python/Jupyter lab.md",
     "未命名.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🦀Rust/linker `cc` not found.md",
@@ -204,7 +205,6 @@
     "🐳 Docker/APPS/pandoc.md",
     "🐳 Docker/APPS/postgres.md",
     "🐳 Docker/APPS/Tailscale DERP server.md",
-    "🐳 Docker/APPS/Windows.md",
     "📈Leetcode",
     "🕸️Web"
   ]
