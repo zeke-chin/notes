@@ -32,6 +32,22 @@ lan-clip:
 
 ```
 
+clip-config
+```json
+{
+    "text": {
+        "limit": 40960
+    },
+    "file": {
+        "expire": 2592000,
+        "chunk": 1048576,
+        "limit": 1073741824
+    }
+}
+
+```
+
+
 Github: `https://github.com/Zeke-chin/clash_config_manager`
 ```dockerfile
 FROM golang:latest as clash
