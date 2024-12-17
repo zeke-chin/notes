@@ -1,18 +1,46 @@
 {
   "main": {
-    "id": "22629be74d56a19b",
+    "id": "3a13bdd4590881e9",
     "type": "split",
     "children": [
       {
-        "id": "b3efa9c20b3936be",
+        "id": "fead83bd2cc66403",
         "type": "tabs",
         "children": [
           {
-            "id": "cb5f7e828c4fbede",
+            "id": "587daa485f832141",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🐳 Docker/APPS/jupyter.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90609d0f9cbabbb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🦀Rust/sccache.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5be265c30dc947d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🍎Macos/iterm2 快捷键.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +49,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ac90d00d2079c520",
+    "id": "bbfebea3320f9976",
     "type": "split",
     "children": [
       {
-        "id": "48fba04771a9e6bf",
+        "id": "a250bdd270fcc64f",
         "type": "tabs",
         "children": [
           {
-            "id": "5ca460d3452045c3",
+            "id": "ac5f163c60de562e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +67,12 @@
             }
           },
           {
-            "id": "f30305d496dace9b",
+            "id": "ea851da5dc9dfb98",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "cudatoolkit",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +82,7 @@
             }
           },
           {
-            "id": "f047b2b3ac0f28f2",
+            "id": "372b46b979004f14",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,22 +93,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "1407623c76f44ec2",
+    "id": "1cb431a169840d79",
     "type": "split",
     "children": [
       {
-        "id": "11169f3b0802a492",
+        "id": "8c596d7a23f47630",
         "type": "tabs",
         "children": [
           {
-            "id": "e6645c4331a7a9d1",
+            "id": "6cf1a43af9e72472",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🍎Macos/iterm2 快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +121,19 @@
             }
           },
           {
-            "id": "a0c1af194e3139af",
+            "id": "5ff2874331890919",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🍎Macos/iterm2 快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "98a373793d60a2ed",
+            "id": "12f2e6a21f20e4e5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +144,13 @@
             }
           },
           {
-            "id": "efbad553a847bd45",
+            "id": "fcb6dd22f6189fe6",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🐧 Linux/Vim 黏贴缩进错乱.md"
+              }
             }
           }
         ]
@@ -149,42 +181,20 @@
     "🕸️Web",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐧 Linux/init 服务器.md",
-    "🐧 Linux/软件源/Conda.md",
-    "🐳 Docker/APPS/Tailscale DERP server.md",
-    "🍎Macos/iterm2 快捷键.md",
+    "🐍Python/vscode conda init error.md",
+    "🦀Rust/linker `cc` not found.md",
+    "未命名 1.md",
     "🐧 Linux/Vim 黏贴缩进错乱.md",
-    "🐳 Docker/APPS/postgres.md",
-    "🐳 Docker/APPS/Windows.md",
-    "🐳 Docker/APPS/xrdp.md",
-    "🐳 Docker/安装.md",
-    "🐳 Docker/定制GPU.md",
-    "🐳 Docker/网卡池不足.md",
+    "🦀Rust/unpack Result.md",
+    "🦀Rust/unpack Option.md",
+    "🕸️Web/Node 换源.md",
+    "🕸️Web",
+    "🐧 Linux/ssh 走代理.md",
     "🐳 Docker/拉取镜像走代理.md",
-    "🐳 Docker/APPS/clash.md",
+    "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/aria2c.md",
-    "🐧 Linux/ssh 私钥 免密登陆.md",
-    "🐳 Docker/docker-compose限制资源.md",
-    "🐳 Docker/alias.md",
-    "🐳 Docker/APPS/mysql.md",
-    "🦀Rust/openssl linux-musl 编译报错.md",
-    "📊DB",
-    "🐳 Docker/APPS",
-    "🍎Macos/software-backup/iShot-1.8.8.zip",
-    "🍎Macos/software-backup/OneSwitch-1.31.zip",
-    "🍎Macos/software-backup",
-    "_img/Pasted image 20231130135413.png",
-    "🐍Python/Triton/img/Pasted image 20231018153710.png",
-    "🐍Python/Triton/img/Pasted image 20231018154056.png",
-    "🐍Python/Triton/img",
-    "🐍Python/Triton/img/Pasted image 20231018153852.png",
-    "🐍Python/Triton/img/Pasted image 20231018153727.png",
-    "🐍Python/Triton/img/Pasted image 20231018153716.png",
-    "_img",
-    "🐍Python/Triton/img/Pasted image 20231018153841.png",
-    "📊数据库",
-    "🦀Rust",
-    "🐍Python/Triton/img/Pasted image 20231018154035.png",
-    "🐧 Linux/clash 教程.assets/Pasted image 20230818100341.png",
-    "🐧 Linux/clash 教程.assets/Pasted image 20230817174347.png"
+    "🐧 Linux/ubuntu 安装nvidia驱动.md",
+    "🐧 Linux/clash 教程.md",
+    "🐍Python/Jupyter lab.md"
   ]
 }
