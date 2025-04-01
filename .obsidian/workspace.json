@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/APPS/chrome.md",
+                "file": "🐳 Docker/APPS/postgres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chrome"
+              "title": "postgres"
             }
           }
         ],
@@ -244,6 +244,7 @@
   },
   "active": "b47b0021788d67f8",
   "lastOpenFiles": [
+    "🐳 Docker/APPS/chrome.md",
     "🐍Python/量化方法比较.md",
     "🐍Python/数据精度.md",
     "🐧 Linux/软件源/Conda.md",
@@ -270,7 +271,6 @@
     "🐳 Docker/APPS/clash.md",
     "🐳 Docker/APPS/rustdesk-server.md",
     "🦀Rust/openssl linux-musl 编译报错.md",
-    "🦀Rust/sccache.md",
     "🕸️Web",
     "📊DB",
     "🐳 Docker/APPS",

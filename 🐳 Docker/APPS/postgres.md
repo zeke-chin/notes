@@ -7,7 +7,7 @@ services:
     volumes:
     - ./db_data:/var/lib/postgresql/data
     environment:
-      POSTGRES_PASSWORD: 113113
+      POSTGRES_PASSWORD: qW113113e.
     ports:
     - "5432:5432"
 ```
