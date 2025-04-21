@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📊DB/向量数据索引类型.md",
+                "file": "🐳 Docker/APPS/postgres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "向量数据索引类型"
+              "title": "postgres"
             }
           }
         ],
@@ -244,6 +244,7 @@
   },
   "active": "b47b0021788d67f8",
   "lastOpenFiles": [
+    "📊DB/向量数据索引类型.md",
     "🐳 Docker/APPS/postgres.md",
     "🐳 Docker/APPS/chrome.md",
     "🐍Python/量化方法比较.md",
@@ -270,7 +271,6 @@
     "🐧 Linux/修改主机名.md",
     "🐧 Linux/init 服务器.md",
     "🐳 Docker/APPS/clash.md",
-    "🐳 Docker/APPS/rustdesk-server.md",
     "🕸️Web",
     "📊DB",
     "🐳 Docker/APPS",
