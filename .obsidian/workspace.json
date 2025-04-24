@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/APPS/postgres.md",
-                "mode": "source",
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "postgres"
+              "title": "ssh 私钥 免密登陆"
             }
           }
         ],
@@ -244,8 +244,9 @@
   },
   "active": "b47b0021788d67f8",
   "lastOpenFiles": [
-    "📊DB/向量数据索引类型.md",
+    "🐧 Linux/ssh 走代理.md",
     "🐳 Docker/APPS/postgres.md",
+    "📊DB/向量数据索引类型.md",
     "🐳 Docker/APPS/chrome.md",
     "🐍Python/量化方法比较.md",
     "🐍Python/数据精度.md",
@@ -270,7 +271,6 @@
     "🐧 Linux/用户添加root.md",
     "🐧 Linux/修改主机名.md",
     "🐧 Linux/init 服务器.md",
-    "🐳 Docker/APPS/clash.md",
     "🕸️Web",
     "📊DB",
     "🐳 Docker/APPS",
