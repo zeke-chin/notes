@@ -109,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/APPS/jupyter.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jupyter"
+              "title": "init 服务器"
             }
           }
         ],
@@ -258,10 +258,10 @@
   },
   "active": "cb2e655116d8e8ab",
   "lastOpenFiles": [
+    "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/Tailscale DERP server.md",
     "🐧 Linux/init 服务器.md",
     "🐳 Docker/APPS/chrome.md",
-    "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/postgres.md",
     "🐳 Docker/APPS/aria2c.md",
     "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
