@@ -109,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐳 Docker/APPS/chrome.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chrome"
+              "title": "init 服务器"
             }
           }
         ],
@@ -258,11 +258,12 @@
   },
   "active": "cb2e655116d8e8ab",
   "lastOpenFiles": [
+    "🐳 Docker/安装.md",
+    "🐳 Docker/APPS/chrome.md",
     "🐳 Docker/APPS/aria2c.md",
     "🐧 Linux/init 服务器.md",
     "🐳 Docker/APPS/jupyter.md",
     "🐳 Docker/APPS/Tailscale DERP server.md",
-    "🐳 Docker/APPS/chrome.md",
     "🐳 Docker/APPS/postgres.md",
     "🐛BUG!!!!/Triton/Stub process  is not healthy..md",
     "🐳 Docker/网卡池不足.md",
@@ -283,7 +284,6 @@
     "🐧 Linux/软件源/Ubuntu.md",
     "🐍Python/vscode conda init error.md",
     "🦀Rust/tauri linux 开发构建所需依赖.md",
-    "🦀Rust/linker `cc` not found.md",
     "📈Leetcode",
     "🕸️Web",
     "📊DB",
