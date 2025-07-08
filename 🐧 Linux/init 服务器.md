@@ -5,6 +5,19 @@ wget https://gitee.com/mirrors/oh-my-zsh/raw/master/tools/install.sh -O ~/instal
 ```
 
 
+# 安装 zim
+```shell
+
+curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
+
+wget -nv -O - https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
+
+
+
+-----
+
+```
+
 # 安装常用软件
 ```bash
 sed -i 's#archive.ubuntu.com#mirrors.aliyun.com#g' /etc/apt/sources.list  \
