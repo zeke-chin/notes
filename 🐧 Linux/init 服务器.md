@@ -1,20 +1,24 @@
-# 安装ohmyzsh
+# 安装常用软件
 
-```bash
-wget https://gitee.com/mirrors/oh-my-zsh/raw/master/tools/install.sh -O ~/install.sh && sed -i 's#REPO=${REPO:-ohmyzsh/ohmyzsh}#REPO=${REPO:-mirrors/oh-my-zsh}#g' ~/install.sh && sed -i 's#REMOTE=${REMOTE:-https://github.com/${REPO}.git}#REMOTE=${REMOTE:-https://gitee.com/${REPO}.git}#g' ~/install.sh && chmod +777 ~/install.sh && sh ~/install.sh && rm ~/install.sh
+```
+ sed -i 's#archive.ubuntu.com#mirrors.aliyun.com#g' /etc/apt/sources.list  \
+     && sed -i 's#security.ubuntu.com#mirrors.aliyun.com#g' /etc/apt/sources.list
+ 
+ git clone https://ghproxy.net/https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions && git clone https://ghproxy.net/https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+ 
+ apt update && apt install zsh vim htop wget curl git nload autojump tmux neofetch ranger gcc make linux-headers-`uname -r` -y
+ 
+ # miniconda3
+ wget https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-latest-Linux-x86_64.sh
 ```
 
-
 # 安装 zim
+
 ```shell
 
 curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
 
 wget -nv -O - https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
-
-
-
------
 
 ```
 
@@ -41,21 +45,123 @@ zmodule ohmyzsh/ohmyzsh --root plugins/git
 
 ### .zshrc
 ```shell
+# -----------------
+# Zsh configuration
+# -----------------
+
+#
+# History
+#
+
+# Remove older command from the history if a duplicate is to be added.
+setopt HIST_IGNORE_ALL_DUPS
+bindkey -e
+WORDCHARS=${WORDCHARS//[\/]}
+# zsh-users/zsh-autosuggestions is the last module in your ~/.zimrc.
+ZSH_AUTOSUGGEST_MANUAL_REBIND=1
+
+ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets)
+
+# ------------------
+# Initialize modules
+# ------------------
+
+ZIM_HOME=${ZDOTDIR:-${HOME}}/.zim
+# Download zimfw plugin manager if missing.
+if [[ ! -e ${ZIM_HOME}/zimfw.zsh ]]; then
+  if (( ${+commands[curl]} )); then
+    curl -fsSL --create-dirs -o ${ZIM_HOME}/zimfw.zsh \
+        https://github.com/zimfw/zimfw/releases/latest/download/zimfw.zsh
+  else
+    mkdir -p ${ZIM_HOME} && wget -nv -O ${ZIM_HOME}/zimfw.zsh \
+        https://github.com/zimfw/zimfw/releases/latest/download/zimfw.zsh
+  fi
+fi
+# Install missing modules, and update ${ZIM_HOME}/init.zsh if missing or outdated.
+if [[ ! ${ZIM_HOME}/init.zsh -nt ${ZIM_CONFIG_FILE:-${ZDOTDIR:-${HOME}}/.zimrc} ]]; then
+  source ${ZIM_HOME}/zimfw.zsh init
+fi
+# Initialize modules.
+source ${ZIM_HOME}/init.zsh
+
+# ------------------------------
+# Post-init module configuration
+# ------------------------------
+
+#
+# zsh-history-substring-search
+#
+
+zmodload -F zsh/terminfo +p:terminfo
+# Bind ^[[A/^[[B manually so up/down works both before and after zle-line-init
+for key ('^[[A' '^P' ${terminfo[kcuu1]}) bindkey ${key} history-substring-search-up
+for key ('^[[B' '^N' ${terminfo[kcud1]}) bindkey ${key} history-substring-search-down
+for key ('k') bindkey -M vicmd ${key} history-substring-search-up
+for key ('j') bindkey -M vicmd ${key} history-substring-search-down
+unset key
+# }}} End configuration added by Zim install
+
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+(( ! ${+functions[p10k]} )) || p10k finalize
+
+
+  
+
+
+alias f='fuck'
+# alias j="autojump"
+alias zshc="vim ~/.zshrc"
+alias zshcc="source ~/.zshrc"
+alias nload="bash -c 'nload -u H'"
+
+alias gcm="git commit -m "
+
+
+
+# docker
+alias ndc='nvidia-docker-compose'
+alias ndcud='nvidia-docker-compose up -d'
+alias deit='docker exec -i -t'
+alias dc='docker-compose'
+alias dcps='docker-compose ps'
+alias dcud='docker-compose up -d'
+alias dm='docker-machine'
+alias dps='docker ps --format "table {{.Names}}\t{{.Status}}\t{{.Ports}}"'
+alias dt="docker_exec"
+
+
+
+# 快速进入容器
+docker_exec() {
+    local shell=${1:-bash}
+
+    container_name=$(docker-compose ps --quiet)
+    if [ $(echo "$container_name" | wc -l) -eq 1 ]; then
+        docker exec -it $container_name $shell
+    else
+        docker-compose ps
+    fi
+}
+
+
+
+# proxy
+http_proxy="http://127.0.0.1:7890"
+https_proxy="http://127.0.0.1:7890"
+alias dpon="dpm -httpProxy $http_proxy -httpsProxy $http_proxy -onProxy 1"
+alias dpoff="dpm -onProxy 0"
+
+alias onc="export http_proxy=$https_proxy https_proxy=$https_proxy all_proxy=$https_proxy"
+alias offc="unset http_proxy https_proxy all_proxy"
+
+
+
+# PATH
+path=('/Users/zeke/.local/bin' $path)
+
 
 ```
-# 安装常用软件
-```bash
-sed -i 's#archive.ubuntu.com#mirrors.aliyun.com#g' /etc/apt/sources.list  \
-    && sed -i 's#security.ubuntu.com#mirrors.aliyun.com#g' /etc/apt/sources.list
-
-git clone https://ghproxy.net/https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions && git clone https://ghproxy.net/https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
-
-apt update && apt install zsh vim htop wget curl git nload autojump tmux neofetch ranger gcc make linux-headers-`uname -r` -y
-
-# miniconda3
-wget https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-latest-Linux-x86_64.sh
-```
-
 # Init zshrc
 ```sh
 # If you come from bash you might have to change your $PATH.
