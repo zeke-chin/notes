@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,7 +256,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cb2e655116d8e8ab",
+  "active": "5772543ad2bac26a",
   "lastOpenFiles": [
     "🐳 Docker/APPS/postgres.md",
     "🐧 Linux/init 服务器.md",
