@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "📊DB/向量数据索引类型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "init 服务器"
+              "title": "向量数据索引类型"
             }
           },
           {
@@ -258,9 +258,9 @@
   },
   "active": "5772543ad2bac26a",
   "lastOpenFiles": [
+    "🐧 Linux/init 服务器.md",
     "📊DB/向量数据索引类型.md",
     "🐳 Docker/APPS/postgres.md",
-    "🐧 Linux/init 服务器.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ssh 走代理.md",
     "🐳 Docker/安装.md",
