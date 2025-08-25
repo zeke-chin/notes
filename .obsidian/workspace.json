@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "1f59fc29c1a87eca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.10"
+            }
+          },
+          {
             "id": "24f4fd0b77af4106",
             "type": "leaf",
             "state": {
@@ -91,7 +103,8 @@
               "title": "向量数据索引类型"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,6 +234,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -229,7 +243,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "851cd4611a6f56cd",
+  "active": "1f59fc29c1a87eca",
   "lastOpenFiles": [
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "ML/提示词生成.md",
