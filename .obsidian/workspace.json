@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐳 Docker/APPS/clash.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ssh 私钥 免密登陆"
+              "title": "clash"
             }
           },
           {
@@ -229,8 +229,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5ca460d3452045c3",
+  "active": "851cd4611a6f56cd",
   "lastOpenFiles": [
+    "🐧 Linux/ssh 私钥 免密登陆.md",
     "ML/提示词生成.md",
     "ML",
     "🐍Python/draw.io 中 json 代码快.md",
@@ -238,7 +239,6 @@
     "📊DB/向量数据索引类型.md",
     "🐧 Linux/init 服务器.md",
     "🐳 Docker/APPS/postgres.md",
-    "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ssh 走代理.md",
     "🐳 Docker/安装.md",
     "🐳 Docker/APPS/chrome.md",
