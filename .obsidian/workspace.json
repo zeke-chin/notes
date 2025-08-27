@@ -25,12 +25,14 @@
             "id": "1f59fc29c1a87eca",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "ML/提示词生成.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.10"
+              "icon": "lucide-file",
+              "title": "提示词生成"
             }
           },
           {
