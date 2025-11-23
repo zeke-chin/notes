@@ -18,7 +18,7 @@
 
 curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
 
-wget -nv -O - https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
+	wget -nv -O - https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
 
 ```
 
