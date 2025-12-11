@@ -147,12 +147,12 @@ docker_exec() {
 
 
 # proxy
-http_proxy="http://127.0.0.1:7890"
-https_proxy="http://127.0.0.1:7890"
-alias dpon="dpm -httpProxy $http_proxy -httpsProxy $http_proxy -onProxy 1"
+http_p="http://192.155.1.10:37890"
+https_proxy="http://192.155.1.10:37890"
+alias dpon="dpm -httpProxy $http_p -httpsProxy $https_proxy -onProxy 1"
 alias dpoff="dpm -onProxy 0"
 
-alias onc="export http_proxy=$https_proxy https_proxy=$https_proxy all_proxy=$https_proxy"
+alias onc="export http_proxy=$http_p https_proxy=$https_proxy all_proxy=$https_proxy"
 alias offc="unset http_proxy https_proxy all_proxy"
 
 
@@ -244,12 +244,12 @@ docker_exec() {
 }
 
 # proxy
-http_proxy="http://192.155.1.10:37890"
+http_p="http://192.155.1.10:37890"
 https_proxy="http://192.155.1.10:37890"
-alias dpon="dpm -httpProxy $http_proxy -httpsProxy $http_proxy -onProxy 1"
+alias dpon="dpm -httpProxy $http_p -httpsProxy $https_proxy -onProxy 1"
 alias dpoff="dpm -onProxy 0"
 
-alias onc="export http_proxy=$https_proxy https_proxy=$https_proxy all_proxy=$https_proxy"
+alias onc="export http_proxy=$http_p https_proxy=$https_proxy all_proxy=$https_proxy"
 alias offc="unset http_proxy https_proxy all_proxy"
 
 
