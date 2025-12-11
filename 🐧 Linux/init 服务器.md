@@ -22,7 +22,7 @@ curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | 
 
 ```
 
-### zimrc
+### `~/.zimrc`
 ```shell
 zmodule environment
 zmodule input
@@ -43,7 +43,7 @@ zmodule ohmyzsh/ohmyzsh --root plugins/autojump
 zmodule ohmyzsh/ohmyzsh --root plugins/git
 ```
 
-### .zshrc
+### `.zshrc`
 ```shell
 # -----------------
 # Zsh configuration
@@ -158,7 +158,7 @@ alias offc="unset http_proxy https_proxy all_proxy"
 
 
 # PATH
-path=('/Users/zeke/.local/bin' $path)
+path=('/home/zeke/.local/bin' $path)
 
 
 ```
