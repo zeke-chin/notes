@@ -22,7 +22,7 @@ curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | 
 
 ```
 
-### `~/.zimrc`
+### `.zimrc`
 ```shell
 zmodule environment
 zmodule input
@@ -162,6 +162,19 @@ path=('/home/zeke/.local/bin' $path)
 
 
 ```
+
+## 安装插件
+```
+zimfw install
+```
+
+```shell
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions \
+&& \
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+```
+-----
+
 # Init zshrc
 ```sh
 # If you come from bash you might have to change your $PATH.
