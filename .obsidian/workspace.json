@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "📊DB/向量数据索引类型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "init 服务器"
+              "title": "向量数据索引类型"
             }
           }
         ],
@@ -303,13 +303,13 @@
   },
   "active": "3d2896ffe941b8a9",
   "lastOpenFiles": [
+    "🐧 Linux/init 服务器.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐧 Linux/ssh 走代理.md",
     "🐧 Linux/linux 压测GPU.md",
     "🐧 Linux/headscale + Tailscale.md",
     "🐧 Linux/clash 教程.md",
-    "🐧 Linux/init 服务器.md",
     "🐧 Linux/软件源/Ubuntu.md",
     "🐧 Linux/软件源/Conda.md",
     "🐳 Docker/安装.md",
