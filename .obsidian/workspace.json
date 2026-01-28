@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "🐧 Linux/ghostty.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "ghostty"
             }
           }
         ]
@@ -162,6 +162,8 @@
   },
   "active": "851cd4611a6f56cd",
   "lastOpenFiles": [
+    "未命名.md",
+    "🐧 Linux/ghostty.md",
     "🐳 Docker/APPS/clash.md",
     "ML/提示词生成.md",
     "🐧 Linux/init 服务器.md",
@@ -186,8 +188,6 @@
     "🐳 Docker/APPS/postgres.md",
     "🐳 Docker/APPS/rustdesk-server.md",
     "🐳 Docker/APPS/xrdp.md",
-    "🐳 Docker/APPS/Windows.md",
-    "🐳 Docker/APPS/chrome.md",
     "ML",
     "📈Leetcode",
     "🕸️Web",
