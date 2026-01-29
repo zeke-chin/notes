@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/ghostty.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ghostty"
+              "title": "init 服务器"
             }
           }
         ]
@@ -162,8 +162,9 @@
   },
   "active": "851cd4611a6f56cd",
   "lastOpenFiles": [
-    "未命名.md",
+    "🐧 Linux/linux 压测GPU.md",
     "🐧 Linux/ghostty.md",
+    "未命名.md",
     "🐳 Docker/APPS/clash.md",
     "ML/提示词生成.md",
     "🐧 Linux/init 服务器.md",
@@ -174,7 +175,6 @@
     "🐧 Linux/查看进程资源消耗.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐧 Linux/ssh 走代理.md",
-    "🐧 Linux/linux 压测GPU.md",
     "🐧 Linux/headscale + Tailscale.md",
     "🐧 Linux/clash 教程.md",
     "🐧 Linux/软件源/Ubuntu.md",
