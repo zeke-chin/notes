@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
+                "file": "🐧 Linux/init 服务器.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ssh 私钥 免密登陆"
+              "title": "init 服务器"
             }
           }
         ]
@@ -162,6 +162,7 @@
   },
   "active": "851cd4611a6f56cd",
   "lastOpenFiles": [
+    "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ssh 走代理.md",
     "🐧 Linux/init 服务器.md",
     "🐧 Linux/linux 压测GPU.md",
@@ -172,7 +173,6 @@
     "🦀Rust/换源.md",
     "README.md",
     "📊DB/向量数据索引类型.md",
-    "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/查看进程资源消耗.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐧 Linux/headscale + Tailscale.md",
