@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "init 服务器"
+              "title": "ssh 私钥 免密登陆"
             }
           }
         ],
@@ -177,10 +177,10 @@
   },
   "active": "2e381c8ff73df344",
   "lastOpenFiles": [
+    "🐧 Linux/init 服务器.md",
     "🐧 Linux/ssh 走代理.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ghostty.md",
-    "🐧 Linux/init 服务器.md",
     "🐧 Linux/linux 压测GPU.md",
     "未命名.md",
     "🐳 Docker/APPS/clash.md",
