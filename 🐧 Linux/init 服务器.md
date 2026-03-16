@@ -265,7 +265,7 @@ alias offc="unset http_proxy https_proxy all_proxy"
 alias nload="bash -c 'nload -u H'"
 alias gcm='git commit -m '
 
-
+export TERM=xterm-256color
 
 # linux_script
 
