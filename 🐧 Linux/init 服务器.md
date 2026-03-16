@@ -264,4 +264,15 @@ alias offc="unset http_proxy https_proxy all_proxy"
 
 alias nload="bash -c 'nload -u H'"
 alias gcm='git commit -m '
+
+
+
+# linux_script
+
+# Network script directory
+NETWORK_SCRIPT_DIR="/home/zeke/workspace/gh_work/linux_script/ubuntu2404"
+# Network aliases
+alias net="sudo ${NETWORK_SCRIPT_DIR}/switch-network.sh status"
+alias net_off="sudo ${NETWORK_SCRIPT_DIR}/switch-network.sh dhcp"
+alias net_on="sudo ${NETWORK_SCRIPT_DIR}/switch-network.sh static"
 ```
