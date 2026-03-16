@@ -104,17 +104,17 @@ ssh gcp.20010215.xyz
 *   🚫 **普通直连**：抖动巨大，打字粘手，晚高峰疯狂掉线。
 *   🚀 **Cloudflare 隧道**：极其平稳，几乎零抖动，永远不掉线。你甚至可以去 GCP 后台把 22 端口的防火墙规则给删掉（禁止公网访问），进一步提升服务器安全性。
 
-
+------
 
 ### 🧰 Cloudflare Tunnel 协议与常见服务映射表
 
-| Cloudflare 服务类型 | 对应目标 URL 格式示例 | 常见服务场景 & 代表软件 | 客户端如何访问？ |
-| :--- | :--- | :--- | :--- |
-| **HTTP / HTTPS** | `localhost:8080`<br>`192.168.1.10:443` | **Web 网站、API、控制台 UI**<br>• Nginx / Apache<br>• 宝塔面板 / 1Panel<br>• Grafana / Prometheus<br>• Jupyter Notebook | **最简单**：浏览器直接输入域名即可访问。 |
-| **SSH** | `localhost:22` | **Linux 远程命令行**<br>• OpenSSH | 需在 Mac 配置 `~/.ssh/config`，使用 `cloudflared access ssh`。 |
-| **TCP** | `localhost:6379`<br>`localhost:3306`<br>`localhost:5432` | **所有纯 TCP 协议的服务（重点）**<br>• **Redis** (6379)<br>• **MySQL / MariaDB** (3306)<br>• **PostgreSQL** (5432)<br>• **MongoDB** (27017)<br>• Minecraft 游戏服 (25565) | **复杂**：浏览器无法直接访问！必须在本地 Mac 上开启端口转发（详见下方教程）。 |
-| **RDP** | `localhost:3389` | **Windows 远程桌面**<br>• Windows Remote Desktop | 本地需运行 `cloudflared access rdp` 转发，然后用微软 RD 客户端连本地端口。 |
-| **UNIX** <br> *(含 UNIX+TLS)* | `/var/run/docker.sock`<br>`/tmp/mysql.sock` | **本地 Unix 套接字（高级）**<br>• Docker 守护进程<br>• 不对外开放端口的本地数据库 | 客户端通过隧道安全地与远端套接字通信（极度安全的隔离方案）。 |
+| Cloudflare 服务类型              | 对应目标 URL 格式示例                                            | 常见服务场景 & 代表软件                                                                                                                                              | 客户端如何访问？                                               |
+| :--------------------------- | :------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
+| **HTTP / HTTPS**             | `localhost:8080`<br>`192.168.1.10:443`                   | **Web 网站、API、控制台 UI**<br>• Nginx / Apache<br>• 宝塔面板 / 1Panel<br>• Grafana / Prometheus<br>• Jupyter Notebook                                               | **最简单**：浏览器直接输入域名即可访问。                                 |
+| **SSH**                      | `localhost:22`                                           | **Linux 远程命令行**<br>• OpenSSH                                                                                                                               | 需在 Mac 配置 `~/.ssh/config`，使用 `cloudflared access ssh`。 |
+| **TCP**                      | `localhost:6379`<br>`localhost:3306`<br>`localhost:5432` | **所有纯 TCP 协议的服务（重点）**<br>• **Redis** (6379)<br>• **MySQL / MariaDB** (3306)<br>• **PostgreSQL** (5432)<br>• **MongoDB** (27017)<br>• Minecraft 游戏服 (25565) | **复杂**：浏览器无法直接访问！必须在本地 Mac 上开启端口转发（详见下方教程）。            |
+| **RDP**                      | `localhost:3389`                                         | **Windows 远程桌面**<br>• Windows Remote Desktop                                                                                                               | 本地需运行 `cloudflared access rdp` 转发，然后用微软 RD 客户端连本地端口。   |
+| **UNIX** <br> *(含 UNIX+TLS)* | `/var/run/docker.sock`<br>`/tmp/mysql.sock`              | **本地 Unix 套接字（高级）**<br>• Docker 守护进程<br>• 不对外开放端口的本地数据库                                                                                                    | 客户端通过隧道安全地与远端套接字通信（极度安全的隔离方案）。                         |
 
 ---
 
