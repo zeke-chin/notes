@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux/init 服务器.md",
+                "file": "🐧 Linux/ssh 私钥 免密登陆.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "init 服务器"
+              "title": "ssh 私钥 免密登陆"
             }
           }
         ],
@@ -205,8 +205,8 @@
   },
   "active": "79bd74e43c86e729",
   "lastOpenFiles": [
-    "📊DB/向量数据索引类型.md",
     "🐧 Linux/init 服务器.md",
+    "📊DB/向量数据索引类型.md",
     "🐧 Linux/ssh 私钥 免密登陆.md",
     "🐧 Linux/ubuntu 安装nvidia驱动.md",
     "🐧 Linux/Cloudflare 隧道.md",
