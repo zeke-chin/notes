@@ -39,7 +39,6 @@ zmodule zsh-users/zsh-autosuggestions
 
 zmodule ohmyzsh/ohmyzsh --root plugins/sudo
 zmodule ohmyzsh/ohmyzsh --root plugins/extract
-zmodule ohmyzsh/ohmyzsh --root plugins/autojump
 zmodule ohmyzsh/ohmyzsh --root plugins/git
 ```
 
