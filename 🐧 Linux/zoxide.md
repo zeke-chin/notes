@@ -11,7 +11,7 @@ eval "$(zoxide init zsh)"
 
 需要 [fzf](https://github.com/junegunn/fzf)。
 
-## 用法
+## 1. 用法
 
 | 命令 | 作用 |
 |---|---|
@@ -29,7 +29,7 @@ Tab 和 autojump 不一样：
 
 多个结果要挑，只能 `zi`，没有 Tab 列表。
 
-## 为啥库是空的
+## 2. 为啥库是空的
 
 `z` / `zi` 不扫磁盘。没 `cd` 进去过的路径不会出现。
 手动 `zoxide add` 只是跳过等待、先把常用目录写进库。
@@ -40,7 +40,7 @@ zoxide query -l alg      # 看 alg 能匹配到什么
 zoxide add ~/path        # 手动加一条
 ```
 
-## 把当前目录下的子目录加入候选（不递归）
+## 3. 把当前目录下的子目录加入候选（不递归）
 
 zsh（`(/)` 只匹配目录）：
 
@@ -79,7 +79,7 @@ zoxide add .
 find . -mindepth 1 -maxdepth 1 -type d -print0 | xargs -0 zoxide add
 ```
 
-## 常见坑
+## 4. 常见坑
 
 `$FZF_DEFAULT_OPTS: unknown option: --no-filter`
 
