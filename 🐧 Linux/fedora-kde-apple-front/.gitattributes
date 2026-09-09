@@ -1,0 +1,3 @@
+# Keep vendor license files and the original Markdown hard line break intact.
+licenses/*.rtf -whitespace
+history/dart.md whitespace=-blank-at-eol

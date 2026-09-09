@@ -1,0 +1,8 @@
+# Font binaries and vendor archives remain local; keep source URLs/hashes in Git.
+/fonts/
+/assets/
+/.cache/
+/dist/
+/history/.font-trial-state
+/history/original-state/
+__pycache__/

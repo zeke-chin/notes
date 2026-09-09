@@ -1,0 +1,194 @@
+[
+  {
+    "label": "UI 10pt",
+    "text": "Fedora KDE Plasma 6 — 文件 编辑 查看 设置 0123456789",
+    "runs": [
+      {
+        "family": "PingFang SC",
+        "style": "Regular",
+        "glyphs": 8,
+        "missing_glyphs": 0
+      },
+      {
+        "family": "SF Pro Text",
+        "style": "Regular",
+        "glyphs": 36,
+        "missing_glyphs": 0
+      }
+    ]
+  },
+  {
+    "label": "UI 11pt",
+    "text": "中英混排 Hello World：你好，世界！“引号”（括号）《书名》",
+    "runs": [
+      {
+        "family": "PingFang SC",
+        "style": "Regular",
+        "glyphs": 21,
+        "missing_glyphs": 0
+      },
+      {
+        "family": "SF Pro Text",
+        "style": "Regular",
+        "glyphs": 14,
+        "missing_glyphs": 0
+      }
+    ]
+  },
+  {
+    "label": "UI bold",
+    "text": "Save changes 保存更改 — 确认 / 取消",
+    "runs": [
+      {
+        "family": "SF Pro Text",
+        "style": "Bold",
+        "glyphs": 19,
+        "missing_glyphs": 0
+      },
+      {
+        "family": "PingFang SC",
+        "style": "Semibold",
+        "glyphs": 8,
+        "missing_glyphs": 0
+      }
+    ]
+  },
+  {
+    "label": "Chinese regular",
+    "text": "简体中文：永国汉字，标点。繁體中文：臺灣香港。",
+    "runs": [
+      {
+        "family": "PingFang SC",
+        "style": "Regular",
+        "glyphs": 23,
+        "missing_glyphs": 0
+      }
+    ]
+  },
+  {
+    "label": "Monospace",
+    "text": "const answer = 42;  // 中文注释  O0 Il1 {} [] -> !=",
+    "runs": [
+      {
+        "family": "Noto Sans Mono CJK SC",
+        "style": "Regular",
+        "glyphs": 4,
+        "missing_glyphs": 0
+      },
+      {
+        "family": "SF Mono",
+        "style": "Regular",
+        "glyphs": 43,
+        "missing_glyphs": 0
+      }
+    ]
+  },
+  {
+    "label": "Terminal grid",
+    "text": "┌──────────────┐",
+    "runs": [
+      {
+        "family": "SF Mono",
+        "style": "Regular",
+        "glyphs": 16,
+        "missing_glyphs": 0
+      }
+    ]
+  },
+  {
+    "label": "Terminal grid",
+    "text": "│ 中文 ABC 123 │",
+    "runs": [
+      {
+        "family": "Noto Sans Mono CJK SC",
+        "style": "Regular",
+        "glyphs": 2,
+        "missing_glyphs": 0
+      },
+      {
+        "family": "SF Mono",
+        "style": "Regular",
+        "glyphs": 12,
+        "missing_glyphs": 0
+      }
+    ]
+  },
+  {
+    "label": "Terminal grid",
+    "text": "└──────────────┘",
+    "runs": [
+      {
+        "family": "SF Mono",
+        "style": "Regular",
+        "glyphs": 16,
+        "missing_glyphs": 0
+      }
+    ]
+  },
+  {
+    "label": "Emoji",
+    "text": "😀 😃 🎉 🚀 🍎 👍🏽 👨‍👩‍👧‍👦 🇨🇳 ❤️",
+    "runs": [
+      {
+        "family": "SF Pro Text",
+        "style": "Regular",
+        "glyphs": 8,
+        "missing_glyphs": 0
+      },
+      {
+        "family": "Apple Color Emoji",
+        "style": "Regular",
+        "glyphs": 9,
+        "missing_glyphs": 0
+      }
+    ]
+  },
+  {
+    "label": "Text vs emoji",
+    "text": "© ™ → ♥︎ ❤︎  |  ♥️ ❤️  |  123 # *",
+    "runs": [
+      {
+        "family": "Noto Sans Symbols 2",
+        "style": "Regular",
+        "glyphs": 1,
+        "missing_glyphs": 0
+      },
+      {
+        "family": "Apple Color Emoji",
+        "style": "Regular",
+        "glyphs": 2,
+        "missing_glyphs": 0
+      },
+      {
+        "family": "SF Pro Text",
+        "style": "Regular",
+        "glyphs": 27,
+        "missing_glyphs": 0
+      }
+    ]
+  },
+  {
+    "label": "Rare Han fallback",
+    "text": "生僻字：𠮷 𠀀 𪚥",
+    "runs": [
+      {
+        "family": "Noto Sans CJK SC",
+        "style": "Regular",
+        "glyphs": 1,
+        "missing_glyphs": 0
+      },
+      {
+        "family": "PingFang SC",
+        "style": "Regular",
+        "glyphs": 4,
+        "missing_glyphs": 0
+      },
+      {
+        "family": "SF Pro Text",
+        "style": "Regular",
+        "glyphs": 4,
+        "missing_glyphs": 2
+      }
+    ]
+  }
+]

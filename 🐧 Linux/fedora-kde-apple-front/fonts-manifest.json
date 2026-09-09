@@ -1,0 +1,142 @@
+[
+  {
+    "path": "Emoji/AppleColorEmoji.ttf",
+    "sha256": "e37c7af6265ac4a0af6d57bc65e86109a776d9966e8343334557f63da482516f"
+  },
+  {
+    "path": "PingFang/PingFangSC-Light.ttf",
+    "sha256": "60e6c336dfc167b3ad63a0ddb893389d08f376ddb986e802299d53c281dc9493"
+  },
+  {
+    "path": "PingFang/PingFangSC-Medium.ttf",
+    "sha256": "ad3ba91be4616330f3d99b58e18e54d5c0cbe7d26024d61bd138b5820cd06ec6"
+  },
+  {
+    "path": "PingFang/PingFangSC-Regular.ttf",
+    "sha256": "27245b868f33d78a64b5f71b1b46721f2bcdf7bca7c0e23e10d510f96e1b7690"
+  },
+  {
+    "path": "PingFang/PingFangSC-Semibold.ttf",
+    "sha256": "7b8ea9406a911ff9416772935f8a8fbdc4cd208ba87f545748133847c2f61e2d"
+  },
+  {
+    "path": "SF-Mono/SF-Mono-Bold.otf",
+    "sha256": "88ba41467bea5c3f29273b6b2f630a95aa03589536de54ef41ac4db250d6a0a3"
+  },
+  {
+    "path": "SF-Mono/SF-Mono-BoldItalic.otf",
+    "sha256": "e177ffe6d3a27f513b54fea41a6e76c6c3d4b31a15d982a84bdc1b41972c093c"
+  },
+  {
+    "path": "SF-Mono/SF-Mono-Heavy.otf",
+    "sha256": "12f70e641d64625f6ff06ee6e6189527d6931918aa6b17bce09c241e0a2c78e8"
+  },
+  {
+    "path": "SF-Mono/SF-Mono-HeavyItalic.otf",
+    "sha256": "a514ed643a34711e8e5f745248dc2fb442b41874f88ba062e5338cc034fd832e"
+  },
+  {
+    "path": "SF-Mono/SF-Mono-Light.otf",
+    "sha256": "47e2469a7439209ae3611cc798779c21c9c98ca124022c8976f7d4aa82558431"
+  },
+  {
+    "path": "SF-Mono/SF-Mono-LightItalic.otf",
+    "sha256": "c3f6477be40037d59ae73c16dcc592768e09788cc9b7a31d53913aec92da82f7"
+  },
+  {
+    "path": "SF-Mono/SF-Mono-Medium.otf",
+    "sha256": "f1826e890cfa89da5a3d0908a0ae6f10656fafe177b4de34317d5a432ffa8e89"
+  },
+  {
+    "path": "SF-Mono/SF-Mono-MediumItalic.otf",
+    "sha256": "3b022a1a297f1ac918e1c6fe08b60352e324e65de53549dac04bf0220772cc2e"
+  },
+  {
+    "path": "SF-Mono/SF-Mono-Regular.otf",
+    "sha256": "d7186273849a922b3eafbbdd8289d1e708a2c7f7893ec90961d382353c872d49"
+  },
+  {
+    "path": "SF-Mono/SF-Mono-RegularItalic.otf",
+    "sha256": "9fe5176e31a1ba9ba685ea3c3fab97f76c51574829bb06f2ab47c561a55dbecc"
+  },
+  {
+    "path": "SF-Mono/SF-Mono-Semibold.otf",
+    "sha256": "ed5c7934c102d382ecee3406197ad3c74fbd1ba969d838698b0b74a80ea2021b"
+  },
+  {
+    "path": "SF-Mono/SF-Mono-SemiboldItalic.otf",
+    "sha256": "5cb2de9ddbdf41faba67d04c76f984db540d05069b41c0f2bb56d5921f82bc81"
+  },
+  {
+    "path": "SF-Pro-Text/SF-Pro-Text-Black.otf",
+    "sha256": "6964a437b23e3b1b22244a547b9396cc372067987bc80585834d70cbe65d0cdb"
+  },
+  {
+    "path": "SF-Pro-Text/SF-Pro-Text-BlackItalic.otf",
+    "sha256": "3525c9c69d22f2737a7a6aba9cd125662a2833c136b517847cea57e90958b1e3"
+  },
+  {
+    "path": "SF-Pro-Text/SF-Pro-Text-Bold.otf",
+    "sha256": "dd73883d094a45b9f8207961168d687796c2f670d982d416c443516bfe54a9e6"
+  },
+  {
+    "path": "SF-Pro-Text/SF-Pro-Text-BoldItalic.otf",
+    "sha256": "f7114b8ce80624d653564441b33b1d98299904253302f3e5803a8e28e54f81cc"
+  },
+  {
+    "path": "SF-Pro-Text/SF-Pro-Text-Heavy.otf",
+    "sha256": "ef1b47fef93edf3e76950cf558b9c0604d6f21df36ab3e652723ba27dde29e6d"
+  },
+  {
+    "path": "SF-Pro-Text/SF-Pro-Text-HeavyItalic.otf",
+    "sha256": "b844d728a0e29f280d7bcea693dffb00f86b84478f1184ffba62a095260dea0b"
+  },
+  {
+    "path": "SF-Pro-Text/SF-Pro-Text-Light.otf",
+    "sha256": "0756b1ed840318ca0a0a22731c7750b34ca7331bbfdf35f703b56fb22ba7e4af"
+  },
+  {
+    "path": "SF-Pro-Text/SF-Pro-Text-LightItalic.otf",
+    "sha256": "5e18bc120ef8592aa771a00cdd61116e229dec454fd67aade0924b1670311217"
+  },
+  {
+    "path": "SF-Pro-Text/SF-Pro-Text-Medium.otf",
+    "sha256": "87be8b81201b7ca5c631036dfb7f9dcbfa25896dec6ecb08e8d0fafebb7b9afa"
+  },
+  {
+    "path": "SF-Pro-Text/SF-Pro-Text-MediumItalic.otf",
+    "sha256": "203654ea81c6736583fe5d367bce1bebdb2721e88aa47dff3599e0e1fb8a7227"
+  },
+  {
+    "path": "SF-Pro-Text/SF-Pro-Text-Regular.otf",
+    "sha256": "2da7e3fdb744566f9c96a9a3e48949e8b24209fc0b9bcf1d101f5dc88359f065"
+  },
+  {
+    "path": "SF-Pro-Text/SF-Pro-Text-RegularItalic.otf",
+    "sha256": "2117689003424414912655a75b03af55c8978141d7a348656b6c2ab0c9ea48d4"
+  },
+  {
+    "path": "SF-Pro-Text/SF-Pro-Text-Semibold.otf",
+    "sha256": "1314411ab8c720273a9b57a6ad1d51888bd14ec6db3569970078bfb27c002bd9"
+  },
+  {
+    "path": "SF-Pro-Text/SF-Pro-Text-SemiboldItalic.otf",
+    "sha256": "24d184c33b1a415e75153612770be4c09567f33757edc2d0a00f1f98c2260e87"
+  },
+  {
+    "path": "SF-Pro-Text/SF-Pro-Text-Thin.otf",
+    "sha256": "abd9bd2767f1767e7c980f3a7621d2a77b775ea455a7d57524dfab5b24d3b3b2"
+  },
+  {
+    "path": "SF-Pro-Text/SF-Pro-Text-ThinItalic.otf",
+    "sha256": "c499c7881b287c380e8e5fcf584e0143771d0452125d7c6d65d72edbff9f95df"
+  },
+  {
+    "path": "SF-Pro-Text/SF-Pro-Text-Ultralight.otf",
+    "sha256": "fc8060db212a919b397cd724511384341a051c3613fee8960d659f5ad79a3ebb"
+  },
+  {
+    "path": "SF-Pro-Text/SF-Pro-Text-UltralightItalic.otf",
+    "sha256": "3a1207ff9241cb44fdc9f6a66283d69e1a4a674c4eb8e6a6658de362d2aac126"
+  }
+]

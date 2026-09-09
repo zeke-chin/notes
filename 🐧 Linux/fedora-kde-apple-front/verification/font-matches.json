@@ -1,0 +1,34 @@
+[
+  {
+    "pattern": "sans-serif:lang=en",
+    "result": "SF Pro Text|Regular|/home/zeke/.local/share/fonts/apple-font-trial/SF-Pro-Text/SF-Pro-Text-Regular.otf"
+  },
+  {
+    "pattern": "sans-serif:lang=zh-cn:charset=4e2d",
+    "result": "PingFang SC|Regular|/home/zeke/.local/share/fonts/apple-font-trial/PingFang/PingFangSC-Regular.ttf"
+  },
+  {
+    "pattern": "SF Pro Text:charset=4e2d:weight=bold",
+    "result": "PingFang SC|Semibold|/home/zeke/.local/share/fonts/apple-font-trial/PingFang/PingFangSC-Semibold.ttf"
+  },
+  {
+    "pattern": "monospace:lang=en",
+    "result": "SF Mono|Regular|/home/zeke/.local/share/fonts/apple-font-trial/SF-Mono/SF-Mono-Regular.otf"
+  },
+  {
+    "pattern": "SF Mono:charset=4e2d",
+    "result": "Noto Sans Mono CJK SC|Regular|/usr/share/fonts/google-noto-sans-mono-cjk-vf-fonts/NotoSansMonoCJK-VF.ttc"
+  },
+  {
+    "pattern": "emoji:charset=1f600",
+    "result": "Apple Color Emoji|Regular|/home/zeke/.local/share/fonts/apple-font-trial/Emoji/AppleColorEmoji.ttf"
+  },
+  {
+    "pattern": "Noto Color Emoji",
+    "result": "Noto Color Emoji|Regular|/usr/share/fonts/google-noto-color-emoji-fonts/Noto-COLRv1.ttf"
+  },
+  {
+    "pattern": "serif:lang=zh-cn",
+    "result": "Noto Serif CJK SC|Regular|/usr/share/fonts/google-noto-serif-cjk-vf-fonts/NotoSerifCJK-VF.ttc"
+  }
+]

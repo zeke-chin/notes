@@ -1,0 +1,40 @@
+[
+  {
+    "file": "SF-Pro.dmg",
+    "url": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+    "sha256": "a9094f0de9b789d73544ee50fc52a0884d4a9f7fcf62de52974e3204f3a74a62"
+  },
+  {
+    "file": "SF-Mono.dmg",
+    "url": "https://devimages-cdn.apple.com/design/resources/download/SF-Mono.dmg",
+    "sha256": "6d4a0b78e3aacd06f913f642cead1c7db4af34ed48856d7171a2e0b55d9a7945"
+  },
+  {
+    "file": "PingFangSC-Regular.ttf",
+    "url": "https://raw.githubusercontent.com/yellowpeter2019/PingFangSC4Linux/a03bd9fe49edc1d1f7dd0ec334329e53ade5d9c5/PingFangSC-Regular.ttf",
+    "sha256": "27245b868f33d78a64b5f71b1b46721f2bcdf7bca7c0e23e10d510f96e1b7690"
+  },
+  {
+    "file": "PingFangSC-Medium.ttf",
+    "url": "https://raw.githubusercontent.com/yellowpeter2019/PingFangSC4Linux/a03bd9fe49edc1d1f7dd0ec334329e53ade5d9c5/PingFangSC-Medium.ttf",
+    "sha256": "ad3ba91be4616330f3d99b58e18e54d5c0cbe7d26024d61bd138b5820cd06ec6"
+  },
+  {
+    "file": "PingFangSC-Semibold.ttf",
+    "url": "https://raw.githubusercontent.com/yellowpeter2019/PingFangSC4Linux/a03bd9fe49edc1d1f7dd0ec334329e53ade5d9c5/PingFangSC-Semibold.ttf",
+    "sha256": "7b8ea9406a911ff9416772935f8a8fbdc4cd208ba87f545748133847c2f61e2d"
+  },
+  {
+    "file": "PingFangSC-Light.ttf",
+    "url": "https://raw.githubusercontent.com/yellowpeter2019/PingFangSC4Linux/a03bd9fe49edc1d1f7dd0ec334329e53ade5d9c5/PingFangSC-Light.ttf",
+    "sha256": "60e6c336dfc167b3ad63a0ddb893389d08f376ddb986e802299d53c281dc9493"
+  },
+  {
+    "file": "fonts-apple-color-emoji.rpm",
+    "url": null,
+    "project": "https://github.com/samuelngs/apple-emoji-ttf",
+    "version": "2.0.0-0.20260722.484daf4e.fc44",
+    "sha256": "4eca0753a6075f140de802689fa5b456397552af55967a08726a3959086163ed",
+    "note": "Local archived RPM; supply with --emoji-rpm if assets are absent. Only its TTF is extracted."
+  }
+]

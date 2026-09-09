@@ -1,0 +1,82 @@
+DRY RUN
+Font checksums OK: 35 files
+Fonts: /tmp/font-installer-check-hq7sfw99/data/fonts/apple-font-trial
+Fontconfig: /tmp/font-installer-check-hq7sfw99/config/fontconfig/conf.d/60-apple-font-trial.conf
+KDE: /tmp/font-installer-check-hq7sfw99/config/kdeglobals
+Backups: /tmp/font-installer-check-hq7sfw99/state/fedora-kde-apple-front
+[
+  {
+    "group": "General",
+    "key": "font",
+    "previous": "Noto Sans,11,-1,5,50,0,0,0,0,0",
+    "effective_before": "Noto Sans,11,-1,5,50,0,0,0,0,0",
+    "applied": "SF Pro Text,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,Regular,0,0"
+  },
+  {
+    "group": "General",
+    "key": "menuFont",
+    "previous": null,
+    "effective_before": "Noto Sans,10,-1,5,50,0,0,0,0,0",
+    "applied": "SF Pro Text,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,Regular,0,0"
+  },
+  {
+    "group": "General",
+    "key": "toolBarFont",
+    "previous": null,
+    "effective_before": "Noto Sans,9,-1,5,50,0,0,0,0,0",
+    "applied": "SF Pro Text,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,Regular,0,0"
+  },
+  {
+    "group": "General",
+    "key": "smallestReadableFont",
+    "previous": null,
+    "effective_before": "Noto Sans,8,-1,5,50,0,0,0,0,0",
+    "applied": "SF Pro Text,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,Regular,0,0"
+  },
+  {
+    "group": "General",
+    "key": "fixed",
+    "previous": null,
+    "effective_before": "Noto Sans Mono,10,-1,5,50,0,0,0,0,0",
+    "applied": "SF Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,Regular,0,0"
+  },
+  {
+    "group": "WM",
+    "key": "activeFont",
+    "previous": null,
+    "effective_before": "Noto Sans,10,-1,5,50,0,0,0,0,0",
+    "applied": "SF Pro Text,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,Regular,0,0"
+  }
+]
+Dry run complete; no files changed.
+
+INSTALL
+Font checksums OK: 35 files
+Fonts: /tmp/font-installer-check-hq7sfw99/data/fonts/apple-font-trial
+Fontconfig: /tmp/font-installer-check-hq7sfw99/config/fontconfig/conf.d/60-apple-font-trial.conf
+KDE: /tmp/font-installer-check-hq7sfw99/config/kdeglobals
+Backups: /tmp/font-installer-check-hq7sfw99/state/fedora-kde-apple-front
+PASS sans-serif:lang=en: SF Pro Text|Regular|/tmp/font-installer-check-hq7sfw99/data/fonts/apple-font-trial/SF-Pro-Text/SF-Pro-Text-Regular.otf
+PASS SF Pro Text:charset=4e2d: PingFang SC|Regular|/tmp/font-installer-check-hq7sfw99/data/fonts/apple-font-trial/PingFang/PingFangSC-Regular.ttf
+PASS SF Pro Text:charset=4e2d:weight=bold: PingFang SC|Semibold|/tmp/font-installer-check-hq7sfw99/data/fonts/apple-font-trial/PingFang/PingFangSC-Semibold.ttf
+PASS monospace:lang=en: SF Mono|Regular|/tmp/font-installer-check-hq7sfw99/data/fonts/apple-font-trial/SF-Mono/SF-Mono-Regular.otf
+PASS SF Mono:charset=4e2d: Noto Sans Mono CJK SC|Regular|/usr/share/fonts/google-noto-sans-mono-cjk-vf-fonts/NotoSansMonoCJK-VF.ttc
+PASS emoji:charset=1f600: Apple Color Emoji|Regular|/tmp/font-installer-check-hq7sfw99/data/fonts/apple-font-trial/Emoji/AppleColorEmoji.ttf
+PASS Noto Color Emoji: Noto Color Emoji|Regular|/usr/share/fonts/google-noto-color-emoji-fonts/Noto-COLRv1.ttf
+Installed. Restart applications, or log out and back in; a reboot is unnecessary.
+
+REPEAT INSTALL
+Font checksums OK: 35 files
+Fonts: /tmp/font-installer-check-hq7sfw99/data/fonts/apple-font-trial
+Fontconfig: /tmp/font-installer-check-hq7sfw99/config/fontconfig/conf.d/60-apple-font-trial.conf
+KDE: /tmp/font-installer-check-hq7sfw99/config/kdeglobals
+Backups: /tmp/font-installer-check-hq7sfw99/state/fedora-kde-apple-front
+Already installed. Run verify or rollback; no files changed.
+
+ROLLBACK
+Rolled back. Files retained in /tmp/font-installer-check-hq7sfw99/state/fedora-kde-apple-front/20260909-175903-311472
+
+REPEAT ROLLBACK
+Already rolled back.
+
+PASS: isolated install, size preservation, repeat install, rollback, repeat rollback, unrelated settings preserved.

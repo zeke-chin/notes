@@ -1,0 +1,402 @@
+{
+  "text_checks": 48,
+  "text_missing_cases": [],
+  "emoji_checks": [
+    {
+      "text": "😀",
+      "requested": "SF Pro Text",
+      "size": 20,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Apple Color Emoji",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 20.5,
+      "single_emoji_glyph": true
+    },
+    {
+      "text": "🎉",
+      "requested": "SF Pro Text",
+      "size": 20,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Apple Color Emoji",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 20.5,
+      "single_emoji_glyph": true
+    },
+    {
+      "text": "🚀",
+      "requested": "SF Pro Text",
+      "size": 20,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Apple Color Emoji",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 20.5,
+      "single_emoji_glyph": true
+    },
+    {
+      "text": "🍎",
+      "requested": "SF Pro Text",
+      "size": 20,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Apple Color Emoji",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 20.5,
+      "single_emoji_glyph": true
+    },
+    {
+      "text": "👍🏽",
+      "requested": "SF Pro Text",
+      "size": 20,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Apple Color Emoji",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 20.5,
+      "single_emoji_glyph": true
+    },
+    {
+      "text": "👩🏽‍💻",
+      "requested": "SF Pro Text",
+      "size": 20,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Apple Color Emoji",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 20.5,
+      "single_emoji_glyph": true
+    },
+    {
+      "text": "👨‍👩‍👧‍👦",
+      "requested": "SF Pro Text",
+      "size": 20,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Apple Color Emoji",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 20.5,
+      "single_emoji_glyph": true
+    },
+    {
+      "text": "🇨🇳",
+      "requested": "SF Pro Text",
+      "size": 20,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Apple Color Emoji",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 20.5,
+      "single_emoji_glyph": true
+    },
+    {
+      "text": "🇺🇸",
+      "requested": "SF Pro Text",
+      "size": 20,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Apple Color Emoji",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 20.5,
+      "single_emoji_glyph": true
+    },
+    {
+      "text": "❤️",
+      "requested": "SF Pro Text",
+      "size": 20,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Apple Color Emoji",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 20.5,
+      "single_emoji_glyph": true
+    },
+    {
+      "text": "❤️‍🔥",
+      "requested": "SF Pro Text",
+      "size": 20,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Apple Color Emoji",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 20.5,
+      "single_emoji_glyph": true
+    },
+    {
+      "text": "1️⃣",
+      "requested": "SF Pro Text",
+      "size": 20,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Apple Color Emoji",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 20.5,
+      "single_emoji_glyph": true
+    },
+    {
+      "text": "🏳️‍🌈",
+      "requested": "SF Pro Text",
+      "size": 20,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Apple Color Emoji",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 20.5,
+      "single_emoji_glyph": true
+    },
+    {
+      "text": "🫶",
+      "requested": "SF Pro Text",
+      "size": 20,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Apple Color Emoji",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 20.5,
+      "single_emoji_glyph": true
+    },
+    {
+      "text": "🙂‍↔️",
+      "requested": "SF Pro Text",
+      "size": 20,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Apple Color Emoji",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 20.5,
+      "single_emoji_glyph": true
+    },
+    {
+      "text": "🙂‍↕️",
+      "requested": "SF Pro Text",
+      "size": 20,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Apple Color Emoji",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 20.5,
+      "single_emoji_glyph": true
+    },
+    {
+      "text": "🐦‍🔥",
+      "requested": "SF Pro Text",
+      "size": 20,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Apple Color Emoji",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 20.5,
+      "single_emoji_glyph": true
+    },
+    {
+      "text": "🍋‍🟩",
+      "requested": "SF Pro Text",
+      "size": 20,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Apple Color Emoji",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 20.5,
+      "single_emoji_glyph": true
+    }
+  ],
+  "monospace_advances": [
+    {
+      "text": "i",
+      "requested": "SF Mono",
+      "size": 10,
+      "bold": false,
+      "runs": [
+        {
+          "font": "SF Mono",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 8.03125
+    },
+    {
+      "text": "W",
+      "requested": "SF Mono",
+      "size": 10,
+      "bold": false,
+      "runs": [
+        {
+          "font": "SF Mono",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 8.03125
+    },
+    {
+      "text": "0",
+      "requested": "SF Mono",
+      "size": 10,
+      "bold": false,
+      "runs": [
+        {
+          "font": "SF Mono",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 8.03125
+    },
+    {
+      "text": " ",
+      "requested": "SF Mono",
+      "size": 10,
+      "bold": false,
+      "runs": [
+        {
+          "font": "SF Mono",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 8.03125
+    },
+    {
+      "text": "中",
+      "requested": "SF Mono",
+      "size": 10,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Noto Sans Mono CJK SC",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 13.0
+    },
+    {
+      "text": "文",
+      "requested": "SF Mono",
+      "size": 10,
+      "bold": false,
+      "runs": [
+        {
+          "font": "Noto Sans Mono CJK SC",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 13.0
+    },
+    {
+      "text": "─",
+      "requested": "SF Mono",
+      "size": 10,
+      "bold": false,
+      "runs": [
+        {
+          "font": "SF Mono",
+          "style": "Regular",
+          "glyphs": 1,
+          "missing": 0
+        }
+      ],
+      "advance": 8.03125
+    }
+  ],
+  "configuration": "current user fontconfig; Qt offscreen rendering; no live desktop inspection"
+}
