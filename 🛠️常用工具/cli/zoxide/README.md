@@ -41,10 +41,34 @@ zoxide 只记录 `cd` 进去过的目录，新机器上索引是空的。[zoxide
 ```sh
 # /Users/zeke/workspace 往下两层，排除 old_work
 ./zoxide-index.sh -d 2 -e old_work /Users/zeke/workspace
-
-# 先预览会加入哪些目录
-./zoxide-index.sh -n -d 2 -e old_work /Users/zeke/workspace
 ```
+
+写入前先用树形展示要加入的目录，确认后才写入：
+
+```
+起始目录：/Users/zeke/workspace（往下 2 层）
+排除：.* *.app node_modules __pycache__ .venv venv dist build target vendor old_work
+
+/Users/zeke/workspace/  (已有)
+├── github_work/  (已有)
+│   ├── context-kit/
+│   └── telegram-dl/
+├── rust_work/  (已有)
+│   └── cache-setup/
+└── zed-fork-builds/
+
+共 102 个目录：新加入 14 个，已在索引 88 个（会加分）
+已在索引的目录只展示新目录的上级，加 -a 查看全部
+
+按 -e 排除了 1 个目录（连同其下内容）：
+  old_work/  (old_work)
+默认排除跳过了 7 个目录（隐藏目录、依赖和构建产物）
+
+确认加入 zoxide 索引？[y/N]
+```
+
+- 默认只列新目录；已在索引的目录只在作为新目录的上级时出现，标「(已有)」并显示为灰色。加 `-a` 列出全部。
+- 超过一屏时用 `less` 翻页，按 `q` 退出后回答确认；直接回车即取消。
 
 | 参数 | 说明 |
 | --- | --- |
@@ -52,8 +76,10 @@ zoxide 只记录 `cd` 进去过的目录，新机器上索引是空的。[zoxide
 | `-d, --depth N` | 往下扫描的层数，默认 2 |
 | `-e, --exclude 名称` | 排除该名称的目录及其下所有内容，可重复，支持通配符（如 `'old_*'`） |
 | `-i, --include 名称` | 不排除该名称的目录，可重复；用来加回默认排除的目录 |
-| `-n, --dry-run` | 只列出目录，不写入 |
+| `-n, --dry-run` | 只展示，不写入 |
+| `-a, --all` | 展示时也列出已在索引的目录（灰色） |
+| `-y, --yes` | 不询问直接写入；没有终端时（脚本里调用）必须加 |
 
-- 默认排除隐藏目录（`.*`）和 `node_modules`、`__pycache__`、`.venv`、`venv`、`dist`、`build`、`target`、`vendor`。
+- 默认排除隐藏目录（`.*`）、应用包（`*.app`）和 `node_modules`、`__pycache__`、`.venv`、`venv`、`dist`、`build`、`target`、`vendor`。
 - 名称按目录名（最后一级）匹配，`-i` 优先于 `-e` 和默认排除，例如 `-d 1 -i .config ~` 会加入 `~/.config`。
 - 重复运行只会给已有目录加分，不会产生重复条目。加入的目录初始分数为 1，日常 `cd` 过的目录会自然排在前面。
