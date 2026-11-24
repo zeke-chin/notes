@@ -10,4 +10,4 @@
 
 ## macOS 软件
 
-待补充。
+- [Zed](macos/zed/README.md)：代码编辑器（fork 版），备份了设置、快捷键和自定义主题。

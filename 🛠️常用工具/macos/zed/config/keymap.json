@@ -1,0 +1,50 @@
+// Zed keymap
+//
+// For information on binding keys, see the Zed
+// documentation: https://zed.dev/docs/key-bindings
+//
+// To see the default key bindings run `zed: open default keymap`
+// from the command palette.
+[
+  {
+    "context": "Workspace",
+    "bindings": {
+      // "shift shift": "file_finder::Toggle"
+      // ctrl-cmd-w 使用 fork 默认的跨窗口项目切换器。
+      // 项目侧栏（Toggle Sidebar），默认是 cmd-alt-j；会覆盖默认的 cmd-shift-b（大纲面板）
+      "cmd-shift-b": "multi_workspace::ToggleWorkspaceSidebar",
+      // cmd-b：打开并聚焦项目面板，已聚焦时关闭（替代默认的切换整个左侧 dock）
+      "cmd-b": "project_panel::Toggle",
+      // cmd-l：打开/隐藏 Agent 面板（默认 cmd-? 仍可用）
+      "cmd-l": "agent::Toggle",
+    },
+  },
+  {
+    // cmd-g 打开/聚焦 Git 面板（VS Code 是 ctrl-shift-g，Zed 默认也是，仍可用）。
+    // 默认 cmd-g 是“查找下一个”，绑在 Pane 上；这里也绑在 Pane 上才能在编辑器里覆盖它。
+    // Workspace 那条保证焦点在侧边面板里时也能用。
+    "context": "Pane",
+    "bindings": {
+      "cmd-g": "git_panel::ToggleFocus",
+    },
+  },
+  {
+    "context": "Workspace",
+    "bindings": {
+      "cmd-g": "git_panel::ToggleFocus",
+    },
+  },
+  {
+    // 编辑器里默认 cmd-l 是 editor::SelectLine，Editor 上下文更具体会盖过 Workspace，这里覆盖掉
+    "context": "Editor",
+    "bindings": {
+      "cmd-l": "agent::Toggle",
+    },
+  },
+  {
+    "context": "Editor && vim_mode == insert",
+    "bindings": {
+      // "j k": "vim::NormalBefore"
+    },
+  },
+]

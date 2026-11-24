@@ -1,0 +1,113 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "agent": {
+    "tool_permissions": {
+      "tools": {
+        "terminal": {
+          "default": "allow"
+        }
+      }
+    },
+    "default_profile": "ask",
+    "commit_message_instructions": "以下要求与上文的英文 Git 规范（50 字符、首字母大写、祈使句）冲突时，以以下要求为准。\n\n- 标题格式：`<type>: <中文摘要>`；需要标明模块时用 `<type>(<scope>): <中文摘要>`，scope 用简短英文模块名。\n- type 用英文，按实际改动选择：feat 新功能、fix 修复、refactor 重构、docs 文档、test 测试、style 格式、perf 性能、build 构建、ci 持续集成、chore 杂项维护。\n- 摘要明确说明做了什么，避免「更新代码」等空泛表述。摘要和正文用中文，代码标识符、技术名词保留英文。\n- 简单改动只写标题。内容较多、包含多个相关要点或需要解释原因时，写标题、一个空行、中文正文；正文可以是段落或列表，不重复标题，不虚构测试结果。\n- 完整信息一般控制在 255 字符以内。\n- 项目规则中关于 PR 标题的要求不适用于 commit 信息。\n- 只输出 commit 信息本身，纯文本，不用 markdown。",
+    "default_model": {
+      "provider": "deepseek",
+      "model": "deepseek-flash",
+      "enable_thinking": true,
+      "effort": "low"
+    },
+    "button": true,
+    "dock": "right",
+    "favorite_models": [],
+    "model_parameters": []
+  },
+  // 协作（通话/屏幕共享）在 fork 里已用 zed_no_webrtc 去掉，隐藏 Collab 面板按钮
+  "collaboration_panel": {
+    "button": false
+  },
+  "diff_view_style": "split",
+  "cli_default_open_behavior": "new_window",
+  "fork": {
+    "git_panel": {
+      "show_tags": false,
+      "show_remote_branches": true,
+      "layout": "vscode"
+    },
+    "copy_anchor": {
+      "context_mode": false
+    },
+    "windsurf": {
+      "api_key": "<YOUR_WINDSURF_API_KEY>"
+    },
+    "blame_popover": {
+       "style": "gitlens"
+     }
+  },
+  "project_panel": {
+    "dock": "left"
+  },
+  "git_panel": {
+    "tree_view": false,
+    "dock": "left",
+    "file_icons": true
+  },
+  "ui_font_size": 16,
+  "buffer_font_size": 14,
+  // 对应 VS Code 的 editor.bracketPairColorization，颜色取主题 accents
+  "colorize_brackets": true,
+  "buffer_font_family": "JetBrains Mono",
+  // 中文回退字体（Noto Sans Mono CJK SC 未安装，用系统自带的 PingFang SC）
+  "buffer_font_fallbacks": ["PingFang SC"],
+  "terminal": {
+    "font_family": "MesloLGS NF",
+  },
+  "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "JetBrains Darcula",
+  },
+  "icon_theme": {
+    "mode": "system",
+    "light": "Symbols Icon Theme",
+    "dark": "Symbols Icon Theme",
+  },
+  // 相当于 VS Code 的 files.exclude：完全不扫描、搜索不到、面板也不显示。
+  // "..." 表示在 Zed 内置默认值（.git/.svn/.hg/.DS_Store 等）基础上追加，
+  // 少了它会把内置规则整个覆盖掉。
+  "file_scan_exclusions": [
+    "...",
+    "**/__pycache__",
+    "**/.deepeval",
+    "**/.pytest_cache",
+    "**/.ruff_cache",
+    "**/.pytest_tmp",
+    "**/.mypy_cache",
+    "**/.tox",
+    "**/.venv",
+    "**/node_modules",
+    "**/.idea",
+    "**/.vscode",
+  ],
+  "markdown_preview": {
+    "max_width": 1200
+  },
+  // Python 用 ty（Astral）做类型检查、补全、跳转，ruff 做 lint/格式化；不用 basedpyright
+  "languages": {
+    "Python": {
+      "language_servers": ["ty", "ruff"]
+    }
+  },
+  "git": {
+    "inline_blame": {
+      "enabled": true,
+      "location": "inline"
+    }
+  }
+}
