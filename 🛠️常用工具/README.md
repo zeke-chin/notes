@@ -7,6 +7,7 @@
 - [Herdr](cli/herdr/README.md)：面向 AI 编程助手的终端多路复用工具。
 - [zoxide](cli/zoxide/README.md)：按使用频率跳转目录（`z` / `zi`），附批量建立索引的脚本。
 - [fzf](cli/fzf/README.md)：命令行模糊查找，`Ctrl-R` 搜历史、`Ctrl-T` 搜文件。
+- [sync-rules](cli/sync-rules/README.md)：将 `AGENTS.md`、`CLAUDE.md`（可选 `GEMINI.md`）统一收敛并软链接到 `.rules.md` 的脚本。
 
 ## macOS 软件
 
