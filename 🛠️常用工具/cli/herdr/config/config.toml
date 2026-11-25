@@ -5,7 +5,39 @@ split_vertical = "prefix+%"
 split_horizontal = 'prefix+"'
 
 [[keys.command]]
-key = "prefix+shift+a"
+key = "prefix+k"
 type = "plugin_action"
-command = "dev-shimada.auto-tab-name.sync-current"
-description = "rename tab to its directory"
+command = "herdr-bar.open"
+description = "command bar"
+
+[[keys.command]]
+key = "prefix+o"
+type = "plugin_action"
+command = "herdr-bar.open-dirs"
+description = "open a project"
+
+[ui]
+prompt_new_tab_name = false
+
+# Agent logos (herdr-bar "sidebar_logos" reports $logo) and names in brand colors.
+[ui.sidebar.agents]
+rows = [
+  ["state_icon", "machine", "workspace", "tab"],
+  [{ token = "$logo", rules = [
+  { equals = "\uE1A0", fg = "#D97757" },
+  { equals = "\uE1A1", fg = "#10A37F" },
+  { equals = "\uE1A2", fg = "#38BDF8" },
+  { equals = "\uE1A6", fg = "#9B8AFB" },
+  { equals = "\uE1AB", fg = "#A78BFA" },
+  { equals = "\uE1AE", fg = "#4285F4" },
+  { equals = "\uE1B2", fg = "#7298F3" },
+  ] }, { token = "agent", rules = [
+  { equals = "claude", fg = "#D97757" },
+  { equals = "codex", fg = "#10A37F" },
+  { equals = "opencode", fg = "#38BDF8" },
+  { equals = "kimi", fg = "#9B8AFB" },
+  { equals = "cursor", fg = "#A78BFA" },
+  { equals = "gemini", fg = "#4285F4" },
+  { equals = "agy", fg = "#7298F3" },
+  ] }],
+]

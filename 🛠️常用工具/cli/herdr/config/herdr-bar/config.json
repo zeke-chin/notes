@@ -1,0 +1,15 @@
+{
+  "auto_titles": true,
+  "follow_new_sessions": true,
+  "tab_status": false,
+  "layout": "tree",
+  "zoxide_commands": [
+    "claude",
+    "codex",
+    "agy",
+    "opencode",
+    "pi",
+    ""
+  ],
+  "sidebar_logos": true
+}
