@@ -11,3 +11,4 @@
 ## macOS 软件
 
 - [Zed](macos/zed/README.md)：代码编辑器（fork 版），备份了设置、快捷键和自定义主题。
+- [Karabiner-Elements](macos/karabiner-elements/README.md)：macOS 键盘改键与自动化工具，备份了键位映射、锁屏及 Ghostty 按 `Ctrl+b` 自动切英文规则。
