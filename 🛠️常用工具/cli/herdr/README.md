@@ -23,13 +23,13 @@ split_vertical = "prefix+%"
 split_horizontal = 'prefix+"'
 
 [[keys.command]]
-key = "prefix+k"
+key = ["prefix+k", "ctrl+cmd+w"]
 type = "plugin_action"
 command = "herdr-bar.open"
 description = "command bar"
 
 [[keys.command]]
-key = "prefix+o"
+key = ["prefix+o", "ctrl+cmd+o"]
 type = "plugin_action"
 command = "herdr-bar.open-dirs"
 description = "open a project"
@@ -38,14 +38,14 @@ description = "open a project"
 prompt_new_tab_name = false
 ```
 
-`prefix` 默认是 `Ctrl+b`，先按前缀键，再按对应按键：
+`prefix` 默认是 `Ctrl+b`，先按前缀键，再按对应按键；不带 `prefix+` 的写法（如 `ctrl+cmd+w`）为单次直达快捷键，依赖终端的 Kitty 键盘协议（Ghostty 原生支持且默认未占用这两个组合键），数组写法可同时保留 `prefix+` 兜底：
 
 | 按键 | 功能 |
 | --- | --- |
 | `Ctrl+b` → `%` | 垂直分割（左右分屏） |
 | `Ctrl+b` → `"` | 水平分割（上下分屏） |
-| `Ctrl+b` → `k` | herdr-bar 搜索栏（见下文） |
-| `Ctrl+b` → `o` | 用 zi 选目录，打开项目 workspace 并选择启动的 agent（见下文） |
+| `Ctrl+Cmd+w` / `Ctrl+b` → `k` | herdr-bar 搜索栏（见下文） |
+| `Ctrl+Cmd+o` / `Ctrl+b` → `o` | 用 zi 选目录，打开项目 workspace 并选择启动的 agent（见下文） |
 | `Ctrl+b` → `g` | 内置 Goto picker：按 workspace 分组列出所有 agent/终端，`/` 搜索，`b`/`w`/`i`/`d` 按状态筛选 |
 | `Ctrl+b` → `w` | workspace 导航 |
 | `Ctrl+b` → `Shift+n` / `Shift+w` | 新建 / 重命名 workspace |
@@ -61,7 +61,7 @@ herdr plugin install jeffarese/herdr-bar --yes
 herdr server reload-config
 ```
 
-- **搜索栏**（`Ctrl+b` → `k`）：模糊搜索 agent、tab、workspace、命名过的 pane，匹配标题、cwd、分支、agent 名。打开即可输入；最近访问排前面，回车即 alt-tab；右侧实时预览；`ctrl+r` 重命名，`delete` 关闭 tab；`@` `%` `$` `!` 筛选 agent / pane / 普通 tab / 需要处理的。
+- **搜索栏**（`Ctrl+Cmd+w` / `Ctrl+b` → `k`）：模糊搜索 agent、tab、workspace、命名过的 pane，匹配标题、cwd、分支、agent 名。打开即可输入；最近访问排前面，回车即 alt-tab；右侧实时预览；`ctrl+r` 重命名，`delete` 关闭 tab；`@` `%` `$` `!` 筛选 agent / pane / 普通 tab / 需要处理的。
 - **自动命名**：只有一个 agent 的 tab，用 agent 的任务标题（Claude、Codex、Pi、OpenCode、Copilot 等）命名。只改默认数字名或自己写过的名字，手动改过的保留。无 agent 的 tab 不动。
 
 配置：`herdr plugin config-dir herdr-bar` 下的 `config.json`，备份见 [config.json](config/herdr-bar/config.json)。
@@ -86,7 +86,7 @@ herdr server reload-config
 - 后台 watcher 每 2 秒检查一次；启停：`herdr plugin action invoke herdr-bar.start-titles` / `stop-titles`。
 - 若启用了其他改名插件，herdr-bar 会自动停止改名。
 
-### 打开新项目：`Ctrl+b o`（替代 zi → 启动 claude）
+### 打开新项目：`Ctrl+Cmd+o` / `Ctrl+b o`（替代 zi → 启动 claude）
 
 action `herdr-bar.open-dirs`：弹窗里运行 zoxide 自带的选择界面（`zoxide query --interactive`，即 `zi`），匹配、排序、预览都和终端里的 `zi` 一致。
 
@@ -170,6 +170,6 @@ herdr plugin install zeke-chin/herdr-auto-tab-name --yes
 
 远程模式下服务端、分屏和插件都在远端机器上运行，本地插件和配置不会同步过去，需要在远端机器上单独安装 herdr-bar 并写配置（容器里另加 `"agent_icons": "font"`，字体装在本地 Mac 上即可）。
 
-本地 `config.toml` 里的自定义命令快捷键（`[[keys.command]]`，如 `prefix+k`）在远程模式下不会发到远端，要用远端的按键配置：`herdr --remote <host> --remote-keybindings server`（只能用命令行参数指定）。内置快捷键（如 `prefix+g`）不受影响。
+本地 `config.toml` 里的自定义命令快捷键（`[[keys.command]]`，如 `prefix+k` / `ctrl+cmd+w`）在远程模式下不会发到远端，要用远端的按键配置：`herdr --remote <host> --remote-keybindings server`（只能用命令行参数指定），改自定义快捷键时需同步改远端 `~/.config/herdr/config.toml` 并 `herdr server reload-config`。内置快捷键（如 `prefix+g`）不受影响。
 
 来源：Codex 会话 `01a1777a-8c7f-76b2-b022-bda9215c8461`（最早的 Python 脚本方案）。

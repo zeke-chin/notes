@@ -5,13 +5,13 @@ split_vertical = "prefix+%"
 split_horizontal = 'prefix+"'
 
 [[keys.command]]
-key = "prefix+k"
+key = ["prefix+k", "ctrl+cmd+w"]
 type = "plugin_action"
 command = "herdr-bar.open"
 description = "command bar"
 
 [[keys.command]]
-key = "prefix+o"
+key = ["prefix+o", "ctrl+cmd+o"]
 type = "plugin_action"
 command = "herdr-bar.open-dirs"
 description = "open a project"
